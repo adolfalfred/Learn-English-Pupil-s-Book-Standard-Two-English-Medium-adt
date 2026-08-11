@@ -118,43 +118,6 @@
       }
     },
     {
-      "activityId": "pg010-sec001-response-item-1",
-      "href": "pg010_sec001.html",
-      "sectionId": "pg010_sec001",
-      "sectionTitle": "Singular and plural forms - word pairs and pictures",
-      "sourcePdfPage": 10,
-      "printedPage": "4",
-      "taskType": "picture-supported-language-response",
-      "expectedResponseCount": 1,
-      "expectedResponseType": "text-entered-by-keyboard-or-braille",
-      "sourceControlType": "input",
-      "sharedInclusiveInstruction": "(a)",
-      "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "braille-keyboard",
-        "operating-system-braille-input"
-      ],
-      "nativeBrailleInputAvailable": true,
-      "tactileResourceRequired": false,
-      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg010_im002_audio_description"
-      ],
-      "brailleCode": null,
-      "translationTable": null,
-      "sixKeyInputEnabled": false,
-      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
-      "educatorReview": {
-        "approvedInclusiveInstruction": null,
-        "approvedBrailleCode": null,
-        "approvedTranslationTable": null,
-        "reviewer": null,
-        "reviewDate": null,
-        "notes": null
-      }
-    },
-    {
       "activityId": "pg010-sec001-response-item-2",
       "href": "pg010_sec001.html",
       "sectionId": "pg010_sec001",
@@ -843,43 +806,6 @@
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
         "pg014_im001_audio_description"
-      ],
-      "brailleCode": null,
-      "translationTable": null,
-      "sixKeyInputEnabled": false,
-      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
-      "educatorReview": {
-        "approvedInclusiveInstruction": null,
-        "approvedBrailleCode": null,
-        "approvedTranslationTable": null,
-        "reviewer": null,
-        "reviewDate": null,
-        "notes": null
-      }
-    },
-    {
-      "activityId": "pg015-sec001-response-item-1",
-      "href": "pg014_sec002.html",
-      "sectionId": "pg015_sec001",
-      "sectionTitle": "Objects found at school - counting",
-      "sourcePdfPage": 15,
-      "printedPage": "9",
-      "taskType": "open-language-response",
-      "expectedResponseCount": 1,
-      "expectedResponseType": "text-entered-by-keyboard-or-braille",
-      "sourceControlType": "input",
-      "sharedInclusiveInstruction": "(a)",
-      "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "braille-keyboard",
-        "operating-system-braille-input"
-      ],
-      "nativeBrailleInputAvailable": true,
-      "tactileResourceRequired": false,
-      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg015_im001_audio_description"
       ],
       "brailleCode": null,
       "translationTable": null,
