@@ -3004,6 +3004,43 @@
       }
     },
     {
+      "activityId": "pg026-sec001-response-group-1",
+      "href": "pg026_sec001.html",
+      "sectionId": "pg026_sec001",
+      "sectionTitle": "Days of the week - song and ordering",
+      "sourcePdfPage": 26,
+      "printedPage": "20",
+      "taskType": "ordering",
+      "expectedResponseCount": 7,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "select",
+      "sharedInclusiveInstruction": "2. Arrange the following days of the week in the correct order.",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg026_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
       "activityId": "pg026-sec001-response-item-1",
       "href": "pg026_sec001.html",
       "sectionId": "pg026_sec001",
@@ -3026,44 +3063,6 @@
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
         "pg026_im001_audio_description"
-      ],
-      "brailleCode": null,
-      "translationTable": null,
-      "sixKeyInputEnabled": false,
-      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
-      "educatorReview": {
-        "approvedInclusiveInstruction": null,
-        "approvedBrailleCode": null,
-        "approvedTranslationTable": null,
-        "reviewer": null,
-        "reviewDate": null,
-        "notes": null
-      }
-    },
-    {
-      "activityId": "pg026-sec001-response-group-1",
-      "href": "pg026_sec001.html",
-      "sectionId": "pg026_sec001",
-      "sectionTitle": "Days of the week - song and ordering",
-      "sourcePdfPage": 26,
-      "printedPage": "20",
-      "taskType": "ordering",
-      "expectedResponseCount": 7,
-      "expectedResponseType": "text-entered-by-keyboard-or-braille",
-      "sourceControlType": "select",
-      "sharedInclusiveInstruction": "Enter the seven days in their correct order.",
-      "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "braille-keyboard",
-        "operating-system-braille-input"
-      ],
-      "nativeBrailleInputAvailable": true,
-      "tactileResourceRequired": false,
-      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg026_im001_audio_description",
-        "pg026_im002_audio_description"
       ],
       "brailleCode": null,
       "translationTable": null,
@@ -5366,6 +5365,41 @@
       }
     },
     {
+      "activityId": "pg053-sec001-response-group-1",
+      "href": "pg053_sec001.html",
+      "sectionId": "pg053_sec001",
+      "sectionTitle": "I delete sounds at the beginning of words",
+      "sourcePdfPage": 53,
+      "printedPage": "47",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 10,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "2. Delete the first sounds of the words in (1).",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
       "activityId": "pg053-sec001-response-item-1",
       "href": "pg053_sec001.html",
       "sectionId": "pg053_sec001",
@@ -5662,44 +5696,6 @@
       }
     },
     {
-      "activityId": "pg053-sec001-response-group-1",
-      "href": "pg053_sec001.html",
-      "sectionId": "pg053_sec001",
-      "sectionTitle": "I delete sounds at the beginning of words",
-      "sourcePdfPage": 53,
-      "printedPage": "47",
-      "taskType": "picture-supported-language-response",
-      "expectedResponseCount": 10,
-      "expectedResponseType": "text-entered-by-keyboard-or-braille",
-      "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Delete the first sound from each of the ten words in Activity 1.",
-      "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "braille-keyboard",
-        "operating-system-braille-input"
-      ],
-      "nativeBrailleInputAvailable": true,
-      "tactileResourceRequired": false,
-      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg053_im001_audio_description",
-        "pg053_im002_audio_description"
-      ],
-      "brailleCode": null,
-      "translationTable": null,
-      "sixKeyInputEnabled": false,
-      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
-      "educatorReview": {
-        "approvedInclusiveInstruction": null,
-        "approvedBrailleCode": null,
-        "approvedTranslationTable": null,
-        "reviewer": null,
-        "reviewDate": null,
-        "notes": null
-      }
-    },
-    {
       "activityId": "pg054-sec001-response-group-1",
       "href": "pg054_sec001.html",
       "sectionId": "pg054_sec001",
@@ -5710,7 +5706,7 @@
       "expectedResponseCount": 11,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the 11 responses requested in this section, in source order.",
+      "sharedInclusiveInstruction": "2. Delete the first sounds of the words in (1).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5720,9 +5716,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg054_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -5747,7 +5741,7 @@
       "expectedResponseCount": 4,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the 4 responses requested in this section, in source order.",
+      "sharedInclusiveInstruction": "2. Delete the last sounds of the words in (1).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5757,9 +5751,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg054_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -5781,10 +5773,45 @@
       "sourcePdfPage": 55,
       "printedPage": "49",
       "taskType": "word-formation",
-      "expectedResponseCount": 13,
+      "expectedResponseCount": 9,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the 13 responses requested in this section, in source order.",
+      "sharedInclusiveInstruction": "2. Delete the last sound of the words in (1).",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg055-sec001-response-item-1",
+      "href": "pg055_sec001.html",
+      "sectionId": "pg055_sec001",
+      "sectionTitle": "Deleting end sounds - continued",
+      "sourcePdfPage": 55,
+      "printedPage": "49",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "(a) (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5795,8 +5822,118 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg055_im001_audio_description",
-        "pg055_im002_audio_description"
+        "pg055_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg055-sec001-response-item-2",
+      "href": "pg055_sec001.html",
+      "sectionId": "pg055_sec001",
+      "sectionTitle": "Deleting end sounds - continued",
+      "sourcePdfPage": 55,
+      "printedPage": "49",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "(a) (b)",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg055_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg055-sec001-response-item-3",
+      "href": "pg055_sec001.html",
+      "sectionId": "pg055_sec001",
+      "sectionTitle": "Deleting end sounds - continued",
+      "sourcePdfPage": 55,
+      "printedPage": "49",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "(c) (d)",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg055_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg055-sec001-response-item-4",
+      "href": "pg055_sec001.html",
+      "sectionId": "pg055_sec001",
+      "sectionTitle": "Deleting end sounds - continued",
+      "sourcePdfPage": 55,
+      "printedPage": "49",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "(c) (d)",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg055_im001_audio_description"
       ],
       "brailleCode": null,
       "translationTable": null,
@@ -6488,7 +6625,7 @@
       "expectedResponseCount": 2,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "textarea",
-      "sharedInclusiveInstruction": "Write as many correct words as possible by adding a sound to the beginning of 'and' and 'end'.",
+      "sharedInclusiveInstruction": "2. Add a sound at the beginning of the words and and end. Make as many correct words as possible.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6498,10 +6635,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg058_im001_audio_description",
-        "pg058_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -6748,7 +6882,7 @@
       "expectedResponseCount": 3,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the three words formed by adding a sound to the end of car, far and no.",
+      "sharedInclusiveInstruction": "2. Add a sound to the end of the words in (1).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6783,7 +6917,7 @@
       "expectedResponseCount": 4,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the four words formed by adding t.",
+      "sharedInclusiveInstruction": "3. Add the letter sound t to the end of the words in (1).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6793,9 +6927,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg060_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -6820,7 +6952,7 @@
       "expectedResponseCount": 4,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "textarea",
-      "sharedInclusiveInstruction": "Write one sentence for each new word.",
+      "sharedInclusiveInstruction": "5. Make one sentence for each word you have formed in (3).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6830,9 +6962,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg060_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -7301,7 +7431,7 @@
       "expectedResponseCount": 6,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the six words made by replacing each initial sound in Activity 2.",
+      "sharedInclusiveInstruction": "3. Replace the initial sound of each word in (1).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7311,10 +7441,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg062_im001_audio_description",
-        "pg062_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -7339,7 +7466,7 @@
       "expectedResponseCount": 5,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the five words formed by replacing the initial sounds in Activity 3.",
+      "sharedInclusiveInstruction": "2. Read aloud the words in the table. Then, replace the initial sounds with appropriate sounds of the letters in (1).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7350,7 +7477,6 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg062_im001_audio_description",
         "pg062_im002_audio_description"
       ],
       "brailleCode": null,
@@ -7377,7 +7503,7 @@
       "expectedResponseCount": 5,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Form five new words by replacing the initial sound of hug.",
+      "sharedInclusiveInstruction": "Form five new words by replacing the initial sound of the word hug.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7414,7 +7540,7 @@
       "expectedResponseCount": 7,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the seven words made by replacing each middle sound.",
+      "sharedInclusiveInstruction": "2. Replace the middle sound of the words in (1).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7424,9 +7550,42 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg063_im002_audio_description"
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg064-sec001-response-group-1",
+      "href": "pg064_sec001.html",
+      "sectionId": "pg064_sec001",
+      "sectionTitle": "Replacing middle sounds - Activity 2",
+      "sourcePdfPage": 64,
+      "printedPage": "58",
+      "taskType": "word-formation",
+      "expectedResponseCount": 9,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "2. Replace the middle sound of each word in (1).",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
       ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -7663,43 +7822,6 @@
       }
     },
     {
-      "activityId": "pg064-sec001-response-group-1",
-      "href": "pg064_sec001.html",
-      "sectionId": "pg064_sec001",
-      "sectionTitle": "Replacing middle sounds - Activity 2",
-      "sourcePdfPage": 64,
-      "printedPage": "58",
-      "taskType": "word-formation",
-      "expectedResponseCount": 9,
-      "expectedResponseType": "text-entered-by-keyboard-or-braille",
-      "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the nine words made by replacing their middle sounds.",
-      "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "braille-keyboard",
-        "operating-system-braille-input"
-      ],
-      "nativeBrailleInputAvailable": true,
-      "tactileResourceRequired": false,
-      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg064_im001_audio_description"
-      ],
-      "brailleCode": null,
-      "translationTable": null,
-      "sixKeyInputEnabled": false,
-      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
-      "educatorReview": {
-        "approvedInclusiveInstruction": null,
-        "approvedBrailleCode": null,
-        "approvedTranslationTable": null,
-        "reviewer": null,
-        "reviewDate": null,
-        "notes": null
-      }
-    },
-    {
       "activityId": "pg065-sec001-response-group-1",
       "href": "pg065_sec001.html",
       "sectionId": "pg065_sec001",
@@ -7710,7 +7832,7 @@
       "expectedResponseCount": 7,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the seven words made in Activity 3.",
+      "sharedInclusiveInstruction": "2. Replace the vowel sound of the words in (1).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7720,11 +7842,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg065_im001_audio_description",
-        "pg065_im002_audio_description",
-        "pg065_im003_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -7749,7 +7867,7 @@
       "expectedResponseCount": 8,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the eight Exercise 5 words made with the sound o.",
+      "sharedInclusiveInstruction": "1. Replace the middle sounds of the words with the letter sound o. Then, pronounce the new words formed.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7760,8 +7878,6 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg065_im001_audio_description",
-        "pg065_im002_audio_description",
         "pg065_im003_audio_description"
       ],
       "brailleCode": null,
@@ -7788,7 +7904,7 @@
       "expectedResponseCount": 8,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the eight Exercise 5 words made with the sound a.",
+      "sharedInclusiveInstruction": "2. Replace the vowel sounds of the words with the letter sound a. Then, pronounce the new words formed.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7825,7 +7941,42 @@
       "expectedResponseCount": 10,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the ten words made by replacing their final sounds.",
+      "sharedInclusiveInstruction": "2. Replace the final sounds of the words in (1).",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg067-sec001-response-group-1",
+      "href": "pg067_sec001.html",
+      "sectionId": "pg067_sec001",
+      "sectionTitle": "Replacing final sounds - Exercise 6",
+      "sourcePdfPage": 67,
+      "printedPage": "61",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 7,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "1. Replace the final sounds of the words in the table. Then, write the new words in your exercise book.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7836,8 +7987,7 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg066_im002_audio_description",
-        "pg066_im003_audio_description"
+        "pg067_im001_audio_description"
       ],
       "brailleCode": null,
       "translationTable": null,
@@ -8133,44 +8283,6 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg067_im002_audio_description"
-      ],
-      "brailleCode": null,
-      "translationTable": null,
-      "sixKeyInputEnabled": false,
-      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
-      "educatorReview": {
-        "approvedInclusiveInstruction": null,
-        "approvedBrailleCode": null,
-        "approvedTranslationTable": null,
-        "reviewer": null,
-        "reviewDate": null,
-        "notes": null
-      }
-    },
-    {
-      "activityId": "pg067-sec001-response-group-1",
-      "href": "pg067_sec001.html",
-      "sectionId": "pg067_sec001",
-      "sectionTitle": "Replacing final sounds - Exercise 6",
-      "sourcePdfPage": 67,
-      "printedPage": "61",
-      "taskType": "picture-supported-language-response",
-      "expectedResponseCount": 7,
-      "expectedResponseType": "text-entered-by-keyboard-or-braille",
-      "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the seven new words for Exercise 6.",
-      "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "braille-keyboard",
-        "operating-system-braille-input"
-      ],
-      "nativeBrailleInputAvailable": true,
-      "tactileResourceRequired": false,
-      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg067_im001_audio_description",
         "pg067_im002_audio_description"
       ],
       "brailleCode": null,
@@ -9063,7 +9175,7 @@
       "expectedResponseCount": 10,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Add five words ending in s to each of the two columns.",
+      "sharedInclusiveInstruction": "2. Add five other words in each column. Then, read them aloud.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9073,10 +9185,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg076_im001_audio_description",
-        "pg076_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -9101,7 +9210,7 @@
       "expectedResponseCount": 5,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Add five words ending in es.",
+      "sharedInclusiveInstruction": "2. Add five words ending with -es to the list. Then, read them aloud.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9111,10 +9220,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg076_im001_audio_description",
-        "pg076_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -9139,7 +9245,7 @@
       "expectedResponseCount": 10,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Add five words ending in ed to each of the two columns.",
+      "sharedInclusiveInstruction": "2. Add five words in each column and read them aloud.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9149,9 +9255,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg077_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -9176,7 +9280,7 @@
       "expectedResponseCount": 5,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Add five words to the Activity 4 list.",
+      "sharedInclusiveInstruction": "2. Add five words to the list and read them aloud.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9186,9 +9290,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg078_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
