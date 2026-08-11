@@ -17,7 +17,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "textarea",
-      "sharedInclusiveInstruction": "Look at the following pictures and talk about them. Item (a).",
+      "sharedInclusiveInstruction": "(a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -54,7 +54,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -91,7 +91,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -128,7 +128,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (a).",
+      "sharedInclusiveInstruction": "(a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -165,7 +165,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -202,7 +202,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -239,7 +239,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -276,7 +276,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "(e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -313,7 +313,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (f).",
+      "sharedInclusiveInstruction": "(f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -350,7 +350,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (g).",
+      "sharedInclusiveInstruction": "(g)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -387,7 +387,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (h).",
+      "sharedInclusiveInstruction": "(h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -424,7 +424,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (i).",
+      "sharedInclusiveInstruction": "(i)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -461,7 +461,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (j).",
+      "sharedInclusiveInstruction": "(j)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -498,7 +498,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (k).",
+      "sharedInclusiveInstruction": "(k)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -535,7 +535,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -572,7 +572,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -609,7 +609,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -646,7 +646,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "(e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -683,7 +683,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (a).",
+      "sharedInclusiveInstruction": "(a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -720,7 +720,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -757,7 +757,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -794,7 +794,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -831,7 +831,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "(e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -868,7 +868,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (a).",
+      "sharedInclusiveInstruction": "(a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -905,7 +905,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -942,7 +942,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -979,7 +979,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1016,7 +1016,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "(e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1053,7 +1053,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (f).",
+      "sharedInclusiveInstruction": "(f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1090,7 +1090,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (a).",
+      "sharedInclusiveInstruction": "(a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1127,7 +1127,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1164,7 +1164,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1201,7 +1201,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1238,7 +1238,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (a).",
+      "sharedInclusiveInstruction": "(a) apple apples",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1275,7 +1275,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(b) banana bananas",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1312,7 +1312,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1349,7 +1349,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1386,7 +1386,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "(e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1423,7 +1423,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (f).",
+      "sharedInclusiveInstruction": "(f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1460,7 +1460,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (g).",
+      "sharedInclusiveInstruction": "(g)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1497,7 +1497,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (h).",
+      "sharedInclusiveInstruction": "(h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1534,7 +1534,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (i).",
+      "sharedInclusiveInstruction": "(i)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1571,7 +1571,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (a).",
+      "sharedInclusiveInstruction": "(a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1608,7 +1608,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1645,7 +1645,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1682,7 +1682,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1719,7 +1719,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "(e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1756,7 +1756,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (f).",
+      "sharedInclusiveInstruction": "(f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1793,7 +1793,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (g).",
+      "sharedInclusiveInstruction": "(g)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1830,7 +1830,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (h).",
+      "sharedInclusiveInstruction": "(h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1867,7 +1867,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (i).",
+      "sharedInclusiveInstruction": "(i)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1904,7 +1904,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (a).",
+      "sharedInclusiveInstruction": "(a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1941,7 +1941,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1978,7 +1978,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2015,7 +2015,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item blank 2.",
+      "sharedInclusiveInstruction": "blank 2",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2052,7 +2052,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 1.",
+      "sharedInclusiveInstruction": "1. flag 10. baby",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2089,7 +2089,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 10.",
+      "sharedInclusiveInstruction": "1. flag 10. baby",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2126,7 +2126,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 2.",
+      "sharedInclusiveInstruction": "2. flowers 11. party",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2163,7 +2163,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 11.",
+      "sharedInclusiveInstruction": "2. flowers 11. party",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2200,7 +2200,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 3.",
+      "sharedInclusiveInstruction": "3. bird 12. boxes",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2237,7 +2237,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 12.",
+      "sharedInclusiveInstruction": "3. bird 12. boxes",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2274,7 +2274,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 4.",
+      "sharedInclusiveInstruction": "4. fox 13. spy",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2311,7 +2311,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 13.",
+      "sharedInclusiveInstruction": "4. fox 13. spy",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2348,7 +2348,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 5.",
+      "sharedInclusiveInstruction": "5. banana 14. glass",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2385,7 +2385,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 14.",
+      "sharedInclusiveInstruction": "5. banana 14. glass",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2422,7 +2422,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 6.",
+      "sharedInclusiveInstruction": "6. berries 15. cities",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2459,7 +2459,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 15.",
+      "sharedInclusiveInstruction": "6. berries 15. cities",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2496,7 +2496,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 7.",
+      "sharedInclusiveInstruction": "7. pen 16. dishes",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2533,7 +2533,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 16.",
+      "sharedInclusiveInstruction": "7. pen 16. dishes",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2570,7 +2570,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 8.",
+      "sharedInclusiveInstruction": "8. batteries 17. class",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2607,7 +2607,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 17.",
+      "sharedInclusiveInstruction": "8. batteries 17. class",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2644,7 +2644,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 9.",
+      "sharedInclusiveInstruction": "9. book 18. street",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2681,7 +2681,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 18.",
+      "sharedInclusiveInstruction": "9. book 18. street",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2718,7 +2718,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (a).",
+      "sharedInclusiveInstruction": "(a) This ruler is long. These rulers are long.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2755,7 +2755,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(b) A plane flies very high.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2792,7 +2792,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(c) A school bus is yellow.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2829,7 +2829,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d) Our classroom is very",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2866,7 +2866,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "(e) John bought an apple.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2903,7 +2903,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (f).",
+      "sharedInclusiveInstruction": "(f) A pupil is in the",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2940,7 +2940,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (g).",
+      "sharedInclusiveInstruction": "(g) An elephant is the",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2977,7 +2977,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (h).",
+      "sharedInclusiveInstruction": "(h) A carpenter made a",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3014,7 +3014,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer the song question: What day is it today?. Item blank 1.",
+      "sharedInclusiveInstruction": "blank 1",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3089,7 +3089,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 2.",
+      "sharedInclusiveInstruction": "2.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3126,7 +3126,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 3.",
+      "sharedInclusiveInstruction": "3.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3163,7 +3163,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 4.",
+      "sharedInclusiveInstruction": "4.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3200,7 +3200,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer questions 5 to 7 from Activity 3. Item 5.",
+      "sharedInclusiveInstruction": "5.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3237,7 +3237,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer questions 5 to 7 from Activity 3. Item 6.",
+      "sharedInclusiveInstruction": "6.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3274,7 +3274,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer questions 5 to 7 from Activity 3. Item 7.",
+      "sharedInclusiveInstruction": "7.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3311,7 +3311,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer what you normally do on each of the seven days. Item (a).",
+      "sharedInclusiveInstruction": "(a) Monday",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3346,7 +3346,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer what you normally do on each of the seven days. Item (b).",
+      "sharedInclusiveInstruction": "(b) Tuesday",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3381,7 +3381,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer what you normally do on each of the seven days. Item (c).",
+      "sharedInclusiveInstruction": "(c) Wednesday",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3416,7 +3416,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer what you normally do on each of the seven days. Item (d).",
+      "sharedInclusiveInstruction": "(d) Thursday",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3451,7 +3451,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer what you normally do on each of the seven days. Item (e).",
+      "sharedInclusiveInstruction": "(e) Friday",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3486,7 +3486,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer what you normally do on each of the seven days. Item (f).",
+      "sharedInclusiveInstruction": "(f) Saturday",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3521,7 +3521,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer what you normally do on each of the seven days. Item (g).",
+      "sharedInclusiveInstruction": "(g) Sunday",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3556,7 +3556,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item blank 1.",
+      "sharedInclusiveInstruction": "blank 1",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3593,7 +3593,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the eleven missing numbers or months in the table. Item Number for May.",
+      "sharedInclusiveInstruction": "Number for May",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3630,7 +3630,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the eleven missing numbers or months in the table. Item Month numbered 6.",
+      "sharedInclusiveInstruction": "Month numbered 6",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3667,7 +3667,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the eleven missing numbers or months in the table. Item Month numbered 8.",
+      "sharedInclusiveInstruction": "Month numbered 8",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3704,7 +3704,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the eleven missing numbers or months in the table. Item Number for December.",
+      "sharedInclusiveInstruction": "Number for December",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3741,7 +3741,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the eleven missing numbers or months in the table. Item Number for February.",
+      "sharedInclusiveInstruction": "Number for February",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3778,7 +3778,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the eleven missing numbers or months in the table. Item Month numbered 7.",
+      "sharedInclusiveInstruction": "Month numbered 7",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3815,7 +3815,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the eleven missing numbers or months in the table. Item Number for March.",
+      "sharedInclusiveInstruction": "Number for March",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3852,7 +3852,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the eleven missing numbers or months in the table. Item Month numbered 10.",
+      "sharedInclusiveInstruction": "Month numbered 10",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3889,7 +3889,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the eleven missing numbers or months in the table. Item Number for September.",
+      "sharedInclusiveInstruction": "Number for September",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3926,7 +3926,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the eleven missing numbers or months in the table. Item Month numbered 11.",
+      "sharedInclusiveInstruction": "Month numbered 11",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3963,7 +3963,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the eleven missing numbers or months in the table. Item Number for April.",
+      "sharedInclusiveInstruction": "Number for April",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4000,7 +4000,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 2.",
+      "sharedInclusiveInstruction": "2. When does Sophia take Jonas to school?",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4035,7 +4035,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 3.",
+      "sharedInclusiveInstruction": "3. When does Aisha celebrate her birthday?",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4070,7 +4070,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 4.",
+      "sharedInclusiveInstruction": "4. When do Joshua and Neema visit their uncle?",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4105,7 +4105,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 5.",
+      "sharedInclusiveInstruction": "5. When does Ngosi prepare his farm?",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4140,7 +4140,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 6.",
+      "sharedInclusiveInstruction": "6. When do Amina and Baraka sell fruits?",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4175,7 +4175,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 7.",
+      "sharedInclusiveInstruction": "7. When does Aisha celebrate the union of Tanganyika\nand Zanzibar?",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4210,7 +4210,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 8.",
+      "sharedInclusiveInstruction": "8. When do Sadick and Maria plant trees?",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4245,7 +4245,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 9.",
+      "sharedInclusiveInstruction": "9. When does Tunu spend her holiday with her\ngrandparents?",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4280,7 +4280,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 10.",
+      "sharedInclusiveInstruction": "10. When do Zuhura and Marko attend Nane Nane\nCelebrations?",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4315,7 +4315,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 11.",
+      "sharedInclusiveInstruction": "11. When do Imani and Zainab visit national parks?",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4350,7 +4350,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 12.",
+      "sharedInclusiveInstruction": "12. When do Ayla and Jesca attend Independence Day\nCelebrations?",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4385,7 +4385,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (a).",
+      "sharedInclusiveInstruction": "(a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4422,7 +4422,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4459,7 +4459,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4496,7 +4496,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4533,7 +4533,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "(e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4560,17 +4560,17 @@
       }
     },
     {
-      "activityId": "pg039-sec001-response-group-1",
+      "activityId": "pg039-sec001-response-item-6",
       "href": "pg039_sec001.html",
       "sectionId": "pg039_sec001",
       "sectionTitle": "Daily activities - conversation practice",
       "sourcePdfPage": 39,
       "printedPage": "33",
       "taskType": "open-language-response",
-      "expectedResponseCount": 4,
+      "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Write what you normally do in the morning, afternoon, evening and at night.",
+      "sharedInclusiveInstruction": "(a) Morning",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4580,14 +4580,112 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg039_im001_audio_description",
-        "pg039_im002_audio_description",
-        "pg039_im003_audio_description",
-        "pg039_im004_audio_description",
-        "pg039_im005_audio_description",
-        "pg039_im006_audio_description"
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg039-sec001-response-item-7",
+      "href": "pg039_sec001.html",
+      "sectionId": "pg039_sec001",
+      "sectionTitle": "Daily activities - conversation practice",
+      "sourcePdfPage": 39,
+      "printedPage": "33",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "(b) Afternoon",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
       ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg039-sec001-response-item-8",
+      "href": "pg039_sec001.html",
+      "sectionId": "pg039_sec001",
+      "sectionTitle": "Daily activities - conversation practice",
+      "sourcePdfPage": 39,
+      "printedPage": "33",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "(c) Evening",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg039-sec001-response-item-9",
+      "href": "pg039_sec001.html",
+      "sectionId": "pg039_sec001",
+      "sectionTitle": "Daily activities - conversation practice",
+      "sourcePdfPage": 39,
+      "printedPage": "33",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "(d) Night",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -4612,7 +4710,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (a).",
+      "sharedInclusiveInstruction": "(a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4649,7 +4747,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4686,7 +4784,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4723,7 +4821,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4760,7 +4858,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the four remaining pictured events. Item (b).",
+      "sharedInclusiveInstruction": "(b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4797,7 +4895,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the four remaining pictured events. Item blank 2.",
+      "sharedInclusiveInstruction": "blank 2",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4834,7 +4932,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the four remaining pictured events. Item (d).",
+      "sharedInclusiveInstruction": "(d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4871,7 +4969,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the four remaining pictured events. Item (e).",
+      "sharedInclusiveInstruction": "(e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4908,7 +5006,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (a).",
+      "sharedInclusiveInstruction": "(a) (b) (c) (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4945,7 +5043,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(a) (b) (c) (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4982,7 +5080,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(a) (b) (c) (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5019,7 +5117,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(a) (b) (c) (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5056,7 +5154,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (a).",
+      "sharedInclusiveInstruction": "(a) (b) (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5093,7 +5191,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(a) (b) (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5130,7 +5228,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(a) (b) (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5167,7 +5265,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d) (e) (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5204,7 +5302,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "(d) (e) (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5241,7 +5339,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (f).",
+      "sharedInclusiveInstruction": "(d) (e) (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5278,7 +5376,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (a).",
+      "sharedInclusiveInstruction": "(a) (b) (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5315,7 +5413,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (b).",
+      "sharedInclusiveInstruction": "(a) (b) (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5352,7 +5450,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (c).",
+      "sharedInclusiveInstruction": "(a) (b) (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5389,7 +5487,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (d).",
+      "sharedInclusiveInstruction": "(d) (e) (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5426,7 +5524,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (e).",
+      "sharedInclusiveInstruction": "(d) (e) (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5463,7 +5561,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (f).",
+      "sharedInclusiveInstruction": "(d) (e) (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5500,7 +5598,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (g).",
+      "sharedInclusiveInstruction": "(g) (h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5537,7 +5635,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (h).",
+      "sharedInclusiveInstruction": "(g) (h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5724,7 +5822,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 1.",
+      "sharedInclusiveInstruction": "1. car, cart",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5761,7 +5859,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 2.",
+      "sharedInclusiveInstruction": "2. dog, dot",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5798,7 +5896,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 3.",
+      "sharedInclusiveInstruction": "3. farm, arm",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5835,7 +5933,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 4.",
+      "sharedInclusiveInstruction": "4. car, card",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5872,7 +5970,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 5.",
+      "sharedInclusiveInstruction": "5. strain, train",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5909,7 +6007,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 6.",
+      "sharedInclusiveInstruction": "6. brain, rain",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5946,7 +6044,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 7.",
+      "sharedInclusiveInstruction": "7. team, tea",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5983,7 +6081,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 8.",
+      "sharedInclusiveInstruction": "8. start, star",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6020,7 +6118,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 9.",
+      "sharedInclusiveInstruction": "9. heat, eat",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6057,7 +6155,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item 10.",
+      "sharedInclusiveInstruction": "10. ant, pant",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6094,7 +6192,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (a).",
+      "sharedInclusiveInstruction": "(a) (b) (c) (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6131,7 +6229,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (b).",
+      "sharedInclusiveInstruction": "(a) (b) (c) (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6168,7 +6266,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (c).",
+      "sharedInclusiveInstruction": "(a) (b) (c) (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6205,7 +6303,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (d).",
+      "sharedInclusiveInstruction": "(a) (b) (c) (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6242,7 +6340,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (e).",
+      "sharedInclusiveInstruction": "(e) (f) (g) (h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6279,7 +6377,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (f).",
+      "sharedInclusiveInstruction": "(e) (f) (g) (h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6316,7 +6414,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (g).",
+      "sharedInclusiveInstruction": "(e) (f) (g) (h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6353,7 +6451,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (h).",
+      "sharedInclusiveInstruction": "(e) (f) (g) (h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6428,7 +6526,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (a).",
+      "sharedInclusiveInstruction": "(a) low",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6465,7 +6563,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(b) pot",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6502,7 +6600,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(c) lock",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6539,7 +6637,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d) lip",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6576,7 +6674,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "(e) rip",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6613,7 +6711,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (f).",
+      "sharedInclusiveInstruction": "(f) lick",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6759,7 +6857,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the twelve pictures in source order. Item (a).",
+      "sharedInclusiveInstruction": "(a) (b) (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6796,7 +6894,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the twelve pictures in source order. Item (b).",
+      "sharedInclusiveInstruction": "(a) (b) (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6833,7 +6931,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the twelve pictures in source order. Item (c).",
+      "sharedInclusiveInstruction": "(a) (b) (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6870,7 +6968,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the twelve pictures in source order. Item (d).",
+      "sharedInclusiveInstruction": "(d) (e) (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6907,7 +7005,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the twelve pictures in source order. Item (e).",
+      "sharedInclusiveInstruction": "(d) (e) (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6944,7 +7042,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the twelve pictures in source order. Item (f).",
+      "sharedInclusiveInstruction": "(d) (e) (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6981,7 +7079,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the twelve pictures in source order. Item (g).",
+      "sharedInclusiveInstruction": "(g) (h) (i)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7018,7 +7116,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the twelve pictures in source order. Item (h).",
+      "sharedInclusiveInstruction": "(g) (h) (i)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7055,7 +7153,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the twelve pictures in source order. Item (i).",
+      "sharedInclusiveInstruction": "(g) (h) (i)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7092,7 +7190,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the twelve pictures in source order. Item (j).",
+      "sharedInclusiveInstruction": "(j) (k) (l)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7129,7 +7227,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the twelve pictures in source order. Item (k).",
+      "sharedInclusiveInstruction": "(j) (k) (l)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7166,7 +7264,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the twelve pictures in source order. Item (l).",
+      "sharedInclusiveInstruction": "(j) (k) (l)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7353,7 +7451,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the six pictures shown on this section. Item (a).",
+      "sharedInclusiveInstruction": "(a) (b) (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7390,7 +7488,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the six pictures shown on this section. Item (b).",
+      "sharedInclusiveInstruction": "(a) (b) (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7427,7 +7525,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the six pictures shown on this section. Item (c).",
+      "sharedInclusiveInstruction": "(a) (b) (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7464,7 +7562,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the six pictures shown on this section. Item (d).",
+      "sharedInclusiveInstruction": "(d) (e) (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7501,7 +7599,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the six pictures shown on this section. Item (e).",
+      "sharedInclusiveInstruction": "(d) (e) (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7538,7 +7636,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the six pictures shown on this section. Item (f).",
+      "sharedInclusiveInstruction": "(d) (e) (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7765,7 +7863,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Write the word that matches each of the eight pictures on this page. Item (a).",
+      "sharedInclusiveInstruction": "(a) cap (f) hut",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7802,7 +7900,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Write the word that matches each of the eight pictures on this page. Item (f).",
+      "sharedInclusiveInstruction": "(a) cap (f) hut",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7839,7 +7937,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Write the word that matches each of the eight pictures on this page. Item (b).",
+      "sharedInclusiveInstruction": "(b) nose (g) wig",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7876,7 +7974,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Write the word that matches each of the eight pictures on this page. Item (g).",
+      "sharedInclusiveInstruction": "(b) nose (g) wig",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7913,7 +8011,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Write the word that matches each of the eight pictures on this page. Item (c).",
+      "sharedInclusiveInstruction": "(c) wheat (h) smile",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7950,7 +8048,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Write the word that matches each of the eight pictures on this page. Item (h).",
+      "sharedInclusiveInstruction": "(c) wheat (h) smile",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7987,7 +8085,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Write the word that matches each of the eight pictures on this page. Item (d).",
+      "sharedInclusiveInstruction": "(d) pan (i) match",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8024,7 +8122,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Write the word that matches each of the eight pictures on this page. Item (i).",
+      "sharedInclusiveInstruction": "(d) pan (i) match",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8099,7 +8197,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "(e) ship (j) teat",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8136,7 +8234,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (j).",
+      "sharedInclusiveInstruction": "(e) ship (j) teat",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8173,7 +8271,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d) A boat carries heavy loads.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8208,7 +8306,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "(e) Hoes and combs are tools.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8243,7 +8341,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (f).",
+      "sharedInclusiveInstruction": "(f) I saw snow on the peak of Mount Kilimanjaro.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8278,7 +8376,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the five sentences with the correct bracketed words. Item 1.",
+      "sharedInclusiveInstruction": "1.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8315,7 +8413,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the five sentences with the correct bracketed words. Item 2.",
+      "sharedInclusiveInstruction": "2.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8352,7 +8450,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the five sentences with the correct bracketed words. Item 3.",
+      "sharedInclusiveInstruction": "3.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8389,7 +8487,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the five sentences with the correct bracketed words. Item 4.",
+      "sharedInclusiveInstruction": "4.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8426,7 +8524,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the five sentences with the correct bracketed words. Item 5.",
+      "sharedInclusiveInstruction": "5.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8463,7 +8561,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(c) Healthy stew will make you strong.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8498,7 +8596,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d) Draw straight lines with your ruler.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8533,7 +8631,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "(e) We crossed the stream on our way home.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8568,7 +8666,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (a).",
+      "sharedInclusiveInstruction": "(a) (b) (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8605,7 +8703,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "(a) (b) (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8642,7 +8740,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "(a) (b) (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8679,7 +8777,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d) (e) (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8716,7 +8814,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "(d) (e) (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8753,7 +8851,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (f).",
+      "sharedInclusiveInstruction": "(d) (e) (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8790,7 +8888,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (h).",
+      "sharedInclusiveInstruction": "(h) It is fair to pay a fare.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8825,7 +8923,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "(d) You will hear them when they are near.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8860,7 +8958,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "(e) I play with peers all the time.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8895,7 +8993,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (f).",
+      "sharedInclusiveInstruction": "(f) The thief entered through the rear window.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8930,7 +9028,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (g).",
+      "sharedInclusiveInstruction": "(g) People shed tears when they cry.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9115,7 +9213,7 @@
       "expectedResponseCount": 10,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Add ten words to the Activity 5 list.",
+      "sharedInclusiveInstruction": "2. Add ten words to the list and read them aloud.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9125,10 +9223,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg079_im001_audio_description",
-        "pg079_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -9143,17 +9238,17 @@
       }
     },
     {
-      "activityId": "pg079-sec001-response-group-2",
+      "activityId": "pg079-sec001-response-item-1",
       "href": "pg079_sec001.html",
       "sectionId": "pg079_sec001",
       "sectionTitle": "Words with familiar suffixes - Activity 5 and Exercise 8",
       "sourcePdfPage": 79,
       "printedPage": "73",
       "taskType": "word-formation",
-      "expectedResponseCount": 12,
+      "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the six visible rows in each Exercise 8 suffix column.",
+      "sharedInclusiveInstruction": "Row (c), -s",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9164,7 +9259,6 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg079_im001_audio_description",
         "pg079_im002_audio_description"
       ],
       "brailleCode": null,
@@ -9181,17 +9275,17 @@
       }
     },
     {
-      "activityId": "pg080-sec001-response-group-1",
-      "href": "pg080_sec001.html",
-      "sectionId": "pg080_sec001",
-      "sectionTitle": "Exercise 8 - continued",
-      "sourcePdfPage": 80,
-      "printedPage": "74",
-      "taskType": "open-language-response",
-      "expectedResponseCount": 8,
+      "activityId": "pg079-sec001-response-item-2",
+      "href": "pg079_sec001.html",
+      "sectionId": "pg079_sec001",
+      "sectionTitle": "Words with familiar suffixes - Activity 5 and Exercise 8",
+      "sourcePdfPage": 79,
+      "printedPage": "73",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the four continuation rows in each -s and -es column.",
+      "sharedInclusiveInstruction": "Row (c), -es",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9202,7 +9296,709 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg080_im001_audio_description",
+        "pg079_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg079-sec001-response-item-3",
+      "href": "pg079_sec001.html",
+      "sectionId": "pg079_sec001",
+      "sectionTitle": "Words with familiar suffixes - Activity 5 and Exercise 8",
+      "sourcePdfPage": 79,
+      "printedPage": "73",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (d), -s",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg079_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg079-sec001-response-item-4",
+      "href": "pg079_sec001.html",
+      "sectionId": "pg079_sec001",
+      "sectionTitle": "Words with familiar suffixes - Activity 5 and Exercise 8",
+      "sourcePdfPage": 79,
+      "printedPage": "73",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (d), -es",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg079_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg079-sec001-response-item-5",
+      "href": "pg079_sec001.html",
+      "sectionId": "pg079_sec001",
+      "sectionTitle": "Words with familiar suffixes - Activity 5 and Exercise 8",
+      "sourcePdfPage": 79,
+      "printedPage": "73",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (e), -s",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg079_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg079-sec001-response-item-6",
+      "href": "pg079_sec001.html",
+      "sectionId": "pg079_sec001",
+      "sectionTitle": "Words with familiar suffixes - Activity 5 and Exercise 8",
+      "sourcePdfPage": 79,
+      "printedPage": "73",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (e), -es",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg079_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg079-sec001-response-item-7",
+      "href": "pg079_sec001.html",
+      "sectionId": "pg079_sec001",
+      "sectionTitle": "Words with familiar suffixes - Activity 5 and Exercise 8",
+      "sourcePdfPage": 79,
+      "printedPage": "73",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (f), -s",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg079_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg079-sec001-response-item-8",
+      "href": "pg079_sec001.html",
+      "sectionId": "pg079_sec001",
+      "sectionTitle": "Words with familiar suffixes - Activity 5 and Exercise 8",
+      "sourcePdfPage": 79,
+      "printedPage": "73",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (f), -es",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg079_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg079-sec001-response-item-9",
+      "href": "pg079_sec001.html",
+      "sectionId": "pg079_sec001",
+      "sectionTitle": "Words with familiar suffixes - Activity 5 and Exercise 8",
+      "sourcePdfPage": 79,
+      "printedPage": "73",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (g), -s",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg079_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg079-sec001-response-item-10",
+      "href": "pg079_sec001.html",
+      "sectionId": "pg079_sec001",
+      "sectionTitle": "Words with familiar suffixes - Activity 5 and Exercise 8",
+      "sourcePdfPage": 79,
+      "printedPage": "73",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (g), -es",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg079_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg079-sec001-response-item-11",
+      "href": "pg079_sec001.html",
+      "sectionId": "pg079_sec001",
+      "sectionTitle": "Words with familiar suffixes - Activity 5 and Exercise 8",
+      "sourcePdfPage": 79,
+      "printedPage": "73",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (h), -s",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg079_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg079-sec001-response-item-12",
+      "href": "pg079_sec001.html",
+      "sectionId": "pg079_sec001",
+      "sectionTitle": "Words with familiar suffixes - Activity 5 and Exercise 8",
+      "sourcePdfPage": 79,
+      "printedPage": "73",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (h), -es",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg079_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-1",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (i), -s",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-2",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (i), -es",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-3",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (j), -s",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-4",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (j), -es",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-5",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (k), -s",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-6",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (k), -es",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-7",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (l), -s",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-8",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (l), -es",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-9",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (b), -d",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
         "pg080_im002_audio_description"
       ],
       "brailleCode": null,
@@ -9219,17 +10015,17 @@
       }
     },
     {
-      "activityId": "pg080-sec001-response-group-2",
+      "activityId": "pg080-sec001-response-item-10",
       "href": "pg080_sec001.html",
       "sectionId": "pg080_sec001",
       "sectionTitle": "Exercise 8 - continued",
       "sourcePdfPage": 80,
       "printedPage": "74",
       "taskType": "open-language-response",
-      "expectedResponseCount": 18,
+      "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Add nine words to each Exercise 8 past-tense list.",
+      "sharedInclusiveInstruction": "Row (b), -ed",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9240,7 +10036,6 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg080_im001_audio_description",
         "pg080_im002_audio_description"
       ],
       "brailleCode": null,
@@ -9257,7 +10052,673 @@
       }
     },
     {
-      "activityId": "pg087-sec001-response-group-1",
+      "activityId": "pg080-sec001-response-item-11",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (c), -d",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-12",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (c), -ed",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-13",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (d), -d",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-14",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (d), -ed",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-15",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (e), -d",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-16",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (e), -ed",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-17",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (f), -d",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-18",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (f), -ed",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-19",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (g), -d",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-20",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (g), -ed",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-21",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (h), -d",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-22",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (h), -ed",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-23",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (i), -d",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-24",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (i), -ed",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-25",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (j), -d",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-26",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (j), -ed",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-27",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (k), -d",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg080-sec001-response-item-28",
+      "href": "pg080_sec001.html",
+      "sectionId": "pg080_sec001",
+      "sectionTitle": "Exercise 8 - continued",
+      "sourcePdfPage": 80,
+      "printedPage": "74",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Row (k), -ed",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg080_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg087-sec001-response-item-1",
       "href": "pg087_sec001.html",
       "sectionId": "pg087_sec001",
       "sectionTitle": "A Visit to Mikumi National Park - continued",
@@ -9267,7 +10728,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "textarea",
-      "sharedInclusiveInstruction": "Write sentences from the story that use an exclamation mark.",
+      "sharedInclusiveInstruction": "2. Write sentences with an exclamation mark (!) from\nthe story.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9277,10 +10738,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg087_im001_audio_description",
-        "pg087_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -9295,17 +10753,17 @@
       }
     },
     {
-      "activityId": "pg087-sec001-response-group-2",
+      "activityId": "pg087-sec001-response-item-2",
       "href": "pg087_sec001.html",
       "sectionId": "pg087_sec001",
       "sectionTitle": "A Visit to Mikumi National Park - continued",
       "sourcePdfPage": 87,
       "printedPage": "81",
       "taskType": "open-language-response",
-      "expectedResponseCount": 6,
+      "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Add the appropriate punctuation to each of the six sentences.",
+      "sharedInclusiveInstruction": "(a) We saw Ali John and Wambura",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9316,7 +10774,6 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg087_im001_audio_description",
         "pg087_im002_audio_description"
       ],
       "brailleCode": null,
@@ -9333,17 +10790,17 @@
       }
     },
     {
-      "activityId": "pg091-sec001-response-group-1",
-      "href": "pg091_sec001.html",
-      "sectionId": "pg091_sec001",
-      "sectionTitle": "Musa's birthday - questions and picture comprehension",
-      "sourcePdfPage": 91,
-      "printedPage": "85",
-      "taskType": "picture-supported-language-response",
-      "expectedResponseCount": 7,
+      "activityId": "pg087-sec001-response-item-3",
+      "href": "pg087_sec001.html",
+      "sectionId": "pg087_sec001",
+      "sectionTitle": "A Visit to Mikumi National Park - continued",
+      "sourcePdfPage": 87,
+      "printedPage": "81",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer the seven questions about Musa's birthday.",
+      "sharedInclusiveInstruction": "(b) Is this your brother",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9354,8 +10811,228 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg091_im001_audio_description",
-        "pg091_im002_audio_description",
+        "pg087_im003_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg087-sec001-response-item-4",
+      "href": "pg087_sec001.html",
+      "sectionId": "pg087_sec001",
+      "sectionTitle": "A Visit to Mikumi National Park - continued",
+      "sourcePdfPage": 87,
+      "printedPage": "81",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "(c) Singida Dodoma and Manyara are in Tanzania",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg087_im004_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg087-sec001-response-item-5",
+      "href": "pg087_sec001.html",
+      "sectionId": "pg087_sec001",
+      "sectionTitle": "A Visit to Mikumi National Park - continued",
+      "sourcePdfPage": 87,
+      "printedPage": "81",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "(d) What is your brother’s name",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg087_im005_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg087-sec001-response-item-6",
+      "href": "pg087_sec001.html",
+      "sectionId": "pg087_sec001",
+      "sectionTitle": "A Visit to Mikumi National Park - continued",
+      "sourcePdfPage": 87,
+      "printedPage": "81",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "(e) Jane lives on this street",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg087_im006_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg087-sec001-response-item-7",
+      "href": "pg087_sec001.html",
+      "sectionId": "pg087_sec001",
+      "sectionTitle": "A Visit to Mikumi National Park - continued",
+      "sourcePdfPage": 87,
+      "printedPage": "81",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "(f) Wow That is good news",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg087_im007_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg091-sec001-response-item-1",
+      "href": "pg091_sec001.html",
+      "sectionId": "pg091_sec001",
+      "sectionTitle": "Musa's birthday - questions and picture comprehension",
+      "sourcePdfPage": 91,
+      "printedPage": "85",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "1. How old is Musa?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg091_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg091-sec001-response-item-2",
+      "href": "pg091_sec001.html",
+      "sectionId": "pg091_sec001",
+      "sectionTitle": "Musa's birthday - questions and picture comprehension",
+      "sourcePdfPage": 91,
+      "printedPage": "85",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "2. What did Musa’s mother do in the morning of the",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
         "pg091_im003_audio_description"
       ],
       "brailleCode": null,
@@ -9372,17 +11049,202 @@
       }
     },
     {
-      "activityId": "pg092-sec001-response-group-1",
+      "activityId": "pg091-sec001-response-item-3",
+      "href": "pg091_sec001.html",
+      "sectionId": "pg091_sec001",
+      "sectionTitle": "Musa's birthday - questions and picture comprehension",
+      "sourcePdfPage": 91,
+      "printedPage": "85",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "3. What present did Musa receive from his mother?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg091_im004_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg091-sec001-response-item-4",
+      "href": "pg091_sec001.html",
+      "sectionId": "pg091_sec001",
+      "sectionTitle": "Musa's birthday - questions and picture comprehension",
+      "sourcePdfPage": 91,
+      "printedPage": "85",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "4. What present did Musa receive from his father?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg091_im005_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg091-sec001-response-item-5",
+      "href": "pg091_sec001.html",
+      "sectionId": "pg091_sec001",
+      "sectionTitle": "Musa's birthday - questions and picture comprehension",
+      "sourcePdfPage": 91,
+      "printedPage": "85",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "5. What did Musa and his friends do?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg091_im006_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg091-sec001-response-item-6",
+      "href": "pg091_sec001.html",
+      "sectionId": "pg091_sec001",
+      "sectionTitle": "Musa's birthday - questions and picture comprehension",
+      "sourcePdfPage": 91,
+      "printedPage": "85",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "6. When is your birthday?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg091_im007_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg091-sec001-response-item-7",
+      "href": "pg091_sec001.html",
+      "sectionId": "pg091_sec001",
+      "sectionTitle": "Musa's birthday - questions and picture comprehension",
+      "sourcePdfPage": 91,
+      "printedPage": "85",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "7. What do you like about Musa’s birthday?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg091_im008_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg092-sec001-response-item-1",
       "href": "pg092_sec001.html",
       "sectionId": "pg092_sec001",
       "sectionTitle": "Picture comprehension and football dialogue",
       "sourcePdfPage": 92,
       "printedPage": "86",
       "taskType": "picture-supported-language-response",
-      "expectedResponseCount": 6,
+      "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer the six questions about the football picture.",
+      "sharedInclusiveInstruction": "1. What do you see in the picture?",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9409,17 +11271,17 @@
       }
     },
     {
-      "activityId": "pg093-sec001-response-group-1",
-      "href": "pg093_sec001.html",
-      "sectionId": "pg093_sec001",
-      "sectionTitle": "Football questions and The magic tree",
-      "sourcePdfPage": 93,
-      "printedPage": "87",
-      "taskType": "sentence-writing",
-      "expectedResponseCount": 4,
+      "activityId": "pg092-sec001-response-item-2",
+      "href": "pg092_sec001.html",
+      "sectionId": "pg092_sec001",
+      "sectionTitle": "Picture comprehension and football dialogue",
+      "sourcePdfPage": 92,
+      "printedPage": "86",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer the four questions about the football dialogue.",
+      "sharedInclusiveInstruction": "2. What is happening in the picture?",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9430,7 +11292,228 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg093_im001_audio_description",
+        "pg092_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg092-sec001-response-item-3",
+      "href": "pg092_sec001.html",
+      "sectionId": "pg092_sec001",
+      "sectionTitle": "Picture comprehension and football dialogue",
+      "sourcePdfPage": 92,
+      "printedPage": "86",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "3. Who are involved in the activity happening in the picture?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg092_im003_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg092-sec001-response-item-4",
+      "href": "pg092_sec001.html",
+      "sectionId": "pg092_sec001",
+      "sectionTitle": "Picture comprehension and football dialogue",
+      "sourcePdfPage": 92,
+      "printedPage": "86",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "4. What colours do you see in the picture?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg092_im004_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg092-sec001-response-item-5",
+      "href": "pg092_sec001.html",
+      "sectionId": "pg092_sec001",
+      "sectionTitle": "Picture comprehension and football dialogue",
+      "sourcePdfPage": 92,
+      "printedPage": "86",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "5. What do you think the seated boys are doing?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg092_im005_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg092-sec001-response-item-6",
+      "href": "pg092_sec001.html",
+      "sectionId": "pg092_sec001",
+      "sectionTitle": "Picture comprehension and football dialogue",
+      "sourcePdfPage": 92,
+      "printedPage": "86",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "6. How many people are watching the match?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg092_im006_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg093-sec001-response-item-1",
+      "href": "pg093_sec001.html",
+      "sectionId": "pg093_sec001",
+      "sectionTitle": "Football questions and The magic tree",
+      "sourcePdfPage": 93,
+      "printedPage": "87",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "1. Who watched the football match?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg093_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg093-sec001-response-item-2",
+      "href": "pg093_sec001.html",
+      "sectionId": "pg093_sec001",
+      "sectionTitle": "Football questions and The magic tree",
+      "sourcePdfPage": 93,
+      "printedPage": "87",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "2. What are the two teams played the match?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
         "pg093_im002_audio_description"
       ],
       "brailleCode": null,
@@ -9447,17 +11530,17 @@
       }
     },
     {
-      "activityId": "pg095-sec001-response-group-1",
-      "href": "pg095_sec001.html",
-      "sectionId": "pg095_sec001",
-      "sectionTitle": "The magic tree - questions and poem",
-      "sourcePdfPage": 95,
-      "printedPage": "89",
+      "activityId": "pg093-sec001-response-item-3",
+      "href": "pg093_sec001.html",
+      "sectionId": "pg093_sec001",
+      "sectionTitle": "Football questions and The magic tree",
+      "sourcePdfPage": 93,
+      "printedPage": "87",
       "taskType": "sentence-writing",
-      "expectedResponseCount": 5,
+      "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer the five questions about The magic tree.",
+      "sharedInclusiveInstruction": "3. Which team won the match?",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9468,8 +11551,229 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg095_im001_audio_description",
+        "pg093_im003_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg093-sec001-response-item-4",
+      "href": "pg093_sec001.html",
+      "sectionId": "pg093_sec001",
+      "sectionTitle": "Football questions and The magic tree",
+      "sourcePdfPage": 93,
+      "printedPage": "87",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "4. Why was Baraka happy?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg093_im004_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg095-sec001-response-item-1",
+      "href": "pg095_sec001.html",
+      "sectionId": "pg095_sec001",
+      "sectionTitle": "The magic tree - questions and poem",
+      "sourcePdfPage": 95,
+      "printedPage": "89",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "1. Where did the king live?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg095_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg095-sec001-response-item-2",
+      "href": "pg095_sec001.html",
+      "sectionId": "pg095_sec001",
+      "sectionTitle": "The magic tree - questions and poem",
+      "sourcePdfPage": 95,
+      "printedPage": "89",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "2. Why did the king scream for help?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
         "pg095_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg095-sec001-response-item-3",
+      "href": "pg095_sec001.html",
+      "sectionId": "pg095_sec001",
+      "sectionTitle": "The magic tree - questions and poem",
+      "sourcePdfPage": 95,
+      "printedPage": "89",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "3. Who was the first person to arrive when the king",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg095_im003_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg095-sec001-response-item-4",
+      "href": "pg095_sec001.html",
+      "sectionId": "pg095_sec001",
+      "sectionTitle": "The magic tree - questions and poem",
+      "sourcePdfPage": 95,
+      "printedPage": "89",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "4. What did the king promise to be?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg095_im004_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg095-sec001-response-item-5",
+      "href": "pg095_sec001.html",
+      "sectionId": "pg095_sec001",
+      "sectionTitle": "The magic tree - questions and poem",
+      "sourcePdfPage": 95,
+      "printedPage": "89",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "5. What lesson do you learn from the story?",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg095_im005_audio_description"
       ],
       "brailleCode": null,
       "translationTable": null,
@@ -9495,7 +11799,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the three sentences using information from the poem. Item (a).",
+      "sharedInclusiveInstruction": "(a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9532,7 +11836,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the three sentences using information from the poem. Item (b).",
+      "sharedInclusiveInstruction": "(b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9569,7 +11873,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the three sentences using information from the poem. Item (c).",
+      "sharedInclusiveInstruction": "(c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
