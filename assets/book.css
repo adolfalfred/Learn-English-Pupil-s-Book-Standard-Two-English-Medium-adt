@@ -5,6 +5,8 @@ body { color: var(--book-ink); }
 main { padding: 1.5rem 0 9rem; }
 #content { width: min(100%, 80rem); min-height: 100vh; margin-inline: auto; min-width: 0; border-radius: .65rem; box-shadow: 0 1rem 3rem rgb(30 81 94 / .1); }
 .semantic-page { max-width: 72rem; margin: 0 auto; }
+.joined-page-segment { min-width: 0; scroll-margin-top: 2rem; }
+.joined-page-segment + .joined-page-segment { margin-top: clamp(3rem, 7vw, 5rem); padding-top: clamp(2rem, 5vw, 3rem); border-top: 2px solid #d8edf0; }
 .book-page-title { margin: 0 0 1.5rem; color: var(--book-pink); font-size: clamp(2rem, 5vw, 3.15rem); font-weight: 800; line-height: 1.1; text-wrap: balance; }
 .unit-banner { display: grid; gap: 1.15rem; margin-bottom: 2rem; padding: 0; color: inherit; text-align: center; }
 .unit-label { display: block; width: min(72%, 44rem); margin-inline: auto; box-sizing: border-box; border: 2px dashed var(--unit-border); border-radius: 1.35rem; background: var(--unit-bar); padding: .55rem 1.5rem .65rem; color: #fff; font-size: clamp(2.25rem, 5.5vw, 3.5rem); font-style: normal; font-weight: 800; line-height: 1.05; }
