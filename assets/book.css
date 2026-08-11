@@ -7,6 +7,8 @@ main { padding: 1.5rem 0 9rem; }
 .semantic-page { max-width: 72rem; margin: 0 auto; }
 .joined-page-segment { min-width: 0; scroll-margin-top: 2rem; }
 .joined-page-segment + .joined-page-segment { margin-top: clamp(3rem, 7vw, 5rem); padding-top: clamp(2rem, 5vw, 3rem); border-top: 2px solid #d8edf0; }
+.joined-page-segment:not(:last-child) > .printed-page-number { display: none; }
+#pg095_sec001-source > .source-panel-card:nth-of-type(-n + 5) { display: none; }
 .book-page-title { margin: 0 0 1.5rem; color: var(--book-pink); font-size: clamp(2rem, 5vw, 3.15rem); font-weight: 800; line-height: 1.1; text-wrap: balance; }
 .unit-banner { display: grid; gap: 1.15rem; margin-bottom: 2rem; padding: 0; color: inherit; text-align: center; }
 .unit-label { display: block; width: min(72%, 44rem); margin-inline: auto; box-sizing: border-box; border: 2px dashed var(--unit-border); border-radius: 1.35rem; background: var(--unit-bar); padding: .55rem 1.5rem .65rem; color: #fff; font-size: clamp(2.25rem, 5.5vw, 3.5rem); font-style: normal; font-weight: 800; line-height: 1.05; }
