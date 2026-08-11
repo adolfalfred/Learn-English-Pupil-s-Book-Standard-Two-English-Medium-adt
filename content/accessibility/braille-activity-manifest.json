@@ -11124,7 +11124,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "2. What did Musa’s mother do in the morning of the",
+      "sharedInclusiveInstruction": "2. What did Musa’s mother do in the morning of the 13th of January?",
       "inputMethods": [
         "keyboard",
         "braille-display",
