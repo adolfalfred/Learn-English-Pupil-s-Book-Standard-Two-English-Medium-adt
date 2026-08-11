@@ -1,0 +1,58 @@
+{
+  "title": "Learn English Pupil's Book Standard Two (Kiswahili Medium Schools)",
+  "bundleVersion": "40",
+  "languages": {
+    "available": [
+      "en-GB"
+    ],
+    "default": "en-GB"
+  },
+  "features": {
+    "signLanguage": false,
+    "easyRead": true,
+    "glossary": true,
+    "eli5": false,
+    "readAloud": true,
+    "autoplay": true,
+    "showTutorial": true,
+    "showNavigationControls": true,
+    "describeImages": true,
+    "notepad": false,
+    "state": true,
+    "characterDisplay": false,
+    "highlight": false,
+    "activities": true
+  },
+  "braille": {
+    "enabled": true,
+    "implementationPhase": "native-baseline-and-educator-review-manifest",
+    "nativeTextInput": true,
+    "drawingResponses": false,
+    "primaryResponseMethod": "keyboard-or-braille",
+    "sixKeyInput": false,
+    "translationTable": null,
+    "translationStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+    "activityManifest": "content/accessibility/braille-activity-manifest.json",
+    "sixKeyPilotStatus": "not-enabled-pending-specialist-approval"
+  },
+  "analytics": {
+    "enabled": false,
+    "siteId": 0
+  },
+  "defaultSettings": {
+    "dockLayout": {
+      "width": "full",
+      "position": "bottom",
+      "align": "spread"
+    },
+    "theme": "dark",
+    "iconSize": "md",
+    "reduceMotion": false
+  },
+  "lockedSettings": [
+    "dockLayout",
+    "theme",
+    "iconSize",
+    "reduceMotion"
+  ]
+}

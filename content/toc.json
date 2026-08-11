@@ -1,0 +1,758 @@
+[
+  {
+    "section_id": "cover_sec001",
+    "href": "index.html",
+    "title": "Front cover",
+    "chapter_id": "toc_cover_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg001_sec001",
+    "href": "pg001_sec001.html",
+    "title": "Title page",
+    "chapter_id": "toc_pg001_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg002_sec001",
+    "href": "pg002_sec001.html",
+    "title": "Page ii",
+    "chapter_id": "toc_pg002_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg003_sec001",
+    "href": "pg003_sec001.html",
+    "title": "Table of Contents",
+    "chapter_id": "toc_pg003_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg004_sec001",
+    "href": "pg004_sec001.html",
+    "title": "Table of Contents",
+    "chapter_id": "toc_pg004_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg005_sec001",
+    "href": "pg005_sec001.html",
+    "title": "Acknowledgements",
+    "chapter_id": "toc_pg005_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg006_sec001",
+    "href": "pg006_sec001.html",
+    "title": "Introduction",
+    "chapter_id": "toc_pg006_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg007_sec001",
+    "href": "pg007_sec001.html",
+    "title": "Unit One: Listening and speaking",
+    "chapter_id": "toc_pg007_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg008_sec001",
+    "href": "pg008_sec001.html",
+    "title": "I use singular and plural forms - Objects and things found at home",
+    "chapter_id": "toc_pg008_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg009_sec001",
+    "href": "pg009_sec001.html",
+    "title": "Singular and plural forms - song",
+    "chapter_id": "toc_pg009_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg010_sec001",
+    "href": "pg010_sec001.html",
+    "title": "Singular and plural forms - word pairs and pictures",
+    "chapter_id": "toc_pg010_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg011_sec001",
+    "href": "pg011_sec001.html",
+    "title": "Singular and plural forms - pictures continued",
+    "chapter_id": "toc_pg011_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg012_sec001",
+    "href": "pg012_sec001.html",
+    "title": "Singular and plural forms - complete sentences",
+    "chapter_id": "toc_pg012_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg013_sec001",
+    "href": "pg013_sec001.html",
+    "title": "Singular and plural forms - sentences and pictures continued",
+    "chapter_id": "toc_pg013_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg014_sec001",
+    "href": "pg014_sec001.html",
+    "title": "Objects and things found at home - continued",
+    "chapter_id": "toc_pg014_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg014_sec002",
+    "href": "pg014_sec002.html",
+    "title": "Objects found at school",
+    "chapter_id": "toc_pg014_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg015_sec001",
+    "href": "pg015_sec001.html",
+    "title": "Objects found at school - counting",
+    "chapter_id": "toc_pg015_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg016_sec001",
+    "href": "pg016_sec001.html",
+    "title": "Objects found at school - complete sentences",
+    "chapter_id": "toc_pg016_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg017_sec001",
+    "href": "pg017_sec001.html",
+    "title": "Objects and things found in other environments",
+    "chapter_id": "toc_pg017_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg018_sec001",
+    "href": "pg018_sec001.html",
+    "title": "Objects in other environments - continued",
+    "chapter_id": "toc_pg018_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg019_sec001",
+    "href": "pg019_sec001.html",
+    "title": "Counting objects and things",
+    "chapter_id": "toc_pg019_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg020_sec001",
+    "href": "pg020_sec001.html",
+    "title": "Counting objects and things - continued",
+    "chapter_id": "toc_pg020_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg021_sec001",
+    "href": "pg021_sec001.html",
+    "title": "Questions about quantities",
+    "chapter_id": "toc_pg021_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg022_sec001",
+    "href": "pg022_sec001.html",
+    "title": "Questions about quantities and a song",
+    "chapter_id": "toc_pg022_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg023_sec001",
+    "href": "pg023_sec001.html",
+    "title": "Singular and plural forms - song and dialogue",
+    "chapter_id": "toc_pg023_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg024_sec001",
+    "href": "pg024_sec001.html",
+    "title": "Singular and plural forms - dialogue and Exercise 1",
+    "chapter_id": "toc_pg024_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg025_sec001",
+    "href": "pg025_sec001.html",
+    "title": "Exercise 1 - plural sentences",
+    "chapter_id": "toc_pg025_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg025_sec002",
+    "href": "pg025_sec002.html",
+    "title": "I listen and respond to simple sentences",
+    "chapter_id": "toc_pg025_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg026_sec001",
+    "href": "pg026_sec001.html",
+    "title": "Listening and responding - continued",
+    "chapter_id": "toc_pg026_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg027_sec001",
+    "href": "pg027_sec001.html",
+    "title": "Unit Two: Letter sounds",
+    "chapter_id": "toc_pg027_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg027_sec002",
+    "href": "pg027_sec002.html",
+    "title": "I use different sounds to form new words",
+    "chapter_id": "toc_pg027_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg028_sec001",
+    "href": "pg028_sec001.html",
+    "title": "Different sounds to form new words - continued",
+    "chapter_id": "toc_pg028_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg029_sec001",
+    "href": "pg029_sec001.html",
+    "title": "Different sounds to form new words - continued",
+    "chapter_id": "toc_pg029_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg029_sec002",
+    "href": "pg029_sec002.html",
+    "title": "I delete sounds at the beginning of words",
+    "chapter_id": "toc_pg029_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg030_sec001",
+    "href": "pg030_sec001.html",
+    "title": "Deleting beginning sounds - continued",
+    "chapter_id": "toc_pg030_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg031_sec001",
+    "href": "pg031_sec001.html",
+    "title": "Deleting beginning sounds - continued",
+    "chapter_id": "toc_pg031_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg031_sec002",
+    "href": "pg031_sec002.html",
+    "title": "I delete sounds at the end of words",
+    "chapter_id": "toc_pg031_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg032_sec001",
+    "href": "pg032_sec001.html",
+    "title": "Deleting end sounds - continued",
+    "chapter_id": "toc_pg032_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg033_sec001",
+    "href": "pg033_sec001.html",
+    "title": "Exercise 2 - choose the correct word for each picture",
+    "chapter_id": "toc_pg033_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg034_sec001",
+    "href": "pg034_sec001.html",
+    "title": "I add sounds at the beginning of words",
+    "chapter_id": "toc_pg034_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg035_sec001",
+    "href": "pg035_sec001.html",
+    "title": "Adding beginning sounds - continued",
+    "chapter_id": "toc_pg035_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg036_sec001",
+    "href": "pg036_sec001.html",
+    "title": "Exercise 3 - add beginning sounds",
+    "chapter_id": "toc_pg036_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg036_sec002",
+    "href": "pg036_sec002.html",
+    "title": "I add sounds at the end of words",
+    "chapter_id": "toc_pg036_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg037_sec001",
+    "href": "pg037_sec001.html",
+    "title": "Adding sounds at the end - Activity 2",
+    "chapter_id": "toc_pg037_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg037_sec002",
+    "href": "pg037_sec002.html",
+    "title": "I replace initial sounds to form new words",
+    "chapter_id": "toc_pg037_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg038_sec001",
+    "href": "pg038_sec001.html",
+    "title": "Replacing initial sounds - continued",
+    "chapter_id": "toc_pg038_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg039_sec001",
+    "href": "pg039_sec001.html",
+    "title": "Replacing initial sounds - Activity 3",
+    "chapter_id": "toc_pg039_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg040_sec001",
+    "href": "pg040_sec001.html",
+    "title": "Replacing initial sounds - tongue twister and Exercise 4",
+    "chapter_id": "toc_pg040_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg040_sec002",
+    "href": "pg040_sec002.html",
+    "title": "I replace middle sounds to form new words",
+    "chapter_id": "toc_pg040_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg041_sec001",
+    "href": "pg041_sec001.html",
+    "title": "Replacing middle sounds - continued",
+    "chapter_id": "toc_pg041_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg042_sec001",
+    "href": "pg042_sec001.html",
+    "title": "Replacing middle sounds - Activity 3 and Exercise 5",
+    "chapter_id": "toc_pg042_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg043_sec001",
+    "href": "pg043_sec001.html",
+    "title": "I replace final sounds to form new words",
+    "chapter_id": "toc_pg043_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg044_sec001",
+    "href": "pg044_sec001.html",
+    "title": "Replacing final sounds - Exercise 6 continued",
+    "chapter_id": "toc_pg044_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg045_sec001",
+    "href": "pg045_sec001.html",
+    "title": "Unit Three: Letter-sound relationships",
+    "chapter_id": "toc_pg045_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg045_sec002",
+    "href": "pg045_sec002.html",
+    "title": "I pronounce English sounds in written words",
+    "chapter_id": "toc_pg045_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg046_sec001",
+    "href": "pg046_sec001.html",
+    "title": "Pronouncing English sounds - continued",
+    "chapter_id": "toc_pg046_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg047_sec001",
+    "href": "pg047_sec001.html",
+    "title": "I read and write simple English words",
+    "chapter_id": "toc_pg047_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg047_sec002",
+    "href": "pg047_sec002.html",
+    "title": "I read words with bl and cl consonants",
+    "chapter_id": "toc_pg047_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg048_sec001",
+    "href": "pg048_sec001.html",
+    "title": "Words with bl and cl consonants - continued",
+    "chapter_id": "toc_pg048_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg049_sec001",
+    "href": "pg049_sec001.html",
+    "title": "Words with bl and cl consonants - Exercise 7",
+    "chapter_id": "toc_pg049_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg049_sec002",
+    "href": "pg049_sec002.html",
+    "title": "I read words with fl and gl consonants",
+    "chapter_id": "toc_pg049_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg050_sec001",
+    "href": "pg050_sec001.html",
+    "title": "Words with fl and gl consonants - continued",
+    "chapter_id": "toc_pg050_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg051_sec001",
+    "href": "pg051_sec001.html",
+    "title": "Words with fl and gl consonants - continued",
+    "chapter_id": "toc_pg051_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg051_sec002",
+    "href": "pg051_sec002.html",
+    "title": "I read words with pl and sl consonants",
+    "chapter_id": "toc_pg051_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg052_sec001",
+    "href": "pg052_sec001.html",
+    "title": "Words with pl and sl consonants - continued",
+    "chapter_id": "toc_pg052_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg052_sec002",
+    "href": "pg052_sec002.html",
+    "title": "I read words with br and cr consonants",
+    "chapter_id": "toc_pg052_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg053_sec001",
+    "href": "pg053_sec001.html",
+    "title": "Words with br and cr consonants - continued",
+    "chapter_id": "toc_pg053_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg053_sec002",
+    "href": "pg053_sec002.html",
+    "title": "I read words with dr and fr consonants",
+    "chapter_id": "toc_pg053_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg054_sec001",
+    "href": "pg054_sec001.html",
+    "title": "Words with dr and fr consonants - continued",
+    "chapter_id": "toc_pg054_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg054_sec002",
+    "href": "pg054_sec002.html",
+    "title": "I read words with gr, pr and tr consonants",
+    "chapter_id": "toc_pg054_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg055_sec001",
+    "href": "pg055_sec001.html",
+    "title": "Words with gr, pr and tr consonants - continued",
+    "chapter_id": "toc_pg055_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg056_sec001",
+    "href": "pg056_sec001.html",
+    "title": "Words with sc and sk consonants",
+    "chapter_id": "toc_pg056_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg057_sec001",
+    "href": "pg057_sec001.html",
+    "title": "Words with sc and sk consonants - continued",
+    "chapter_id": "toc_pg057_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg057_sec002",
+    "href": "pg057_sec002.html",
+    "title": "I read words with sm and sn consonants",
+    "chapter_id": "toc_pg057_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg058_sec001",
+    "href": "pg058_sec001.html",
+    "title": "Words with sm and sn consonants - continued",
+    "chapter_id": "toc_pg058_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg058_sec002",
+    "href": "pg058_sec002.html",
+    "title": "I read words with sp and st consonants",
+    "chapter_id": "toc_pg058_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg059_sec001",
+    "href": "pg059_sec001.html",
+    "title": "Words with sp and st consonants - continued",
+    "chapter_id": "toc_pg059_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg059_sec002",
+    "href": "pg059_sec002.html",
+    "title": "I read words with sw and tw consonants",
+    "chapter_id": "toc_pg059_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg060_sec001",
+    "href": "pg060_sec001.html",
+    "title": "Words with sw and tw consonants - continued",
+    "chapter_id": "toc_pg060_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg060_sec002",
+    "href": "pg060_sec002.html",
+    "title": "I read words with letter sound ch",
+    "chapter_id": "toc_pg060_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg061_sec001",
+    "href": "pg061_sec001.html",
+    "title": "Words with letter sound ch - continued",
+    "chapter_id": "toc_pg061_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg061_sec002",
+    "href": "pg061_sec002.html",
+    "title": "I read words with letter sound sh",
+    "chapter_id": "toc_pg061_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg062_sec001",
+    "href": "pg062_sec001.html",
+    "title": "Words with letter sound sh - continued",
+    "chapter_id": "toc_pg062_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg062_sec002",
+    "href": "pg062_sec002.html",
+    "title": "I read words with letter sound th",
+    "chapter_id": "toc_pg062_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg063_sec001",
+    "href": "pg063_sec001.html",
+    "title": "Words with letter sound th - continued",
+    "chapter_id": "toc_pg063_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg064_sec001",
+    "href": "pg064_sec001.html",
+    "title": "Words with letter sound ph",
+    "chapter_id": "toc_pg064_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg065_sec001",
+    "href": "pg065_sec001.html",
+    "title": "Words with letter sound ck",
+    "chapter_id": "toc_pg065_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg066_sec001",
+    "href": "pg066_sec001.html",
+    "title": "Words with letter sound ck - continued",
+    "chapter_id": "toc_pg066_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg066_sec002",
+    "href": "pg066_sec002.html",
+    "title": "I read words with letter sound ff",
+    "chapter_id": "toc_pg066_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg067_sec001",
+    "href": "pg067_sec001.html",
+    "title": "Words with letter sound ll",
+    "chapter_id": "toc_pg067_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg068_sec001",
+    "href": "pg068_sec001.html",
+    "title": "Words with letter sound ss",
+    "chapter_id": "toc_pg068_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg069_sec001",
+    "href": "pg069_sec001.html",
+    "title": "Unit Four: Reading fluently",
+    "chapter_id": "toc_pg069_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg069_sec002",
+    "href": "pg069_sec002.html",
+    "title": "I read and write simple sentences",
+    "chapter_id": "toc_pg069_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg070_sec001",
+    "href": "pg070_sec001.html",
+    "title": "Reading and writing simple sentences - continued",
+    "chapter_id": "toc_pg070_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg070_sec002",
+    "href": "pg070_sec002.html",
+    "title": "I use basic punctuation marks",
+    "chapter_id": "toc_pg070_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg071_sec001",
+    "href": "pg071_sec001.html",
+    "title": "Using basic punctuation marks - continued",
+    "chapter_id": "toc_pg071_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg071_sec002",
+    "href": "pg071_sec002.html",
+    "title": "I express the days of the week",
+    "chapter_id": "toc_pg071_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg072_sec001",
+    "href": "pg072_sec001.html",
+    "title": "Days of the week - song and ordering",
+    "chapter_id": "toc_pg072_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg073_sec001",
+    "href": "pg073_sec001.html",
+    "title": "Days of the week - dialogue and activities",
+    "chapter_id": "toc_pg073_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg074_sec001",
+    "href": "pg074_sec001.html",
+    "title": "Days of the week - activities continued",
+    "chapter_id": "toc_pg074_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg075_sec001",
+    "href": "pg075_sec001.html",
+    "title": "Days of the week - questions",
+    "chapter_id": "toc_pg075_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg076_sec001",
+    "href": "pg076_sec001.html",
+    "title": "Days of the week - questions and Activity 4",
+    "chapter_id": "toc_pg076_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg076_sec002",
+    "href": "pg076_sec002.html",
+    "title": "I express the months of the year",
+    "chapter_id": "toc_pg076_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg077_sec001",
+    "href": "pg077_sec001.html",
+    "title": "Months of the year - song",
+    "chapter_id": "toc_pg077_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg078_sec001",
+    "href": "pg078_sec001.html",
+    "title": "Months of the year - questions and number table",
+    "chapter_id": "toc_pg078_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg079_sec001",
+    "href": "pg079_sec001.html",
+    "title": "Months of the year - sentences",
+    "chapter_id": "toc_pg079_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg080_sec001",
+    "href": "pg080_sec001.html",
+    "title": "Months of the year - questions continued",
+    "chapter_id": "toc_pg080_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "back_cover_sec001",
+    "href": "back_cover.html",
+    "title": "Back cover",
+    "chapter_id": "toc_back_cover_sec001",
+    "level": 1
+  }
+]
