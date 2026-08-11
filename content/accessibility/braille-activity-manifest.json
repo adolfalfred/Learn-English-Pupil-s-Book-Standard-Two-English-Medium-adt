@@ -4385,7 +4385,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (e).",
+      "sharedInclusiveInstruction": "Answer for item (a).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4395,7 +4395,9 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [],
+      "visualDescriptionTargetIds": [
+        "pg039_im002_audio_description"
+      ],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -4420,7 +4422,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (a).",
+      "sharedInclusiveInstruction": "Answer for item (b).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4430,7 +4432,9 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [],
+      "visualDescriptionTargetIds": [
+        "pg039_im003_audio_description"
+      ],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -4455,7 +4459,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (b).",
+      "sharedInclusiveInstruction": "Answer for item (c).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4465,7 +4469,9 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [],
+      "visualDescriptionTargetIds": [
+        "pg039_im004_audio_description"
+      ],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -4490,7 +4496,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (c).",
+      "sharedInclusiveInstruction": "Answer for item (d).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4500,7 +4506,9 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [],
+      "visualDescriptionTargetIds": [
+        "pg039_im005_audio_description"
+      ],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -4525,7 +4533,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer for item (d).",
+      "sharedInclusiveInstruction": "Answer for item (e).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4535,7 +4543,51 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [],
+      "visualDescriptionTargetIds": [
+        "pg039_im006_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg039-sec001-response-group-1",
+      "href": "pg039_sec001.html",
+      "sectionId": "pg039_sec001",
+      "sectionTitle": "Daily activities - conversation practice",
+      "sourcePdfPage": 39,
+      "printedPage": "33",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 4,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Write what you normally do in the morning, afternoon, evening and at night.",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg039_im001_audio_description",
+        "pg039_im002_audio_description",
+        "pg039_im003_audio_description",
+        "pg039_im004_audio_description",
+        "pg039_im005_audio_description",
+        "pg039_im006_audio_description"
+      ],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -4570,7 +4622,9 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [],
+      "visualDescriptionTargetIds": [
+        "pg040_im001_audio_description"
+      ],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -4605,7 +4659,9 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [],
+      "visualDescriptionTargetIds": [
+        "pg040_im002_audio_description"
+      ],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -4640,7 +4696,9 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [],
+      "visualDescriptionTargetIds": [
+        "pg040_im003_audio_description"
+      ],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -4675,7 +4733,9 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [],
+      "visualDescriptionTargetIds": [
+        "pg040_im004_audio_description"
+      ],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -4690,17 +4750,128 @@
       }
     },
     {
-      "activityId": "pg046-sec001-response-group-1",
+      "activityId": "pg046-sec001-response-item-1",
       "href": "pg046_sec001.html",
       "sectionId": "pg046_sec001",
       "sectionTitle": "Narrating events and incidents - pictures continued",
       "sourcePdfPage": 46,
       "printedPage": "40",
       "taskType": "picture-supported-language-response",
-      "expectedResponseCount": 4,
+      "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the four remaining pictured events.",
+      "sharedInclusiveInstruction": "Name the four remaining pictured events. Item (b).",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg046_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg046-sec001-response-item-2",
+      "href": "pg046_sec001.html",
+      "sectionId": "pg046_sec001",
+      "sectionTitle": "Narrating events and incidents - pictures continued",
+      "sourcePdfPage": 46,
+      "printedPage": "40",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Name the four remaining pictured events. Item blank 2.",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg046_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg046-sec001-response-item-3",
+      "href": "pg046_sec001.html",
+      "sectionId": "pg046_sec001",
+      "sectionTitle": "Narrating events and incidents - pictures continued",
+      "sourcePdfPage": 46,
+      "printedPage": "40",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Name the four remaining pictured events. Item (d).",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg046_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg046-sec001-response-item-4",
+      "href": "pg046_sec001.html",
+      "sectionId": "pg046_sec001",
+      "sectionTitle": "Narrating events and incidents - pictures continued",
+      "sourcePdfPage": 46,
+      "printedPage": "40",
+      "taskType": "picture-supported-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Name the four remaining pictured events. Item (e).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8097,17 +8268,165 @@
       }
     },
     {
-      "activityId": "pg071-sec001-response-group-1",
+      "activityId": "pg071-sec001-response-item-1",
       "href": "pg071_sec001.html",
       "sectionId": "pg071_sec001",
       "sectionTitle": "Long vowel sounds - Exercise 7",
       "sourcePdfPage": 71,
       "printedPage": "65",
       "taskType": "word-formation",
-      "expectedResponseCount": 5,
+      "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the five sentences with the correct bracketed words.",
+      "sharedInclusiveInstruction": "Complete the five sentences with the correct bracketed words. Item 1.",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg071_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg071-sec001-response-item-2",
+      "href": "pg071_sec001.html",
+      "sectionId": "pg071_sec001",
+      "sectionTitle": "Long vowel sounds - Exercise 7",
+      "sourcePdfPage": 71,
+      "printedPage": "65",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Complete the five sentences with the correct bracketed words. Item 2.",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg071_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg071-sec001-response-item-3",
+      "href": "pg071_sec001.html",
+      "sectionId": "pg071_sec001",
+      "sectionTitle": "Long vowel sounds - Exercise 7",
+      "sourcePdfPage": 71,
+      "printedPage": "65",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Complete the five sentences with the correct bracketed words. Item 3.",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg071_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg071-sec001-response-item-4",
+      "href": "pg071_sec001.html",
+      "sectionId": "pg071_sec001",
+      "sectionTitle": "Long vowel sounds - Exercise 7",
+      "sourcePdfPage": 71,
+      "printedPage": "65",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Complete the five sentences with the correct bracketed words. Item 4.",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg071_im001_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg071-sec001-response-item-5",
+      "href": "pg071_sec001.html",
+      "sectionId": "pg071_sec001",
+      "sectionTitle": "Long vowel sounds - Exercise 7",
+      "sourcePdfPage": 71,
+      "printedPage": "65",
+      "taskType": "word-formation",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Complete the five sentences with the correct bracketed words. Item 5.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9166,17 +9485,17 @@
       }
     },
     {
-      "activityId": "pg096-sec001-response-group-1",
+      "activityId": "pg096-sec001-response-item-1",
       "href": "pg096_sec001.html",
       "sectionId": "pg096_sec001",
       "sectionTitle": "Poem comprehension",
       "sourcePdfPage": 96,
       "printedPage": "90",
       "taskType": "open-language-response",
-      "expectedResponseCount": 3,
+      "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the three sentences using information from the poem.",
+      "sharedInclusiveInstruction": "Complete the three sentences using information from the poem. Item (a).",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9187,7 +9506,81 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg096_im001_audio_description"
+        "pg096_im002_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg096-sec001-response-item-2",
+      "href": "pg096_sec001.html",
+      "sectionId": "pg096_sec001",
+      "sectionTitle": "Poem comprehension",
+      "sourcePdfPage": 96,
+      "printedPage": "90",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Complete the three sentences using information from the poem. Item (b).",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg096_im003_audio_description"
+      ],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg096-sec001-response-item-3",
+      "href": "pg096_sec001.html",
+      "sectionId": "pg096_sec001",
+      "sectionTitle": "Poem comprehension",
+      "sourcePdfPage": 96,
+      "printedPage": "90",
+      "taskType": "open-language-response",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Complete the three sentences using information from the poem. Item (c).",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [
+        "pg096_im004_audio_description"
       ],
       "brailleCode": null,
       "translationTable": null,
