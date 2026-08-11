@@ -85,6 +85,8 @@ main { padding: 1.5rem 0 9rem; }
 .inline-response-card { padding: .9rem 1rem 1rem; border-radius: .8rem; box-shadow: none; }
 .inline-response-card .response-grid { grid-template-columns: minmax(0, 1fr); }
 .response-prompt { max-width: 100%; padding: .35rem .8rem; border-radius: .75rem; background: linear-gradient(135deg, #df3c92, var(--book-pink)); color: #fff; font-size: clamp(1.25rem, 2.2vw, 1.5rem); font-weight: 800; line-height: 1.45; }
+.inline-response-card > .response-prompt { display: none; }
+.inline-response-card .response-item > span { display: none; }
 .response-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; min-width: 0; }
 .response-item { display: grid; gap: .45rem; min-width: 0; font-size: 1.25rem; }
 .response-item input, .response-item select, .writing-lines { width: 100%; min-width: 0; min-height: 3.25rem; box-sizing: border-box; border: 2px solid #7db9c4; border-radius: .75rem; background-color: white; padding: .75rem; font-size: 1.25rem; }
