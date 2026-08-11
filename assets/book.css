@@ -23,6 +23,7 @@ main { padding: 1.5rem 0 9rem; }
 .lesson-page .book-page-title, .activity-page .book-page-title, .content-page .book-page-title { border: 2px solid var(--book-border); border-radius: 1.15rem; background: #fff; padding: 1rem 1.25rem; box-shadow: 0 8px 22px rgb(25 70 80 / .07); }
 .source-flow { display: grid; gap: 1.25rem; min-width: 0; }
 .source-transcription { margin: 0; padding: 1.15rem 1.3rem; border: 2px solid var(--book-border); border-radius: 1.15rem; background: #fff; white-space: pre-line; font-size: clamp(1.25rem, 2.2vw, 1.55rem); line-height: 1.6; overflow-wrap: anywhere; box-shadow: 0 8px 22px rgb(25 70 80 / .06); }
+.source-transcription a[href^="http"] { color: #074f9c; font-weight: 700; text-decoration: underline; text-underline-offset: .15em; }
 .source-section-title { margin: 0; padding: .1rem .2rem; border: 0; background: transparent; box-shadow: none; font-style: normal; font-weight: 800; line-height: 1.15; white-space: pre-line; overflow-wrap: anywhere; }
 .source-primary-title { color: var(--source-heading-blue); font-size: clamp(1.75rem, 3vw, 2.35rem); }
 .source-subsection-title { color: var(--book-ink); font-size: clamp(1.6rem, 2.7vw, 2.1rem); }
