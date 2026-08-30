@@ -7065,7 +7065,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "1. What do you see in the picture?",
+      "sharedInclusiveInstruction": "1. What is in the picture?",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7176,7 +7176,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "4. What colours do you see in the picture?",
+      "sharedInclusiveInstruction": "4. What colours are in the picture?",
       "inputMethods": [
         "keyboard",
         "braille-display",
