@@ -16,8 +16,8 @@
     <link href="./assets/mobile-sheet-drag.css?v=responsive-20260827" rel="stylesheet">
     <link href="./assets/sign-language-video.css?v=responsive-20260827" rel="stylesheet">
   <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
-  <link href="./assets/fonts.css?v=85" rel="stylesheet">
-  <link href="./assets/book.css?v=85" rel="stylesheet">
+  <link href="./assets/fonts.css?v=86" rel="stylesheet">
+  <link href="./assets/book.css?v=86" rel="stylesheet">
     <link href="./assets/reader-chrome-overrides.css?v=reader-fixes-20260827-2" rel="stylesheet">
   <style>
     [data-inclusive-overlay-repaired] .source-facsimile-text-layer > .source-facsimile-word:nth-child(15),
@@ -35,15 +35,17 @@
       content: "when narrating or signing incidents.";
       font-size: 3.45cqw;
       line-height: 1.05;
+      transform: translateY(-10px);
       white-space: normal;
     }
 
     [data-inclusive-overlay-repaired] .source-facsimile-text-layer > .source-facsimile-word:nth-child(n + 8) {
       font-size: 3.45cqw !important;
+      transform: translateY(-10px);
     }
 
     [data-inclusive-overlay-repaired] .source-facsimile-text-layer > .source-facsimile-word:nth-child(n + 18) {
-      transform: translateY(3.5cqw);
+      transform: translateY(calc(3.5cqw - 10px));
     }
   </style>
 </head>
@@ -75,7 +77,7 @@
   </main>
   <div class="relative z-50" id="interface-container"></div>
   <div class="relative z-50" id="nav-container"></div>
-  <script src="./assets/offline-preloader.js?v=85"></script>
+  <script src="./assets/offline-preloader.js?v=86"></script>
   <script src="./assets/scorm.js"></script>
   <script src="./assets/learner-responses.js"></script>
   <script src="./assets/media-playback-independence.js?v=responsive-20260827"></script>
@@ -83,6 +85,6 @@
     <script src="./assets/mobile-sheet-drag.js?v=responsive-20260827"></script>
     <script src="./assets/sign-language-video.js?v=responsive-20260827"></script>
   <script src="./assets/navigation-state-fix.js"></script>
-  <script src="./assets/book-source-markup.js?v=85"></script>
+  <script src="./assets/book-source-markup.js?v=86"></script>
 </body>
 </html>

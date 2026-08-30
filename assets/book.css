@@ -580,8 +580,9 @@ img[src$="pg073_sec001_panel03_visuals.png"] + .source-facsimile-text-layer .sou
 .source-unit-intro-bubble {
   box-sizing: border-box;
   padding: .2rem .35rem;
-  font-size: clamp(.75rem, 2.2cqw, 1.32rem);
+  font-size: clamp(.82rem, 2.55cqw, 1.55rem);
   line-height: 1.1;
+  transform: translateY(10px);
 }
 .source-practice-passage {
   width: 100%;
