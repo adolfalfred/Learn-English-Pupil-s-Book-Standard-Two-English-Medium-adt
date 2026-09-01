@@ -1,6 +1,6 @@
 {
   "title": "Learn English Pupil's Book Standard Two (English Medium Schools)",
-  "bundleVersion": "87",
+  "bundleVersion": "88",
   "languages": {
     "available": [
       "en-GB"
@@ -8,7 +8,7 @@
     "default": "en-GB"
   },
   "features": {
-    "signLanguage": false,
+    "signLanguage": true,
     "easyRead": true,
     "glossary": true,
     "eli5": false,
