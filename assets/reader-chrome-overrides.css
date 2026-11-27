@@ -56,6 +56,20 @@
     opacity: 1 !important;
   }
 
+  body[data-activity-dock="bottom"][nav-size="full"] {
+    --mobile-activity-bottom: calc(var(--dock-height, 3.25rem + env(safe-area-inset-bottom)) + 0.25rem);
+  }
+
+  body[data-activity-dock="bottom"][nav-size="full"] #nav-container > .bottom-18 {
+    bottom: var(--mobile-activity-bottom) !important;
+  }
+
+  /* Keep the read-aloud controls above the activity action when both are visible. */
+  body[data-activity-dock="bottom"][nav-size="full"] #interface-container
+    > .fixed:has(> [role="group"] > button[data-slot="dropdown-menu-trigger"]) {
+    bottom: calc(var(--mobile-activity-bottom) + 4rem) !important;
+  }
+
   /* Keep the floating read-aloud controls in one usable row in every locale.
      The data-slot selectors are stable even when accessible labels change. */
   #interface-container

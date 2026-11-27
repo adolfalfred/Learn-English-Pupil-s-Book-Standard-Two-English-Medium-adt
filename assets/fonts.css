@@ -43,3 +43,9 @@ body, button, input, textarea, select { font-family: "Atkinson Hyperlegible", Ar
 #content .uniform-book-font *::after { font-family: "Sassoon Primary", "SassoonPrimary", sans-serif !important; }
 #nav-container, #nav-container *, #interface-container, #interface-container * { font-family: "Atkinson Hyperlegible", Arial, sans-serif; }
 #content input, #content textarea, #content select { font: inherit; }
+
+#content .glossary-term:focus-visible,
+#content .glossary-term[data-glossary-focus] {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}

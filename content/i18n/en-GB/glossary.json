@@ -1,1 +1,5551 @@
-{}
+{
+  "accident": {
+    "word": "accident",
+    "definition": "Something harmful that happens without being planned.",
+    "variations": [
+      "accident",
+      "accidents"
+    ],
+    "emoji": "⚠️",
+    "pages": [
+      "pg045_sec002",
+      "pg047_sec001"
+    ]
+  },
+  "activity": {
+    "word": "activity",
+    "definition": "something you do to learn, play, or work.",
+    "variations": [
+      "activity",
+      "activities"
+    ],
+    "emoji": "✍️🎯",
+    "pages": [
+      "pg006_sec001",
+      "pg008_sec001",
+      "pg009_sec001",
+      "pg014_sec002",
+      "pg017_sec001",
+      "pg026_sec001",
+      "pg027_sec001",
+      "pg030_sec001",
+      "pg031_sec001",
+      "pg032_sec001",
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg036_sec001",
+      "pg038_sec001",
+      "pg039_sec001",
+      "pg040_sec002",
+      "pg043_sec001",
+      "pg045_sec002",
+      "pg048_sec001",
+      "pg050_sec002",
+      "pg051_sec001",
+      "pg053_sec001",
+      "pg054_sec001",
+      "pg054_sec002",
+      "pg057_sec002",
+      "pg059_sec002",
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg063_sec002",
+      "pg065_sec001",
+      "pg066_sec002",
+      "pg068_sec002",
+      "pg070_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg074_sec001",
+      "pg075_sec001",
+      "pg076_sec001",
+      "pg077_sec001",
+      "pg078_sec001",
+      "pg079_sec001",
+      "pg080_sec002",
+      "pg082_sec001",
+      "pg083_sec001",
+      "pg084_sec001",
+      "pg086_sec002",
+      "pg088_sec001",
+      "pg089_sec001",
+      "pg090_sec001",
+      "pg091_sec001",
+      "pg092_sec001",
+      "pg093_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "afternoon": {
+    "word": "afternoon",
+    "definition": "the middle part of the day after morning",
+    "variations": [
+      "afternoon",
+      "afternoons"
+    ],
+    "emoji": "☀️🕑",
+    "pages": [
+      "pg039_sec001"
+    ]
+  },
+  "animal": {
+    "word": "animal",
+    "definition": "a living creature such as a cow, dog, or cat",
+    "variations": [
+      "animal",
+      "animals"
+    ],
+    "emoji": "🐾🐄",
+    "pages": [
+      "pg025_sec001",
+      "pg071_sec001",
+      "pg087_sec001"
+    ]
+  },
+  "ant": {
+    "word": "ant",
+    "definition": "a very small insect that lives in groups",
+    "variations": [
+      "ant",
+      "ants"
+    ],
+    "emoji": "🐜",
+    "pages": [
+      "pg054_sec001"
+    ]
+  },
+  "antenna": {
+    "word": "antenna",
+    "definition": "A device that sends or receives radio or television signals.",
+    "variations": [
+      "antenna",
+      "antennas"
+    ],
+    "emoji": "📡",
+    "pages": [
+      "pg080_sec002"
+    ]
+  },
+  "apple": {
+    "word": "apple",
+    "definition": "a round fruit that is usually red, green, or yellow",
+    "variations": [
+      "apple",
+      "apples"
+    ],
+    "emoji": "🍎🍏",
+    "pages": [
+      "pg017_sec001",
+      "pg025_sec001",
+      "pg074_sec001"
+    ]
+  },
+  "appropriate": {
+    "word": "appropriate",
+    "definition": "right or suitable for a situation",
+    "variations": [
+      "appropriate"
+    ],
+    "emoji": "✅👍",
+    "pages": [
+      "pg006_sec001",
+      "pg032_sec001",
+      "pg059_sec001",
+      "pg062_sec001",
+      "pg083_sec001",
+      "pg087_sec001"
+    ]
+  },
+  "arrange": {
+    "word": "arrange",
+    "definition": "To put things in a chosen order.",
+    "variations": [
+      "arrange"
+    ],
+    "emoji": "🔢",
+    "pages": [
+      "pg026_sec001"
+    ]
+  },
+  "arrested": {
+    "word": "arrested",
+    "definition": "caught by the police because of a crime or suspected crime",
+    "variations": [
+      "arrested",
+      "arrest",
+      "arrests",
+      "arresting"
+    ],
+    "emoji": "👮⛓️",
+    "pages": [
+      "pg078_sec001"
+    ]
+  },
+  "attend": {
+    "word": "attend",
+    "definition": "to go to a place such as school or a lesson",
+    "variations": [
+      "attend",
+      "attends",
+      "attending",
+      "attended"
+    ],
+    "emoji": "🏫🙋",
+    "pages": [
+      "pg027_sec001",
+      "pg033_sec001",
+      "pg034_sec001"
+    ]
+  },
+  "attitude": {
+    "word": "attitude",
+    "definition": "The way a person thinks or feels about something.",
+    "variations": [
+      "attitude",
+      "attitudes"
+    ],
+    "emoji": "🙂",
+    "pages": [
+      "pg080_sec002"
+    ]
+  },
+  "bag": {
+    "word": "bag",
+    "definition": "something used to carry things",
+    "variations": [
+      "bag",
+      "bags"
+    ],
+    "emoji": "👜🎒",
+    "pages": [
+      "pg035_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "ball": {
+    "word": "ball",
+    "definition": "a round object used in games and sports",
+    "variations": [
+      "ball",
+      "balls"
+    ],
+    "emoji": "⚽🏀",
+    "pages": [
+      "pg017_sec001"
+    ]
+  },
+  "banana": {
+    "word": "banana",
+    "definition": "a long curved yellow fruit",
+    "variations": [
+      "banana",
+      "bananas"
+    ],
+    "emoji": "🍌",
+    "pages": [
+      "pg017_sec001",
+      "pg024_sec001",
+      "pg076_sec001",
+      "pg080_sec002"
+    ]
+  },
+  "bat": {
+    "word": "bat",
+    "definition": "an animal that flies at night",
+    "variations": [
+      "bat",
+      "bats"
+    ],
+    "emoji": "🦇",
+    "pages": [
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg063_sec002",
+      "pg067_sec001"
+    ]
+  },
+  "beating": {
+    "word": "beating",
+    "definition": "hitting something again and again, often to make sound",
+    "variations": [
+      "beating",
+      "beat",
+      "beats"
+    ],
+    "emoji": "🥁🎶",
+    "pages": [
+      "pg088_sec001"
+    ]
+  },
+  "bed": {
+    "word": "bed",
+    "definition": "a piece of furniture used for sleeping.",
+    "variations": [
+      "bed",
+      "beds"
+    ],
+    "emoji": "🛏️😴",
+    "pages": [
+      "pg039_sec001",
+      "pg063_sec002"
+    ]
+  },
+  "beginning": {
+    "word": "beginning",
+    "definition": "The first part of something.",
+    "variations": [
+      "beginning",
+      "beginnings"
+    ],
+    "emoji": "🔰",
+    "pages": [
+      "pg053_sec001",
+      "pg057_sec002",
+      "pg059_sec001",
+      "pg075_sec001"
+    ]
+  },
+  "big": {
+    "word": "big",
+    "definition": "large in size",
+    "variations": [
+      "big",
+      "bigger",
+      "biggest"
+    ],
+    "emoji": "📦⬆️",
+    "pages": [
+      "pg052_sec001",
+      "pg071_sec001",
+      "pg073_sec001",
+      "pg085_sec001",
+      "pg087_sec001",
+      "pg093_sec001",
+      "pg094_sec001"
+    ]
+  },
+  "bin": {
+    "word": "bin",
+    "definition": "a container for putting waste or things in",
+    "variations": [
+      "bin",
+      "bins"
+    ],
+    "emoji": "🗑️",
+    "pages": [
+      "pg050_sec002"
+    ]
+  },
+  "bird": {
+    "word": "bird",
+    "definition": "an animal with feathers, wings and a beak",
+    "variations": [
+      "bird",
+      "birds"
+    ],
+    "emoji": "🐦🪶",
+    "pages": [
+      "pg024_sec001",
+      "pg068_sec002"
+    ]
+  },
+  "birthday": {
+    "word": "birthday",
+    "definition": "The day each year when a person celebrates being born.",
+    "variations": [
+      "birthday",
+      "birthdays"
+    ],
+    "emoji": "🎂",
+    "pages": [
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg045_sec002",
+      "pg089_sec001",
+      "pg090_sec001",
+      "pg091_sec001"
+    ]
+  },
+  "boat": {
+    "word": "boat",
+    "definition": "a vehicle used for traveling on water",
+    "variations": [
+      "boat",
+      "boats"
+    ],
+    "emoji": "🚤⛵",
+    "pages": [
+      "pg070_sec001"
+    ]
+  },
+  "body": {
+    "word": "body",
+    "definition": "all the physical parts of a person or animal",
+    "variations": [
+      "body",
+      "bodies"
+    ],
+    "emoji": "🧍",
+    "pages": [
+      "pg072_sec001"
+    ]
+  },
+  "bone": {
+    "word": "bone",
+    "definition": "the hard part inside the body of a person or animal",
+    "variations": [
+      "bone",
+      "bones"
+    ],
+    "emoji": "🦴",
+    "pages": [
+      "pg043_sec001",
+      "pg044_sec001"
+    ]
+  },
+  "book": {
+    "word": "book",
+    "definition": "pages with words or pictures for reading or learning.",
+    "variations": [
+      "book",
+      "books"
+    ],
+    "emoji": "📘📚",
+    "pages": [
+      "pg001_sec001",
+      "pg006_sec001",
+      "pg014_sec002",
+      "pg024_sec001",
+      "pg034_sec001",
+      "pg035_sec001",
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg067_sec001",
+      "pg076_sec001",
+      "pg077_sec001",
+      "pg079_sec001"
+    ]
+  },
+  "borrow": {
+    "word": "borrow",
+    "definition": "to take something from someone for a short time and give it back later",
+    "variations": [
+      "borrow",
+      "borrows",
+      "borrowed",
+      "borrowing"
+    ],
+    "emoji": "✏️↩️",
+    "pages": [
+      "pg040_sec002",
+      "pg083_sec001"
+    ]
+  },
+  "box": {
+    "word": "box",
+    "definition": "a container with sides used for holding things",
+    "variations": [
+      "box",
+      "boxes"
+    ],
+    "emoji": "📦",
+    "pages": [
+      "pg002_sec001",
+      "pg009_sec001",
+      "pg010_sec001",
+      "pg014_sec002",
+      "pg024_sec001",
+      "pg051_sec001",
+      "pg053_sec001",
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg074_sec001",
+      "pg076_sec001",
+      "pg077_sec001"
+    ]
+  },
+  "boy": {
+    "word": "boy",
+    "definition": "a male child",
+    "variations": [
+      "boy",
+      "boys"
+    ],
+    "emoji": "👦",
+    "pages": [
+      "pg044_sec001",
+      "pg052_sec001",
+      "pg062_sec001",
+      "pg092_sec001"
+    ]
+  },
+  "branch": {
+    "word": "branch",
+    "definition": "a part of a tree that grows out from the trunk",
+    "variations": [
+      "branch",
+      "branches"
+    ],
+    "emoji": "🌳",
+    "pages": [
+      "pg076_sec001",
+      "pg094_sec001"
+    ]
+  },
+  "bread": {
+    "word": "bread",
+    "definition": "a common food made from flour and baked",
+    "variations": [
+      "bread"
+    ],
+    "emoji": "🍞",
+    "pages": [
+      "pg080_sec002"
+    ]
+  },
+  "brick": {
+    "word": "brick",
+    "definition": "a hard block used for building walls and houses",
+    "variations": [
+      "brick",
+      "bricks"
+    ],
+    "emoji": "🧱",
+    "pages": [
+      "pg054_sec001"
+    ]
+  },
+  "buffalo": {
+    "word": "buffalo",
+    "definition": "a large wild animal with horns",
+    "variations": [
+      "buffalo",
+      "buffaloes",
+      "buffalos"
+    ],
+    "emoji": "🐃",
+    "pages": [
+      "pg087_sec001"
+    ]
+  },
+  "bus": {
+    "word": "bus",
+    "definition": "a large road vehicle that carries many people",
+    "variations": [
+      "bus",
+      "buses"
+    ],
+    "emoji": "🚌",
+    "pages": [
+      "pg017_sec001",
+      "pg025_sec001"
+    ]
+  },
+  "butterfly": {
+    "word": "butterfly",
+    "definition": "an insect with large colourful wings",
+    "variations": [
+      "butterfly",
+      "butterflies"
+    ],
+    "emoji": "🦋",
+    "pages": [
+      "pg082_sec001"
+    ]
+  },
+  "car": {
+    "word": "car",
+    "definition": "A vehicle with four wheels that carries a few people on roads.",
+    "variations": [
+      "car"
+    ],
+    "emoji": "🚗",
+    "pages": [
+      "pg017_sec001",
+      "pg045_sec002",
+      "pg051_sec001",
+      "pg054_sec002",
+      "pg057_sec002",
+      "pg059_sec002",
+      "pg075_sec001",
+      "pg078_sec001"
+    ]
+  },
+  "care": {
+    "word": "care",
+    "definition": "kind attention and help for someone",
+    "variations": [
+      "care",
+      "cares",
+      "caring"
+    ],
+    "emoji": "💖🤝",
+    "pages": [
+      "pg095_sec001"
+    ]
+  },
+  "carpenter": {
+    "word": "carpenter",
+    "definition": "a person whose job is making or repairing things made of wood",
+    "variations": [
+      "carpenter",
+      "carpenters"
+    ],
+    "emoji": "🪚🪵",
+    "pages": [
+      "pg025_sec001"
+    ]
+  },
+  "carrot": {
+    "word": "carrot",
+    "definition": "a long orange vegetable that grows under the ground",
+    "variations": [
+      "carrot",
+      "carrots"
+    ],
+    "emoji": "🥕",
+    "pages": [
+      "pg080_sec002"
+    ]
+  },
+  "carry": {
+    "word": "carry",
+    "definition": "to hold and move something from one place to another.",
+    "variations": [
+      "carry",
+      "carries",
+      "carrying",
+      "carried"
+    ],
+    "emoji": "📚👐",
+    "pages": [
+      "pg068_sec002",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg077_sec001"
+    ]
+  },
+  "cart": {
+    "word": "cart",
+    "definition": "A vehicle with two or four wheels used for carrying things.",
+    "variations": [
+      "cart",
+      "carts"
+    ],
+    "emoji": "🛒",
+    "pages": [
+      "pg052_sec001",
+      "pg059_sec002",
+      "pg068_sec002",
+      "pg071_sec001"
+    ]
+  },
+  "cat": {
+    "word": "cat",
+    "definition": "a small animal often kept as a pet",
+    "variations": [
+      "cat",
+      "cats"
+    ],
+    "emoji": "🐱",
+    "pages": [
+      "pg009_sec001",
+      "pg051_sec001",
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg063_sec002",
+      "pg065_sec001"
+    ]
+  },
+  "chair": {
+    "word": "chair",
+    "definition": "a seat for one person, usually with a back",
+    "variations": [
+      "chair",
+      "chairs"
+    ],
+    "emoji": "🪑",
+    "pages": [
+      "pg010_sec001",
+      "pg014_sec002",
+      "pg025_sec001"
+    ]
+  },
+  "chase": {
+    "word": "chase",
+    "definition": "to run after someone or something to catch it",
+    "variations": [
+      "chase",
+      "chases",
+      "chased",
+      "chasing"
+    ],
+    "emoji": "🏃🐈",
+    "pages": [
+      "pg051_sec001"
+    ]
+  },
+  "chick": {
+    "word": "chick",
+    "definition": "a baby chicken",
+    "variations": [
+      "chick",
+      "chicks"
+    ],
+    "emoji": "🐥",
+    "pages": [
+      "pg084_sec001"
+    ]
+  },
+  "child": {
+    "word": "child",
+    "definition": "a young person",
+    "variations": [
+      "child",
+      "children"
+    ],
+    "emoji": "🧒👧",
+    "pages": [
+      "pg074_sec001",
+      "pg083_sec001"
+    ]
+  },
+  "class": {
+    "word": "class",
+    "definition": "a group of students learning together",
+    "variations": [
+      "class",
+      "classes"
+    ],
+    "emoji": "🏫👩‍🏫",
+    "pages": [
+      "pg024_sec001",
+      "pg027_sec001",
+      "pg035_sec001",
+      "pg036_sec002"
+    ]
+  },
+  "classroom": {
+    "word": "classroom",
+    "definition": "a room where pupils learn at school.",
+    "variations": [
+      "classroom",
+      "classrooms"
+    ],
+    "emoji": "🏫🪑",
+    "pages": [
+      "pg025_sec001",
+      "pg029_sec001"
+    ]
+  },
+  "clean": {
+    "word": "clean",
+    "definition": "to make something not dirty.",
+    "variations": [
+      "clean",
+      "cleans",
+      "cleaning",
+      "cleaned"
+    ],
+    "emoji": "🧼✨",
+    "pages": [
+      "pg025_sec001",
+      "pg027_sec001",
+      "pg029_sec001",
+      "pg035_sec001",
+      "pg076_sec001",
+      "pg077_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "clock": {
+    "word": "clock",
+    "definition": "a thing that shows the time",
+    "variations": [
+      "clock",
+      "clocks"
+    ],
+    "emoji": "🕒",
+    "pages": [
+      "pg014_sec002",
+      "pg053_sec001",
+      "pg057_sec002"
+    ]
+  },
+  "clothes": {
+    "word": "clothes",
+    "definition": "Things people wear, such as shirts, dresses and trousers.",
+    "variations": [
+      "clothes",
+      "clothing"
+    ],
+    "emoji": "👕",
+    "pages": [
+      "pg029_sec001",
+      "pg039_sec001",
+      "pg044_sec001",
+      "pg083_sec001"
+    ]
+  },
+  "comb": {
+    "word": "comb",
+    "definition": "to make hair neat using a comb.",
+    "variations": [
+      "comb",
+      "combs",
+      "combing",
+      "combed"
+    ],
+    "emoji": "💇🪮",
+    "pages": [
+      "pg070_sec001"
+    ]
+  },
+  "competencies": {
+    "word": "competencies",
+    "definition": "skills and abilities needed to do something well",
+    "variations": [
+      "competencies",
+      "competency"
+    ],
+    "emoji": "💡✅",
+    "pages": [
+      "pg006_sec001"
+    ]
+  },
+  "competition": {
+    "word": "competition",
+    "definition": "an event where people or teams try to win",
+    "variations": [
+      "competition",
+      "competitions"
+    ],
+    "emoji": "🏆🏃",
+    "pages": [
+      "pg082_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "complain": {
+    "word": "complain",
+    "definition": "to say that you are not happy about something",
+    "variations": [
+      "complain",
+      "complains",
+      "complained",
+      "complaining",
+      "complaint"
+    ],
+    "emoji": "😟🗣️",
+    "pages": [
+      "pg093_sec001"
+    ]
+  },
+  "compound": {
+    "word": "compound",
+    "definition": "the open area around a house or school",
+    "variations": [
+      "compound",
+      "compounds"
+    ],
+    "emoji": "🏫🌳",
+    "pages": [
+      "pg079_sec001"
+    ]
+  },
+  "comprehension": {
+    "word": "comprehension",
+    "definition": "The ability to understand what you read, hear or observe.",
+    "variations": [
+      "comprehension"
+    ],
+    "emoji": "💡",
+    "pages": [
+      "pg006_sec001"
+    ]
+  },
+  "consonant": {
+    "word": "consonant",
+    "definition": "A letter such as b, m or t. These are not vowel letters.",
+    "variations": [
+      "consonant",
+      "consonants"
+    ],
+    "emoji": "🔤",
+    "pages": [
+      "pg006_sec001",
+      "pg072_sec001",
+      "pg075_sec001"
+    ]
+  },
+  "conversation": {
+    "word": "conversation",
+    "definition": "A talk between two or more people.",
+    "variations": [
+      "conversation",
+      "conversations"
+    ],
+    "emoji": "💬",
+    "pages": [
+      "pg006_sec001",
+      "pg039_sec001",
+      "pg040_sec002"
+    ]
+  },
+  "cooking": {
+    "word": "cooking",
+    "definition": "preparing food with heat",
+    "variations": [
+      "cooking",
+      "cook",
+      "cooks",
+      "cooked"
+    ],
+    "emoji": "🍲👩‍🍳",
+    "pages": [
+      "pg082_sec001"
+    ]
+  },
+  "copy": {
+    "word": "copy",
+    "definition": "To look at an example and make another one like it.",
+    "variations": [
+      "copy"
+    ],
+    "emoji": "✏️",
+    "pages": [
+      "pg032_sec001"
+    ]
+  },
+  "count": {
+    "word": "count",
+    "definition": "to say numbers in order",
+    "variations": [
+      "count",
+      "counts",
+      "counting",
+      "counted"
+    ],
+    "emoji": "🔢🗣️",
+    "pages": [
+      "pg019_sec001",
+      "pg034_sec001"
+    ]
+  },
+  "cow": {
+    "word": "cow",
+    "definition": "a large farm animal that gives milk",
+    "variations": [
+      "cow",
+      "cows"
+    ],
+    "emoji": "🐄",
+    "pages": [
+      "pg010_sec001"
+    ]
+  },
+  "cup": {
+    "word": "cup",
+    "definition": "a small container used for drinking",
+    "variations": [
+      "cup",
+      "cups"
+    ],
+    "emoji": "☕",
+    "pages": [
+      "pg052_sec001",
+      "pg057_sec002",
+      "pg074_sec001"
+    ]
+  },
+  "customer": {
+    "word": "customer",
+    "definition": "A person who buys goods or services.",
+    "variations": [
+      "customer",
+      "customers"
+    ],
+    "emoji": "🛍️",
+    "pages": [
+      "pg040_sec002",
+      "pg042_sec001"
+    ]
+  },
+  "daily": {
+    "word": "daily",
+    "definition": "Happening every day.",
+    "variations": [
+      "daily"
+    ],
+    "emoji": "📆",
+    "pages": [
+      "pg038_sec001"
+    ]
+  },
+  "dancing": {
+    "word": "dancing",
+    "definition": "moving your body to music",
+    "variations": [
+      "dancing",
+      "dance",
+      "dances",
+      "danced"
+    ],
+    "emoji": "💃🎶",
+    "pages": [
+      "pg090_sec001"
+    ]
+  },
+  "day": {
+    "word": "day",
+    "definition": "a period of 24 hours, or the time when it is light",
+    "variations": [
+      "day",
+      "days"
+    ],
+    "emoji": "☀️📆",
+    "pages": [
+      "pg006_sec001",
+      "pg025_sec002",
+      "pg026_sec001",
+      "pg027_sec001",
+      "pg030_sec001",
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg039_sec001",
+      "pg043_sec001",
+      "pg044_sec001",
+      "pg074_sec001",
+      "pg083_sec001",
+      "pg084_sec001",
+      "pg090_sec001",
+      "pg093_sec001",
+      "pg094_sec001"
+    ]
+  },
+  "deer": {
+    "word": "deer",
+    "definition": "A wild animal with long legs; a male deer may have antlers.",
+    "variations": [
+      "deer"
+    ],
+    "emoji": "🦌",
+    "pages": [
+      "pg074_sec001",
+      "pg075_sec001"
+    ]
+  },
+  "dialogue": {
+    "word": "dialogue",
+    "definition": "A spoken or signed conversation between people.",
+    "variations": [
+      "dialogue",
+      "dialogues"
+    ],
+    "emoji": "🗨️",
+    "pages": [
+      "pg023_sec001",
+      "pg027_sec001",
+      "pg047_sec001",
+      "pg068_sec002",
+      "pg088_sec001",
+      "pg092_sec001"
+    ]
+  },
+  "dig": {
+    "word": "dig",
+    "definition": "to make a hole in the ground",
+    "variations": [
+      "dig",
+      "digs",
+      "digging",
+      "dug"
+    ],
+    "emoji": "⛏️🕳️",
+    "pages": [
+      "pg065_sec001"
+    ]
+  },
+  "dishes": {
+    "word": "dishes",
+    "definition": "plates, cups, and other things used for eating and serving food",
+    "variations": [
+      "dishes",
+      "dish"
+    ],
+    "emoji": "🍽️",
+    "pages": [
+      "pg010_sec001",
+      "pg024_sec001",
+      "pg080_sec002"
+    ]
+  },
+  "dog": {
+    "word": "dog",
+    "definition": "an animal often kept as a pet or for work",
+    "variations": [
+      "dog",
+      "dogs"
+    ],
+    "emoji": "🐶",
+    "pages": [
+      "pg009_sec001",
+      "pg017_sec001",
+      "pg043_sec001",
+      "pg044_sec001",
+      "pg050_sec002",
+      "pg051_sec001",
+      "pg066_sec002",
+      "pg076_sec001"
+    ]
+  },
+  "dot": {
+    "word": "dot",
+    "definition": "a very small round mark",
+    "variations": [
+      "dot",
+      "dots"
+    ],
+    "emoji": "⚫",
+    "pages": [
+      "pg054_sec002"
+    ]
+  },
+  "draw": {
+    "word": "draw",
+    "definition": "To make a picture or a shape using lines.",
+    "variations": [
+      "draw",
+      "drawing"
+    ],
+    "emoji": "🖍️",
+    "pages": [
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg079_sec001"
+    ]
+  },
+  "dress": {
+    "word": "dress",
+    "definition": "a piece of clothing worn by girls or women",
+    "variations": [
+      "dress",
+      "dresses"
+    ],
+    "emoji": "👗",
+    "pages": [
+      "pg076_sec001",
+      "pg077_sec001"
+    ]
+  },
+  "ear": {
+    "word": "ear",
+    "definition": "the part of the body used for hearing",
+    "variations": [
+      "ear",
+      "ears"
+    ],
+    "emoji": "👂🎧",
+    "pages": [
+      "pg057_sec002"
+    ]
+  },
+  "earthquake": {
+    "word": "earthquake",
+    "definition": "A sudden shaking of the ground.",
+    "variations": [
+      "earthquake",
+      "earthquakes"
+    ],
+    "emoji": "🌍",
+    "pages": [
+      "pg080_sec002"
+    ]
+  },
+  "egg": {
+    "word": "egg",
+    "definition": "an oval food with a shell, laid by a bird such as a hen",
+    "variations": [
+      "egg",
+      "eggs"
+    ],
+    "emoji": "🥚",
+    "pages": [
+      "pg085_sec001"
+    ]
+  },
+  "elephant": {
+    "word": "elephant",
+    "definition": "a very large animal with a trunk",
+    "variations": [
+      "elephant",
+      "elephants"
+    ],
+    "emoji": "🐘",
+    "pages": [
+      "pg025_sec001"
+    ]
+  },
+  "enemy": {
+    "word": "enemy",
+    "definition": "someone or something that wants to harm you or that you strongly oppose",
+    "variations": [
+      "enemy",
+      "enemies"
+    ],
+    "emoji": "⚔️😠",
+    "pages": [
+      "pg084_sec001"
+    ]
+  },
+  "English": {
+    "word": "English",
+    "definition": "the language used in this book",
+    "variations": [
+      "English"
+    ],
+    "emoji": "📘🗣️",
+    "pages": [
+      "pg001_sec001",
+      "pg006_sec001",
+      "pg074_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "environment": {
+    "word": "environment",
+    "definition": "the place around you.",
+    "variations": [
+      "environment",
+      "environments"
+    ],
+    "emoji": "🌍🏡",
+    "pages": [
+      "pg006_sec001",
+      "pg017_sec001",
+      "pg082_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "evening": {
+    "word": "evening",
+    "definition": "the later part of the day before night",
+    "variations": [
+      "evening",
+      "evenings"
+    ],
+    "emoji": "🌆🌙",
+    "pages": [
+      "pg039_sec001",
+      "pg083_sec001",
+      "pg085_sec001",
+      "pg090_sec001"
+    ]
+  },
+  "event": {
+    "word": "event",
+    "definition": "Something that happens, especially an important activity or occasion.",
+    "variations": [
+      "event",
+      "events"
+    ],
+    "emoji": "🎟️",
+    "pages": [
+      "pg006_sec001",
+      "pg045_sec002"
+    ]
+  },
+  "every day": {
+    "word": "every day",
+    "definition": "on each day; daily",
+    "variations": [
+      "every day"
+    ],
+    "emoji": "📅☀️",
+    "pages": [
+      "pg074_sec001"
+    ]
+  },
+  "every morning": {
+    "word": "every morning",
+    "definition": "on each morning",
+    "variations": [
+      "every morning"
+    ],
+    "emoji": "🌅",
+    "pages": [
+      "pg054_sec002"
+    ]
+  },
+  "every week": {
+    "word": "every week",
+    "definition": "once each week",
+    "variations": [
+      "every week"
+    ],
+    "emoji": "📆",
+    "pages": [
+      "pg062_sec001"
+    ]
+  },
+  "excuse me": {
+    "word": "excuse me",
+    "definition": "polite words used to get someone’s attention or to pass by",
+    "variations": [
+      "excuse me"
+    ],
+    "emoji": "🙋🙏",
+    "pages": [
+      "pg027_sec001",
+      "pg040_sec002"
+    ]
+  },
+  "experience": {
+    "word": "experience",
+    "definition": "something that happens to you and that you learn or feel from",
+    "variations": [
+      "experience",
+      "experiences"
+    ],
+    "emoji": "✨🧠",
+    "pages": [
+      "pg087_sec001"
+    ]
+  },
+  "eye": {
+    "word": "eye",
+    "definition": "the part of the body used for seeing",
+    "variations": [
+      "eye",
+      "eyes"
+    ],
+    "emoji": "👁️👀",
+    "pages": [
+      "pg085_sec001"
+    ]
+  },
+  "face": {
+    "word": "face",
+    "definition": "the front part of your head with your eyes, nose, and mouth.",
+    "variations": [
+      "face",
+      "faces"
+    ],
+    "emoji": "🙂👤",
+    "pages": [
+      "pg052_sec001"
+    ]
+  },
+  "familiar": {
+    "word": "familiar",
+    "definition": "Known or easily recognised because you have seen or heard it before.",
+    "variations": [
+      "familiar"
+    ],
+    "emoji": "👀",
+    "pages": [
+      "pg006_sec001",
+      "pg076_sec001"
+    ]
+  },
+  "fan": {
+    "word": "fan",
+    "definition": "a device that moves air to keep people cool",
+    "variations": [
+      "fan",
+      "fans"
+    ],
+    "emoji": "🌀🌬️",
+    "pages": [
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg063_sec002"
+    ]
+  },
+  "far": {
+    "word": "far",
+    "definition": "a long distance away",
+    "variations": [
+      "far"
+    ],
+    "emoji": "🌍↔️",
+    "pages": [
+      "pg054_sec002",
+      "pg059_sec002"
+    ]
+  },
+  "farm": {
+    "word": "farm",
+    "definition": "land where crops are grown or animals are kept",
+    "variations": [
+      "farm",
+      "farms"
+    ],
+    "emoji": "🚜🐄",
+    "pages": [
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg054_sec002",
+      "pg059_sec002",
+      "pg066_sec002",
+      "pg068_sec002"
+    ]
+  },
+  "fat": {
+    "word": "fat",
+    "definition": "having too much body weight, or a natural oily substance in the body",
+    "variations": [
+      "fat",
+      "fatter",
+      "fattest"
+    ],
+    "emoji": "⚖️",
+    "pages": [
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg060_sec002"
+    ]
+  },
+  "father": {
+    "word": "father",
+    "definition": "a male parent",
+    "variations": [
+      "father",
+      "fathers"
+    ],
+    "emoji": "👨💖",
+    "pages": [
+      "pg079_sec001",
+      "pg085_sec001",
+      "pg091_sec001"
+    ]
+  },
+  "favourite": {
+    "word": "favourite",
+    "definition": "Liked more than other things of the same kind.",
+    "variations": [
+      "favourite",
+      "favourites"
+    ],
+    "emoji": "⭐",
+    "pages": [
+      "pg035_sec001",
+      "pg036_sec001"
+    ]
+  },
+  "final": {
+    "word": "final",
+    "definition": "at the end",
+    "variations": [
+      "final",
+      "finally"
+    ],
+    "emoji": "🏁",
+    "pages": [
+      "pg044_sec001",
+      "pg066_sec002",
+      "pg067_sec001"
+    ]
+  },
+  "final sound": {
+    "word": "final sound",
+    "definition": "the last sound you hear at the end of a word",
+    "variations": [
+      "final sound",
+      "final sounds"
+    ],
+    "emoji": "🔊🏁",
+    "pages": [
+      "pg066_sec002",
+      "pg067_sec001"
+    ]
+  },
+  "fine": {
+    "word": "fine",
+    "definition": "feeling well or okay",
+    "variations": [
+      "fine"
+    ],
+    "emoji": "😊👍",
+    "pages": [
+      "pg088_sec001",
+      "pg092_sec001"
+    ]
+  },
+  "finger": {
+    "word": "finger",
+    "definition": "one of the long parts on your hand",
+    "variations": [
+      "finger",
+      "fingers"
+    ],
+    "emoji": "☝️✋",
+    "pages": [
+      "pg050_sec002",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg057_sec002",
+      "pg059_sec002",
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg068_sec002",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg076_sec001"
+    ]
+  },
+  "five": {
+    "word": "five",
+    "definition": "the number 5",
+    "variations": [
+      "five"
+    ],
+    "emoji": "5️⃣",
+    "pages": [
+      "pg063_sec001",
+      "pg076_sec001",
+      "pg077_sec001",
+      "pg078_sec001"
+    ]
+  },
+  "fix": {
+    "word": "fix",
+    "definition": "to repair something or make it right",
+    "variations": [
+      "fix",
+      "fixes",
+      "fixing",
+      "fixed"
+    ],
+    "emoji": "🔧",
+    "pages": [
+      "pg062_sec001"
+    ]
+  },
+  "flag": {
+    "word": "flag",
+    "definition": "a piece of cloth with colors or signs on it, used as a symbol of a country, school, or group",
+    "variations": [
+      "flag",
+      "flags"
+    ],
+    "emoji": "🚩🏳️",
+    "pages": [
+      "pg024_sec001"
+    ]
+  },
+  "floor": {
+    "word": "floor",
+    "definition": "the part of a room that you walk on.",
+    "variations": [
+      "floor",
+      "floors"
+    ],
+    "emoji": "🪵👣",
+    "pages": [
+      "pg029_sec001",
+      "pg030_sec001"
+    ]
+  },
+  "flower": {
+    "word": "flower",
+    "definition": "the colorful part of a plant that can grow into fruit or seeds",
+    "variations": [
+      "flower",
+      "flowers"
+    ],
+    "emoji": "🌸🌼",
+    "pages": [
+      "pg024_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "follow": {
+    "word": "follow",
+    "definition": "to do what someone tells you to do",
+    "variations": [
+      "follow",
+      "follows",
+      "following",
+      "followed"
+    ],
+    "emoji": "➡️👣",
+    "pages": [
+      "pg005_sec001",
+      "pg006_sec001",
+      "pg008_sec001",
+      "pg009_sec001",
+      "pg010_sec001",
+      "pg012_sec001",
+      "pg013_sec001",
+      "pg014_sec002",
+      "pg017_sec001",
+      "pg022_sec001",
+      "pg023_sec001",
+      "pg024_sec001",
+      "pg025_sec001",
+      "pg026_sec001",
+      "pg027_sec001",
+      "pg030_sec001",
+      "pg031_sec001",
+      "pg032_sec001",
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg035_sec001",
+      "pg036_sec002",
+      "pg036_sec001",
+      "pg039_sec001",
+      "pg040_sec002",
+      "pg042_sec001",
+      "pg043_sec001",
+      "pg045_sec002",
+      "pg047_sec001",
+      "pg048_sec001",
+      "pg050_sec002",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg053_sec001",
+      "pg054_sec001",
+      "pg054_sec002",
+      "pg057_sec002",
+      "pg059_sec001",
+      "pg059_sec002",
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg063_sec002",
+      "pg065_sec001",
+      "pg066_sec002",
+      "pg068_sec002",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg074_sec001",
+      "pg075_sec001",
+      "pg076_sec001",
+      "pg077_sec001",
+      "pg078_sec001",
+      "pg079_sec001",
+      "pg080_sec002",
+      "pg082_sec001",
+      "pg083_sec001",
+      "pg084_sec001",
+      "pg085_sec001",
+      "pg086_sec002",
+      "pg087_sec001",
+      "pg088_sec001",
+      "pg089_sec001",
+      "pg090_sec001",
+      "pg091_sec001",
+      "pg092_sec001",
+      "pg093_sec001",
+      "pg094_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "food": {
+    "word": "food",
+    "definition": "Things that people or animals eat.",
+    "variations": [
+      "food",
+      "foods"
+    ],
+    "emoji": "🍲",
+    "pages": [
+      "pg035_sec001",
+      "pg043_sec001",
+      "pg054_sec001",
+      "pg090_sec001"
+    ]
+  },
+  "foot": {
+    "word": "foot",
+    "definition": "the part at the end of the leg used for standing and walking",
+    "variations": [
+      "foot",
+      "feet"
+    ],
+    "emoji": "🦶🚶",
+    "pages": [
+      "pg035_sec001"
+    ]
+  },
+  "football": {
+    "word": "football",
+    "definition": "a game in which players kick a ball to score goals",
+    "variations": [
+      "football",
+      "footballs"
+    ],
+    "emoji": "⚽🥅",
+    "pages": [
+      "pg036_sec001",
+      "pg039_sec001",
+      "pg045_sec002",
+      "pg048_sec001",
+      "pg063_sec002",
+      "pg085_sec001",
+      "pg092_sec001",
+      "pg093_sec001"
+    ]
+  },
+  "form": {
+    "word": "form",
+    "definition": "to make or create something",
+    "variations": [
+      "form",
+      "forms",
+      "formed",
+      "forming"
+    ],
+    "emoji": "🛠️✍️",
+    "pages": [
+      "pg002_sec001",
+      "pg006_sec001",
+      "pg008_sec001",
+      "pg010_sec001",
+      "pg024_sec001",
+      "pg025_sec001",
+      "pg050_sec002",
+      "pg053_sec001",
+      "pg054_sec001",
+      "pg054_sec002",
+      "pg057_sec002",
+      "pg059_sec001",
+      "pg059_sec002",
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg063_sec002",
+      "pg065_sec001",
+      "pg066_sec002",
+      "pg080_sec002"
+    ]
+  },
+  "fox": {
+    "word": "fox",
+    "definition": "a wild animal with red or brown fur and a bushy tail",
+    "variations": [
+      "fox",
+      "foxes"
+    ],
+    "emoji": "🦊",
+    "pages": [
+      "pg009_sec001",
+      "pg024_sec001",
+      "pg051_sec001",
+      "pg057_sec002",
+      "pg062_sec001",
+      "pg074_sec001"
+    ]
+  },
+  "fresh": {
+    "word": "fresh",
+    "definition": "new, clean, and good to eat or use",
+    "variations": [
+      "fresh",
+      "fresher",
+      "freshest"
+    ],
+    "emoji": "✨🥭",
+    "pages": [
+      "pg043_sec001",
+      "pg085_sec001",
+      "pg090_sec001"
+    ]
+  },
+  "friend": {
+    "word": "friend",
+    "definition": "a person you like and know well",
+    "variations": [
+      "friend",
+      "friends"
+    ],
+    "emoji": "🧑‍🤝‍🧑",
+    "pages": [
+      "pg027_sec001",
+      "pg036_sec002",
+      "pg066_sec002",
+      "pg080_sec002",
+      "pg085_sec001",
+      "pg090_sec001",
+      "pg091_sec001"
+    ]
+  },
+  "fruit": {
+    "word": "fruit",
+    "definition": "the part of a plant that we can eat, like a mango or banana",
+    "variations": [
+      "fruit",
+      "fruits"
+    ],
+    "emoji": "🍎🍌",
+    "pages": [
+      "pg023_sec001",
+      "pg024_sec001",
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg082_sec001",
+      "pg090_sec001"
+    ]
+  },
+  "fun": {
+    "word": "fun",
+    "definition": "enjoyment or pleasure",
+    "variations": [
+      "fun"
+    ],
+    "emoji": "😄🎉",
+    "pages": [
+      "pg063_sec002"
+    ]
+  },
+  "game": {
+    "word": "game",
+    "definition": "an activity with rules that people play for fun or learning.",
+    "variations": [
+      "game",
+      "games"
+    ],
+    "emoji": "🎮🧩",
+    "pages": [
+      "pg084_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "garden": {
+    "word": "garden",
+    "definition": "a piece of ground where plants or flowers grow",
+    "variations": [
+      "garden",
+      "gardens"
+    ],
+    "emoji": "🌱🌷",
+    "pages": [
+      "pg030_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "get": {
+    "word": "get",
+    "definition": "to receive, take, or obtain something",
+    "variations": [
+      "get",
+      "gets",
+      "got",
+      "getting"
+    ],
+    "emoji": "🙌",
+    "pages": [
+      "pg009_sec001",
+      "pg040_sec002",
+      "pg042_sec001",
+      "pg083_sec001",
+      "pg087_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "giraffe": {
+    "word": "giraffe",
+    "definition": "a very tall animal with a long neck",
+    "variations": [
+      "giraffe",
+      "giraffes"
+    ],
+    "emoji": "🦒",
+    "pages": [
+      "pg087_sec001"
+    ]
+  },
+  "girl": {
+    "word": "girl",
+    "definition": "a female child",
+    "variations": [
+      "girl",
+      "girls"
+    ],
+    "emoji": "👧",
+    "pages": [
+      "pg092_sec001"
+    ]
+  },
+  "glass": {
+    "word": "glass",
+    "definition": "a hard, clear material used for windows and bottles",
+    "variations": [
+      "glass",
+      "glasses"
+    ],
+    "emoji": "🥛🪟",
+    "pages": [
+      "pg024_sec001"
+    ]
+  },
+  "go": {
+    "word": "go",
+    "definition": "to move from one place to another.",
+    "variations": [
+      "go",
+      "goes",
+      "going",
+      "went"
+    ],
+    "emoji": "🚶➡️",
+    "pages": [
+      "pg027_sec001",
+      "pg039_sec001",
+      "pg044_sec001",
+      "pg057_sec002",
+      "pg059_sec002",
+      "pg077_sec001",
+      "pg078_sec001",
+      "pg080_sec002",
+      "pg083_sec001",
+      "pg088_sec001"
+    ]
+  },
+  "goat": {
+    "word": "goat",
+    "definition": "an animal kept for milk, meat, or farming",
+    "variations": [
+      "goat",
+      "goats"
+    ],
+    "emoji": "🐐",
+    "pages": [
+      "pg051_sec001",
+      "pg052_sec001"
+    ]
+  },
+  "group": {
+    "word": "group",
+    "definition": "a number of people or things together",
+    "variations": [
+      "group",
+      "groups"
+    ],
+    "emoji": "👥",
+    "pages": [
+      "pg072_sec001"
+    ]
+  },
+  "hair": {
+    "word": "hair",
+    "definition": "the strands that grow on your head.",
+    "variations": [
+      "hair"
+    ],
+    "emoji": "🧑💇",
+    "pages": [
+      "pg074_sec001"
+    ]
+  },
+  "hand": {
+    "word": "hand",
+    "definition": "the part at the end of your arm with fingers.",
+    "variations": [
+      "hand",
+      "hands"
+    ],
+    "emoji": "✋🖐️",
+    "pages": [
+      "pg035_sec001",
+      "pg054_sec001",
+      "pg057_sec002",
+      "pg094_sec001"
+    ]
+  },
+  "hard-working": {
+    "word": "hard-working",
+    "definition": "doing a lot of work carefully and with effort",
+    "variations": [
+      "hard-working"
+    ],
+    "emoji": "💪📘",
+    "pages": [
+      "pg094_sec001"
+    ]
+  },
+  "hare": {
+    "word": "hare",
+    "definition": "an animal like a rabbit, but usually bigger with longer ears",
+    "variations": [
+      "hare",
+      "hares"
+    ],
+    "emoji": "🐇",
+    "pages": [
+      "pg036_sec002",
+      "pg074_sec001"
+    ]
+  },
+  "hat": {
+    "word": "hat",
+    "definition": "something you wear on your head",
+    "variations": [
+      "hat",
+      "hats"
+    ],
+    "emoji": "🎩🧢",
+    "pages": [
+      "pg059_sec001",
+      "pg065_sec001"
+    ]
+  },
+  "head": {
+    "word": "head",
+    "definition": "the top part of the body with the brain, eyes, nose, and mouth",
+    "variations": [
+      "head",
+      "heads"
+    ],
+    "emoji": "🧠🙂",
+    "pages": [
+      "pg035_sec001",
+      "pg077_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "healthy": {
+    "word": "healthy",
+    "definition": "well and not ill",
+    "variations": [
+      "healthy",
+      "healthier",
+      "healthiest"
+    ],
+    "emoji": "💪😊🍎",
+    "pages": [
+      "pg072_sec001"
+    ]
+  },
+  "heat": {
+    "word": "heat",
+    "definition": "warm energy that makes things hot",
+    "variations": [
+      "heat"
+    ],
+    "emoji": "🔥☀️",
+    "pages": [
+      "pg054_sec001"
+    ]
+  },
+  "hello": {
+    "word": "hello",
+    "definition": "a word used to greet someone",
+    "variations": [
+      "hello",
+      "hellos"
+    ],
+    "emoji": "👋🙂",
+    "pages": [
+      "pg036_sec001",
+      "pg088_sec001",
+      "pg092_sec001"
+    ]
+  },
+  "hen": {
+    "word": "hen",
+    "definition": "an adult female chicken",
+    "variations": [
+      "hen",
+      "hens"
+    ],
+    "emoji": "🐔",
+    "pages": [
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg083_sec001",
+      "pg084_sec001"
+    ]
+  },
+  "herd": {
+    "word": "herd",
+    "definition": "A group of animals of the same kind that live or move together.",
+    "variations": [
+      "herd",
+      "herds"
+    ],
+    "emoji": "🐄",
+    "pages": [
+      "pg068_sec002",
+      "pg071_sec001"
+    ]
+  },
+  "hide": {
+    "word": "hide",
+    "definition": "to go where others cannot see you",
+    "variations": [
+      "hide",
+      "hides",
+      "hid",
+      "hidden",
+      "hiding"
+    ],
+    "emoji": "🙈🫣",
+    "pages": [
+      "pg051_sec001"
+    ]
+  },
+  "home": {
+    "word": "home",
+    "definition": "the place where you live with your family.",
+    "variations": [
+      "home",
+      "homes"
+    ],
+    "emoji": "🏠👨‍👩‍👧‍👦",
+    "pages": [
+      "pg008_sec001",
+      "pg043_sec001",
+      "pg044_sec001",
+      "pg070_sec001",
+      "pg072_sec001",
+      "pg082_sec001",
+      "pg083_sec001",
+      "pg085_sec001",
+      "pg087_sec001"
+    ]
+  },
+  "homework": {
+    "word": "homework",
+    "definition": "school work that you do at home.",
+    "variations": [
+      "homework"
+    ],
+    "emoji": "✏️🏠",
+    "pages": [
+      "pg027_sec001",
+      "pg030_sec001",
+      "pg039_sec001",
+      "pg042_sec001",
+      "pg079_sec001"
+    ]
+  },
+  "hug": {
+    "word": "hug",
+    "definition": "to hold someone closely with your arms",
+    "variations": [
+      "hug",
+      "hugs",
+      "hugged",
+      "hugging"
+    ],
+    "emoji": "🤗🫂",
+    "pages": [
+      "pg063_sec001",
+      "pg066_sec002",
+      "pg090_sec001"
+    ]
+  },
+  "hungry": {
+    "word": "hungry",
+    "definition": "needing or wanting food",
+    "variations": [
+      "hungry"
+    ],
+    "emoji": "🍽️😋",
+    "pages": [
+      "pg044_sec001"
+    ]
+  },
+  "ice": {
+    "word": "ice",
+    "definition": "frozen water",
+    "variations": [
+      "ice"
+    ],
+    "emoji": "🧊❄️",
+    "pages": [
+      "pg054_sec001"
+    ]
+  },
+  "idea": {
+    "word": "idea",
+    "definition": "a thought or plan in your mind",
+    "variations": [
+      "idea",
+      "ideas"
+    ],
+    "emoji": "💡🧠",
+    "pages": [
+      "pg095_sec001"
+    ]
+  },
+  "identify": {
+    "word": "identify",
+    "definition": "to find or point out the correct thing",
+    "variations": [
+      "identify",
+      "identifies",
+      "identified",
+      "identifying"
+    ],
+    "emoji": "🔍✅",
+    "pages": [
+      "pg006_sec001",
+      "pg074_sec001",
+      "pg075_sec001",
+      "pg088_sec001"
+    ]
+  },
+  "initial": {
+    "word": "initial",
+    "definition": "at the beginning",
+    "variations": [
+      "initial",
+      "initially"
+    ],
+    "emoji": "1️⃣",
+    "pages": [
+      "pg005_sec001",
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg063_sec001"
+    ]
+  },
+  "initial sound": {
+    "word": "initial sound",
+    "definition": "the first sound you hear at the beginning of a word",
+    "variations": [
+      "initial sound",
+      "initial sounds"
+    ],
+    "emoji": "🔊➡️",
+    "pages": [
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg063_sec001"
+    ]
+  },
+  "Instagram": {
+    "word": "Instagram",
+    "definition": "An online service for sharing pictures and videos.",
+    "variations": [
+      "Instagram"
+    ],
+    "emoji": "📱",
+    "pages": [
+      "pg080_sec002"
+    ]
+  },
+  "instruction": {
+    "word": "instruction",
+    "definition": "something you are told to do.",
+    "variations": [
+      "instruction",
+      "instructions"
+    ],
+    "emoji": "🗣️📋",
+    "pages": [
+      "pg034_sec001"
+    ]
+  },
+  "introduce": {
+    "word": "introduce",
+    "definition": "to tell someone your name or to present one person to another",
+    "variations": [
+      "introduce",
+      "introduces",
+      "introducing",
+      "introduced"
+    ],
+    "emoji": "👋🙂",
+    "pages": [
+      "pg086_sec002"
+    ]
+  },
+  "jet": {
+    "word": "jet",
+    "definition": "a fast airplane",
+    "variations": [
+      "jet",
+      "jets"
+    ],
+    "emoji": "✈️",
+    "pages": [
+      "pg063_sec002",
+      "pg065_sec001"
+    ]
+  },
+  "jog": {
+    "word": "jog",
+    "definition": "to run slowly for exercise",
+    "variations": [
+      "jog",
+      "jogs",
+      "jogged",
+      "jogging"
+    ],
+    "emoji": "🏃👟",
+    "pages": [
+      "pg065_sec001"
+    ]
+  },
+  "jug": {
+    "word": "jug",
+    "definition": "a container with a handle used for holding liquids",
+    "variations": [
+      "jug",
+      "jugs"
+    ],
+    "emoji": "🏺🥛",
+    "pages": [
+      "pg063_sec001"
+    ]
+  },
+  "kind": {
+    "word": "kind",
+    "definition": "showing care and being nice to others",
+    "variations": [
+      "kind",
+      "kinder",
+      "kindest",
+      "kindness"
+    ],
+    "emoji": "💖😊",
+    "pages": [
+      "pg039_sec001"
+    ]
+  },
+  "kit": {
+    "word": "kit",
+    "definition": "a set of tools or things packed together for a purpose",
+    "variations": [
+      "kit",
+      "kits"
+    ],
+    "emoji": "🧰🎒",
+    "pages": [
+      "pg063_sec001"
+    ]
+  },
+  "kite": {
+    "word": "kite",
+    "definition": "a light toy that flies in the wind",
+    "variations": [
+      "kite",
+      "kites"
+    ],
+    "emoji": "🪁",
+    "pages": [
+      "pg070_sec001",
+      "pg083_sec001",
+      "pg084_sec001"
+    ]
+  },
+  "lake": {
+    "word": "lake",
+    "definition": "a large area of water surrounded by land",
+    "variations": [
+      "lake",
+      "lakes"
+    ],
+    "emoji": "🏞️💧",
+    "pages": [
+      "pg068_sec002"
+    ]
+  },
+  "laptop": {
+    "word": "laptop",
+    "definition": "a small portable computer",
+    "variations": [
+      "laptop",
+      "laptops"
+    ],
+    "emoji": "💻",
+    "pages": [
+      "pg084_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "learn": {
+    "word": "learn",
+    "definition": "to get knowledge or skill by studying, listening, or practising",
+    "variations": [
+      "learn",
+      "learns",
+      "learning",
+      "learned",
+      "learnt"
+    ],
+    "emoji": "📘🧠",
+    "pages": [
+      "pg001_sec001",
+      "pg006_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "leg": {
+    "word": "leg",
+    "definition": "one of the body parts used for standing and walking",
+    "variations": [
+      "leg",
+      "legs"
+    ],
+    "emoji": "🦵",
+    "pages": [
+      "pg063_sec002",
+      "pg065_sec001"
+    ]
+  },
+  "lemon": {
+    "word": "lemon",
+    "definition": "a yellow fruit with a sour taste",
+    "variations": [
+      "lemon",
+      "lemons"
+    ],
+    "emoji": "🍋",
+    "pages": [
+      "pg017_sec001"
+    ]
+  },
+  "lesson": {
+    "word": "lesson",
+    "definition": "a time when students learn about a subject",
+    "variations": [
+      "lesson",
+      "lessons"
+    ],
+    "emoji": "📚🏫",
+    "pages": [
+      "pg095_sec001"
+    ]
+  },
+  "letter": {
+    "word": "letter",
+    "definition": "a written sign in the alphabet used to make words",
+    "variations": [
+      "letter",
+      "letters"
+    ],
+    "emoji": "🔤",
+    "pages": [
+      "pg050_sec002",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg053_sec001",
+      "pg054_sec001",
+      "pg054_sec002",
+      "pg057_sec002",
+      "pg059_sec001",
+      "pg059_sec002",
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg063_sec002",
+      "pg065_sec001",
+      "pg066_sec002",
+      "pg067_sec001",
+      "pg068_sec002",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg074_sec001",
+      "pg075_sec001"
+    ]
+  },
+  "life": {
+    "word": "life",
+    "definition": "the time when a person, animal, or plant is alive",
+    "variations": [
+      "life",
+      "lives"
+    ],
+    "emoji": "🌱❤️",
+    "pages": [
+      "pg087_sec001"
+    ]
+  },
+  "light": {
+    "word": "light",
+    "definition": "brightness that helps us see",
+    "variations": [
+      "light",
+      "lights"
+    ],
+    "emoji": "💡✨",
+    "pages": [
+      "pg068_sec002",
+      "pg070_sec001",
+      "pg071_sec001"
+    ]
+  },
+  "like": {
+    "word": "like",
+    "definition": "to enjoy something or think it is good",
+    "variations": [
+      "like",
+      "likes",
+      "liked",
+      "liking"
+    ],
+    "emoji": "😊👍",
+    "pages": [
+      "pg005_sec001",
+      "pg023_sec001",
+      "pg024_sec001",
+      "pg036_sec001",
+      "pg054_sec001",
+      "pg063_sec001",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg080_sec002",
+      "pg084_sec001",
+      "pg085_sec001",
+      "pg091_sec001",
+      "pg093_sec001"
+    ]
+  },
+  "line": {
+    "word": "line",
+    "definition": "A mark that goes from one place to another. It can be straight or curved.",
+    "variations": [
+      "line",
+      "lines"
+    ],
+    "emoji": "✏️",
+    "pages": [
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg072_sec001"
+    ]
+  },
+  "lion": {
+    "word": "lion",
+    "definition": "a large wild cat with a powerful body",
+    "variations": [
+      "lion",
+      "lions"
+    ],
+    "emoji": "🦁",
+    "pages": [
+      "pg063_sec001",
+      "pg087_sec001"
+    ]
+  },
+  "lip": {
+    "word": "lip",
+    "definition": "one of the two soft edges of the mouth",
+    "variations": [
+      "lip",
+      "lips"
+    ],
+    "emoji": "👄",
+    "pages": [
+      "pg059_sec001",
+      "pg060_sec002"
+    ]
+  },
+  "listen": {
+    "word": "listen",
+    "definition": "to pay attention to sounds or to what someone is saying",
+    "variations": [
+      "listen",
+      "listens",
+      "listening",
+      "listened"
+    ],
+    "emoji": "👂🎧",
+    "pages": [
+      "pg006_sec001",
+      "pg034_sec001",
+      "pg036_sec002"
+    ]
+  },
+  "live": {
+    "word": "live",
+    "definition": "to stay in a place or have your home there",
+    "variations": [
+      "live",
+      "lived",
+      "living"
+    ],
+    "emoji": "🏠📍",
+    "pages": [
+      "pg035_sec001",
+      "pg072_sec001",
+      "pg079_sec001",
+      "pg087_sec001",
+      "pg093_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "lock": {
+    "word": "lock",
+    "definition": "to fasten a door so it cannot be opened easily.",
+    "variations": [
+      "lock",
+      "locks",
+      "locking",
+      "locked"
+    ],
+    "emoji": "🔒🚪",
+    "pages": [
+      "pg057_sec002",
+      "pg059_sec001"
+    ]
+  },
+  "log": {
+    "word": "log",
+    "definition": "a thick piece of cut wood",
+    "variations": [
+      "log",
+      "logs"
+    ],
+    "emoji": "🪵",
+    "pages": [
+      "pg050_sec002",
+      "pg051_sec001",
+      "pg060_sec002"
+    ]
+  },
+  "mad": {
+    "word": "mad",
+    "definition": "very angry",
+    "variations": [
+      "mad",
+      "madder",
+      "maddest"
+    ],
+    "emoji": "😠",
+    "pages": [
+      "pg063_sec002",
+      "pg065_sec001"
+    ]
+  },
+  "magic": {
+    "word": "magic",
+    "definition": "Special actions in stories or shows that seem impossible.",
+    "variations": [
+      "magic"
+    ],
+    "emoji": "🪄",
+    "pages": [
+      "pg093_sec001",
+      "pg094_sec001"
+    ]
+  },
+  "magnitude": {
+    "word": "magnitude",
+    "definition": "A measure of how strong an earthquake is.",
+    "variations": [
+      "magnitude",
+      "magnitudes"
+    ],
+    "emoji": "📏",
+    "pages": [
+      "pg080_sec002"
+    ]
+  },
+  "make": {
+    "word": "make",
+    "definition": "to put something together or get something ready.",
+    "variations": [
+      "make",
+      "makes",
+      "making",
+      "made"
+    ],
+    "emoji": "🛏️👐",
+    "pages": [
+      "pg009_sec001",
+      "pg013_sec001",
+      "pg017_sec001",
+      "pg025_sec001",
+      "pg040_sec002",
+      "pg054_sec001",
+      "pg057_sec002",
+      "pg059_sec002",
+      "pg065_sec001",
+      "pg068_sec002",
+      "pg072_sec001",
+      "pg082_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "man": {
+    "word": "man",
+    "definition": "an adult male person",
+    "variations": [
+      "man",
+      "men"
+    ],
+    "emoji": "👨",
+    "pages": [
+      "pg056_sec001",
+      "pg057_sec002",
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg065_sec001",
+      "pg066_sec002",
+      "pg067_sec001"
+    ]
+  },
+  "mango": {
+    "word": "mango",
+    "definition": "a sweet yellow or orange fruit",
+    "variations": [
+      "mango",
+      "mangoes",
+      "mangos"
+    ],
+    "emoji": "🥭",
+    "pages": [
+      "pg024_sec001",
+      "pg044_sec001"
+    ]
+  },
+  "mat": {
+    "word": "mat",
+    "definition": "a small piece of material put on a floor or table",
+    "variations": [
+      "mat",
+      "mats"
+    ],
+    "emoji": "🟫",
+    "pages": [
+      "pg051_sec001",
+      "pg066_sec002"
+    ]
+  },
+  "match": {
+    "word": "match",
+    "definition": "a game or contest between people or teams",
+    "variations": [
+      "match",
+      "matches"
+    ],
+    "emoji": "⚽🏆",
+    "pages": [
+      "pg010_sec001",
+      "pg032_sec001",
+      "pg045_sec002",
+      "pg048_sec001",
+      "pg067_sec001",
+      "pg092_sec001",
+      "pg093_sec001"
+    ]
+  },
+  "meal": {
+    "word": "meal",
+    "definition": "food that you eat at one time, like breakfast or lunch",
+    "variations": [
+      "meal",
+      "meals"
+    ],
+    "emoji": "🍽️🥘",
+    "pages": [
+      "pg066_sec002"
+    ]
+  },
+  "mechanic": {
+    "word": "mechanic",
+    "definition": "A person who repairs machines or vehicles.",
+    "variations": [
+      "mechanic",
+      "mechanics"
+    ],
+    "emoji": "🔧",
+    "pages": [
+      "pg080_sec002"
+    ]
+  },
+  "mix": {
+    "word": "mix",
+    "definition": "to put things together so they combine",
+    "variations": [
+      "mix",
+      "mixes",
+      "mixed",
+      "mixing"
+    ],
+    "emoji": "🥣🔀",
+    "pages": [
+      "pg077_sec001"
+    ]
+  },
+  "month": {
+    "word": "month",
+    "definition": "One of the twelve parts of a year.",
+    "variations": [
+      "month",
+      "months"
+    ],
+    "emoji": "🗓️",
+    "pages": [
+      "pg006_sec001",
+      "pg030_sec002",
+      "pg031_sec001",
+      "pg032_sec001",
+      "pg033_sec001"
+    ]
+  },
+  "mop": {
+    "word": "mop",
+    "definition": "to clean a floor with a mop.",
+    "variations": [
+      "mop",
+      "mops",
+      "mopping",
+      "mopped"
+    ],
+    "emoji": "🪣🧽",
+    "pages": [
+      "pg029_sec001",
+      "pg063_sec002",
+      "pg065_sec001"
+    ]
+  },
+  "morning": {
+    "word": "morning",
+    "definition": "the early part of the day before দুপুর",
+    "variations": [
+      "morning",
+      "mornings"
+    ],
+    "emoji": "🌅☀️",
+    "pages": [
+      "pg039_sec001",
+      "pg042_sec001",
+      "pg054_sec002",
+      "pg068_sec002",
+      "pg085_sec001",
+      "pg086_sec002",
+      "pg091_sec001"
+    ]
+  },
+  "mother": {
+    "word": "mother",
+    "definition": "a female parent",
+    "variations": [
+      "mother",
+      "mothers"
+    ],
+    "emoji": "👩💖",
+    "pages": [
+      "pg078_sec001",
+      "pg090_sec001",
+      "pg091_sec001"
+    ]
+  },
+  "mounted": {
+    "word": "mounted",
+    "definition": "fixed something onto another thing",
+    "variations": [
+      "mounted",
+      "mount",
+      "mounts",
+      "mounting"
+    ],
+    "emoji": "🔧📷",
+    "pages": [
+      "pg070_sec001"
+    ]
+  },
+  "mouse": {
+    "word": "mouse",
+    "definition": "a small animal with a long tail",
+    "variations": [
+      "mouse",
+      "mice"
+    ],
+    "emoji": "🐭",
+    "pages": [
+      "pg084_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "mouth": {
+    "word": "mouth",
+    "definition": "the part of the face used for eating, speaking, and singing",
+    "variations": [
+      "mouth",
+      "mouths"
+    ],
+    "emoji": "👄🗣️",
+    "pages": [
+      "pg043_sec001",
+      "pg044_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "mud": {
+    "word": "mud",
+    "definition": "wet soft earth",
+    "variations": [
+      "mud"
+    ],
+    "emoji": "🟤💧",
+    "pages": [
+      "pg063_sec002",
+      "pg065_sec001"
+    ]
+  },
+  "mug": {
+    "word": "mug",
+    "definition": "a large cup for drinking",
+    "variations": [
+      "mug",
+      "mugs"
+    ],
+    "emoji": "☕杯",
+    "pages": [
+      "pg062_sec001",
+      "pg063_sec001"
+    ]
+  },
+  "name": {
+    "word": "name",
+    "definition": "the word used for a person, animal, place, or thing",
+    "variations": [
+      "name",
+      "names",
+      "naming",
+      "named"
+    ],
+    "emoji": "🏷️",
+    "pages": [
+      "pg006_sec001",
+      "pg035_sec001",
+      "pg036_sec002",
+      "pg045_sec002",
+      "pg050_sec002",
+      "pg051_sec001",
+      "pg053_sec001",
+      "pg054_sec002",
+      "pg057_sec002",
+      "pg060_sec002",
+      "pg063_sec002",
+      "pg068_sec002",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg085_sec001",
+      "pg087_sec001",
+      "pg089_sec001",
+      "pg090_sec001"
+    ]
+  },
+  "nap": {
+    "word": "nap",
+    "definition": "a short sleep, usually during the day",
+    "variations": [
+      "nap",
+      "naps",
+      "napped",
+      "napping"
+    ],
+    "emoji": "😴",
+    "pages": [
+      "pg052_sec001",
+      "pg060_sec002"
+    ]
+  },
+  "narrated": {
+    "word": "narrated",
+    "definition": "told a story or described what happened",
+    "variations": [
+      "narrated",
+      "narrate",
+      "narrates",
+      "narrating"
+    ],
+    "emoji": "🗣️📖",
+    "pages": [
+      "pg006_sec001"
+    ]
+  },
+  "national park": {
+    "word": "national park",
+    "definition": "A protected area where wildlife and nature are cared for.",
+    "variations": [
+      "national park",
+      "national parks"
+    ],
+    "emoji": "🏞️",
+    "pages": [
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg086_sec002"
+    ]
+  },
+  "needle": {
+    "word": "needle",
+    "definition": "A thin pointed tool used for sewing.",
+    "variations": [
+      "needle",
+      "needles"
+    ],
+    "emoji": "🪡",
+    "pages": [
+      "pg083_sec001",
+      "pg084_sec001"
+    ]
+  },
+  "neighbour": {
+    "word": "neighbour",
+    "definition": "a person who lives near you",
+    "variations": [
+      "neighbour",
+      "neighbours"
+    ],
+    "emoji": "🏠👋",
+    "pages": [
+      "pg083_sec001",
+      "pg090_sec001",
+      "pg091_sec001"
+    ]
+  },
+  "net": {
+    "word": "net",
+    "definition": "material made of crossed strings or threads with holes in it",
+    "variations": [
+      "net",
+      "nets"
+    ],
+    "emoji": "🥅",
+    "pages": [
+      "pg075_sec001"
+    ]
+  },
+  "nice": {
+    "word": "nice",
+    "definition": "pleasant, kind, or good",
+    "variations": [
+      "nice",
+      "nicer",
+      "nicest"
+    ],
+    "emoji": "😊👍",
+    "pages": [
+      "pg025_sec001",
+      "pg068_sec002",
+      "pg091_sec001"
+    ]
+  },
+  "night": {
+    "word": "night",
+    "definition": "the dark time of day when people usually sleep",
+    "variations": [
+      "night",
+      "nights"
+    ],
+    "emoji": "🌙⭐",
+    "pages": [
+      "pg039_sec001",
+      "pg044_sec001",
+      "pg068_sec002",
+      "pg071_sec001",
+      "pg076_sec001"
+    ]
+  },
+  "nine": {
+    "word": "nine",
+    "definition": "the number 9",
+    "variations": [
+      "nine"
+    ],
+    "emoji": "9️⃣",
+    "pages": [
+      "pg079_sec001"
+    ]
+  },
+  "nod": {
+    "word": "nod",
+    "definition": "to move your head up and down to say yes or show agreement",
+    "variations": [
+      "nod",
+      "nods",
+      "nodded",
+      "nodding"
+    ],
+    "emoji": "🙂⬇️",
+    "pages": [
+      "pg035_sec001",
+      "pg059_sec002"
+    ]
+  },
+  "number": {
+    "word": "number",
+    "definition": "a word or sign used for counting, like 1, 2, or 3.",
+    "variations": [
+      "number",
+      "numbers"
+    ],
+    "emoji": "🔢1️⃣",
+    "pages": [
+      "pg015_sec001",
+      "pg019_sec001",
+      "pg032_sec001",
+      "pg078_sec001"
+    ]
+  },
+  "nut": {
+    "word": "nut",
+    "definition": "a hard-shelled fruit or seed",
+    "variations": [
+      "nut",
+      "nuts"
+    ],
+    "emoji": "🥜",
+    "pages": [
+      "pg065_sec001",
+      "pg075_sec001"
+    ]
+  },
+  "object": {
+    "word": "object",
+    "definition": "a thing that you can see or touch.",
+    "variations": [
+      "object",
+      "objects"
+    ],
+    "emoji": "📦👀",
+    "pages": [
+      "pg006_sec001",
+      "pg008_sec001",
+      "pg010_sec001",
+      "pg014_sec002",
+      "pg015_sec001",
+      "pg017_sec001",
+      "pg019_sec001"
+    ]
+  },
+  "office": {
+    "word": "office",
+    "definition": "a place where people do work, often at desks",
+    "variations": [
+      "office",
+      "offices"
+    ],
+    "emoji": "🏢💼",
+    "pages": [
+      "pg042_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "old": {
+    "word": "old",
+    "definition": "used to show how many years someone has lived",
+    "variations": [
+      "old"
+    ],
+    "emoji": "🎂📅",
+    "pages": [
+      "pg035_sec001",
+      "pg057_sec002",
+      "pg059_sec001",
+      "pg063_sec001",
+      "pg089_sec001",
+      "pg090_sec001",
+      "pg091_sec001"
+    ]
+  },
+  "Olympics": {
+    "word": "Olympics",
+    "definition": "A large international sports competition held every four years.",
+    "variations": [
+      "Olympics",
+      "Olympic"
+    ],
+    "emoji": "🏅",
+    "pages": [
+      "pg080_sec002"
+    ]
+  },
+  "one": {
+    "word": "one",
+    "definition": "the number 1",
+    "variations": [
+      "one"
+    ],
+    "emoji": "1️⃣",
+    "pages": [
+      "pg009_sec001",
+      "pg013_sec001",
+      "pg017_sec001",
+      "pg034_sec001",
+      "pg040_sec002",
+      "pg043_sec001",
+      "pg044_sec001",
+      "pg059_sec002",
+      "pg065_sec001",
+      "pg074_sec001",
+      "pg083_sec001",
+      "pg084_sec001",
+      "pg093_sec001",
+      "pg094_sec001"
+    ]
+  },
+  "open": {
+    "word": "open",
+    "definition": "to move something so it is not closed.",
+    "variations": [
+      "open",
+      "opens",
+      "opening",
+      "opened"
+    ],
+    "emoji": "🚪📖",
+    "pages": [
+      "pg005_sec001",
+      "pg034_sec001",
+      "pg040_sec002",
+      "pg042_sec001",
+      "pg044_sec001",
+      "pg077_sec001",
+      "pg080_sec002"
+    ]
+  },
+  "ox": {
+    "word": "ox",
+    "definition": "a large farm animal like a strong cow",
+    "variations": [
+      "ox",
+      "oxen"
+    ],
+    "emoji": "🐂",
+    "pages": [
+      "pg057_sec002"
+    ]
+  },
+  "pain": {
+    "word": "pain",
+    "definition": "a hurt feeling in the body",
+    "variations": [
+      "pain",
+      "pains"
+    ],
+    "emoji": "🤕",
+    "pages": [
+      "pg068_sec002"
+    ]
+  },
+  "pan": {
+    "word": "pan",
+    "definition": "a round metal container used for cooking",
+    "variations": [
+      "pan",
+      "pans"
+    ],
+    "emoji": "🍳",
+    "pages": [
+      "pg062_sec001",
+      "pg063_sec002"
+    ]
+  },
+  "papaya": {
+    "word": "papaya",
+    "definition": "a large soft fruit with orange flesh and black seeds",
+    "variations": [
+      "papaya",
+      "papayas"
+    ],
+    "emoji": "🍈🥭",
+    "pages": [
+      "pg024_sec001"
+    ]
+  },
+  "part": {
+    "word": "part",
+    "definition": "one piece or section of something",
+    "variations": [
+      "part",
+      "parts"
+    ],
+    "emoji": "🧩📍",
+    "pages": [
+      "pg002_sec001",
+      "pg056_sec001"
+    ]
+  },
+  "participate": {
+    "word": "participate",
+    "definition": "to take part in an activity",
+    "variations": [
+      "participate",
+      "participates",
+      "participating",
+      "participated"
+    ],
+    "emoji": "🤝⚽",
+    "pages": [
+      "pg005_sec001",
+      "pg082_sec001"
+    ]
+  },
+  "partner": {
+    "word": "partner",
+    "definition": "A person you work or do an activity with.",
+    "variations": [
+      "partner",
+      "partners"
+    ],
+    "emoji": "🤝",
+    "pages": [
+      "pg042_sec001"
+    ]
+  },
+  "passage": {
+    "word": "passage",
+    "definition": "a short piece of writing to read",
+    "variations": [
+      "passage",
+      "passages"
+    ],
+    "emoji": "📖📝",
+    "pages": [
+      "pg085_sec001",
+      "pg086_sec002",
+      "pg090_sec001",
+      "pg093_sec001"
+    ]
+  },
+  "passenger": {
+    "word": "passenger",
+    "definition": "A person travelling in a vehicle who is not driving it.",
+    "variations": [
+      "passenger",
+      "passengers"
+    ],
+    "emoji": "🚌",
+    "pages": [
+      "pg040_sec002"
+    ]
+  },
+  "peg": {
+    "word": "peg",
+    "definition": "a small piece used to hold or hang something",
+    "variations": [
+      "peg",
+      "pegs"
+    ],
+    "emoji": "🪝🧺",
+    "pages": [
+      "pg051_sec001"
+    ]
+  },
+  "pen": {
+    "word": "pen",
+    "definition": "a tool used for writing with ink",
+    "variations": [
+      "pen",
+      "pens"
+    ],
+    "emoji": "🖊️",
+    "pages": [
+      "pg014_sec002",
+      "pg024_sec001",
+      "pg040_sec002",
+      "pg063_sec001",
+      "pg063_sec002"
+    ]
+  },
+  "pencil": {
+    "word": "pencil",
+    "definition": "a tool used for writing or drawing",
+    "variations": [
+      "pencil",
+      "pencils"
+    ],
+    "emoji": "✏️",
+    "pages": [
+      "pg014_sec002",
+      "pg042_sec001",
+      "pg071_sec001",
+      "pg077_sec001",
+      "pg080_sec002"
+    ]
+  },
+  "people": {
+    "word": "people",
+    "definition": "human beings; men, women, and children",
+    "variations": [
+      "people"
+    ],
+    "emoji": "👥🙂",
+    "pages": [
+      "pg048_sec001",
+      "pg059_sec001",
+      "pg059_sec002",
+      "pg075_sec001",
+      "pg077_sec001",
+      "pg092_sec001",
+      "pg093_sec001",
+      "pg094_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "pet": {
+    "word": "pet",
+    "definition": "an animal kept at home for company",
+    "variations": [
+      "pet",
+      "pets"
+    ],
+    "emoji": "🐾🏠",
+    "pages": [
+      "pg051_sec001",
+      "pg067_sec001"
+    ]
+  },
+  "phone": {
+    "word": "phone",
+    "definition": "a device used for talking to someone far away",
+    "variations": [
+      "phone",
+      "phones"
+    ],
+    "emoji": "📱☎️",
+    "pages": [
+      "pg078_sec001"
+    ]
+  },
+  "pick": {
+    "word": "pick",
+    "definition": "to take something from where it is growing or lying",
+    "variations": [
+      "pick",
+      "picks",
+      "picking",
+      "picked"
+    ],
+    "emoji": "🖐️🥭",
+    "pages": [
+      "pg077_sec001"
+    ]
+  },
+  "picture": {
+    "word": "picture",
+    "definition": "an image or drawing of something",
+    "variations": [
+      "picture",
+      "pictures"
+    ],
+    "emoji": "🖼️",
+    "pages": [
+      "pg008_sec001",
+      "pg013_sec001",
+      "pg015_sec001",
+      "pg016_sec001",
+      "pg017_sec001",
+      "pg019_sec001",
+      "pg021_sec001",
+      "pg045_sec002",
+      "pg050_sec002",
+      "pg051_sec001",
+      "pg053_sec001",
+      "pg056_sec001",
+      "pg057_sec002",
+      "pg060_sec002",
+      "pg063_sec002",
+      "pg067_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg091_sec001",
+      "pg092_sec001"
+    ]
+  },
+  "pin": {
+    "word": "pin",
+    "definition": "a small thin piece of metal used for fastening things",
+    "variations": [
+      "pin",
+      "pins"
+    ],
+    "emoji": "📌",
+    "pages": [
+      "pg050_sec002",
+      "pg051_sec001",
+      "pg062_sec001",
+      "pg065_sec001"
+    ]
+  },
+  "pinned": {
+    "word": "pinned",
+    "definition": "fixed or placed something firmly in one place",
+    "variations": [
+      "pinned",
+      "pinning"
+    ],
+    "emoji": "📌",
+    "pages": [
+      "pg050_sec002",
+      "pg051_sec001",
+      "pg062_sec001",
+      "pg065_sec001"
+    ]
+  },
+  "pit": {
+    "word": "pit",
+    "definition": "a hole in the ground or a small hard seed inside some fruits",
+    "variations": [
+      "pit",
+      "pits"
+    ],
+    "emoji": "🕳️",
+    "pages": [
+      "pg063_sec001",
+      "pg063_sec002",
+      "pg065_sec001"
+    ]
+  },
+  "plane": {
+    "word": "plane",
+    "definition": "a flying vehicle with wings",
+    "variations": [
+      "plane",
+      "planes"
+    ],
+    "emoji": "✈️",
+    "pages": [
+      "pg025_sec001"
+    ]
+  },
+  "plant": {
+    "word": "plant",
+    "definition": "a living thing that grows in soil and has leaves and roots",
+    "variations": [
+      "plant",
+      "plants"
+    ],
+    "emoji": "🪴🌿",
+    "pages": [
+      "pg033_sec001",
+      "pg034_sec001"
+    ]
+  },
+  "play": {
+    "word": "play",
+    "definition": "to do an activity for fun or sport",
+    "variations": [
+      "play",
+      "plays",
+      "played",
+      "playing"
+    ],
+    "emoji": "⚽🎉",
+    "pages": [
+      "pg027_sec001",
+      "pg039_sec001",
+      "pg075_sec001",
+      "pg079_sec001",
+      "pg084_sec001",
+      "pg085_sec001",
+      "pg088_sec001",
+      "pg092_sec001",
+      "pg093_sec001"
+    ]
+  },
+  "playground": {
+    "word": "playground",
+    "definition": "an outdoor place where children play or do activities",
+    "variations": [
+      "playground",
+      "playgrounds"
+    ],
+    "emoji": "🏫⚽🛝",
+    "pages": [
+      "pg042_sec001"
+    ]
+  },
+  "please": {
+    "word": "please",
+    "definition": "a polite word used when asking for something",
+    "variations": [
+      "please"
+    ],
+    "emoji": "🙏🙂",
+    "pages": [
+      "pg040_sec002",
+      "pg042_sec001",
+      "pg087_sec001"
+    ]
+  },
+  "plural": {
+    "word": "plural",
+    "definition": "meaning more than one person, animal or thing",
+    "variations": [
+      "plural",
+      "plurals"
+    ],
+    "emoji": "🔢➕",
+    "pages": [
+      "pg006_sec001",
+      "pg008_sec001",
+      "pg009_sec001",
+      "pg010_sec001",
+      "pg014_sec002",
+      "pg017_sec001",
+      "pg024_sec001",
+      "pg025_sec001"
+    ]
+  },
+  "poem": {
+    "word": "poem",
+    "definition": "a piece of writing with special lines that expresses ideas or feelings",
+    "variations": [
+      "poem",
+      "poems"
+    ],
+    "emoji": "📜🎵",
+    "pages": [
+      "pg068_sec002",
+      "pg089_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "polite": {
+    "word": "polite",
+    "definition": "showing good manners and speaking in a kind and respectful way",
+    "variations": [
+      "polite",
+      "politely",
+      "politeness"
+    ],
+    "emoji": "😊🙏",
+    "pages": [
+      "pg040_sec002",
+      "pg042_sec001"
+    ]
+  },
+  "pot": {
+    "word": "pot",
+    "definition": "a deep round container used for cooking or holding plants",
+    "variations": [
+      "pot",
+      "pots"
+    ],
+    "emoji": "🍲🪴",
+    "pages": [
+      "pg052_sec001",
+      "pg059_sec001",
+      "pg060_sec002",
+      "pg067_sec001",
+      "pg078_sec001",
+      "pg079_sec001"
+    ]
+  },
+  "potato": {
+    "word": "potato",
+    "definition": "A round vegetable that grows under the ground.",
+    "variations": [
+      "potato",
+      "potatoes"
+    ],
+    "emoji": "🥔",
+    "pages": [
+      "pg076_sec001",
+      "pg079_sec001"
+    ]
+  },
+  "pretend": {
+    "word": "pretend",
+    "definition": "to act as if something is true when it is not",
+    "variations": [
+      "pretend",
+      "pretends",
+      "pretended",
+      "pretending"
+    ],
+    "emoji": "🎭🤫",
+    "pages": [
+      "pg093_sec001"
+    ]
+  },
+  "prize": {
+    "word": "prize",
+    "definition": "something given to a person who wins",
+    "variations": [
+      "prize",
+      "prizes"
+    ],
+    "emoji": "🏆🎁",
+    "pages": [
+      "pg095_sec001"
+    ]
+  },
+  "promise": {
+    "word": "promise",
+    "definition": "to say for sure that you will do something",
+    "variations": [
+      "promise",
+      "promises",
+      "promised",
+      "promising"
+    ],
+    "emoji": "🤝💬",
+    "pages": [
+      "pg094_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "pronounce": {
+    "word": "pronounce",
+    "definition": "to say a word or sound in a particular way",
+    "variations": [
+      "pronounce",
+      "pronounces",
+      "pronouncing",
+      "pronounced",
+      "pronunciation"
+    ],
+    "emoji": "🗣️🔊",
+    "pages": [
+      "pg006_sec001",
+      "pg010_sec001",
+      "pg050_sec002",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg053_sec001",
+      "pg054_sec001",
+      "pg054_sec002",
+      "pg057_sec002",
+      "pg059_sec001",
+      "pg059_sec002",
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg063_sec002",
+      "pg065_sec001",
+      "pg066_sec002",
+      "pg068_sec002",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg074_sec001",
+      "pg083_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "punctuation": {
+    "word": "punctuation",
+    "definition": "Marks such as a full stop, comma or question mark used in writing.",
+    "variations": [
+      "punctuation"
+    ],
+    "emoji": "❓",
+    "pages": [
+      "pg006_sec001",
+      "pg086_sec002",
+      "pg087_sec001"
+    ]
+  },
+  "pupil": {
+    "word": "pupil",
+    "definition": "a child who learns at school; a student",
+    "variations": [
+      "pupil",
+      "pupils"
+    ],
+    "emoji": "🧒🏫",
+    "pages": [
+      "pg001_sec001",
+      "pg005_sec001",
+      "pg006_sec001",
+      "pg025_sec001",
+      "pg029_sec001",
+      "pg040_sec002",
+      "pg044_sec001",
+      "pg078_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "puppy": {
+    "word": "puppy",
+    "definition": "a young dog",
+    "variations": [
+      "puppy",
+      "puppies"
+    ],
+    "emoji": "🐶",
+    "pages": [
+      "pg009_sec001",
+      "pg010_sec001"
+    ]
+  },
+  "put": {
+    "word": "put",
+    "definition": "to place something somewhere",
+    "variations": [
+      "put",
+      "puts",
+      "putting"
+    ],
+    "emoji": "🫳📍",
+    "pages": [
+      "pg035_sec001",
+      "pg051_sec001",
+      "pg054_sec001",
+      "pg054_sec002",
+      "pg063_sec002",
+      "pg077_sec001"
+    ]
+  },
+  "queen": {
+    "word": "queen",
+    "definition": "A woman who rules a kingdom or is married to a king.",
+    "variations": [
+      "queen"
+    ],
+    "emoji": "👑",
+    "pages": [
+      "pg094_sec001"
+    ]
+  },
+  "rain": {
+    "word": "rain",
+    "definition": "water that falls from the sky",
+    "variations": [
+      "rain",
+      "rains",
+      "raining"
+    ],
+    "emoji": "🌧️",
+    "pages": [
+      "pg054_sec001",
+      "pg068_sec002"
+    ]
+  },
+  "raise": {
+    "word": "raise",
+    "definition": "to lift something up.",
+    "variations": [
+      "raise",
+      "raises",
+      "raising",
+      "raised"
+    ],
+    "emoji": "✋⬆️",
+    "pages": [
+      "pg035_sec001"
+    ]
+  },
+  "rat": {
+    "word": "rat",
+    "definition": "a small animal like a large mouse",
+    "variations": [
+      "rat",
+      "rats"
+    ],
+    "emoji": "🐀",
+    "pages": [
+      "pg051_sec001",
+      "pg054_sec001",
+      "pg060_sec002"
+    ]
+  },
+  "read": {
+    "word": "read",
+    "definition": "to look at words and say or understand them",
+    "variations": [
+      "read",
+      "reads",
+      "reading"
+    ],
+    "emoji": "📖",
+    "pages": [
+      "pg005_sec001",
+      "pg006_sec001",
+      "pg010_sec001",
+      "pg014_sec002",
+      "pg017_sec001",
+      "pg033_sec001",
+      "pg043_sec001",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg054_sec001",
+      "pg054_sec002",
+      "pg057_sec002",
+      "pg059_sec001",
+      "pg059_sec002",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg063_sec002",
+      "pg065_sec001",
+      "pg066_sec002",
+      "pg068_sec002",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg074_sec001",
+      "pg075_sec001",
+      "pg076_sec001",
+      "pg077_sec001",
+      "pg078_sec001",
+      "pg079_sec001",
+      "pg080_sec002",
+      "pg082_sec001",
+      "pg083_sec001",
+      "pg084_sec001",
+      "pg085_sec001",
+      "pg086_sec002",
+      "pg088_sec001",
+      "pg089_sec001",
+      "pg090_sec001",
+      "pg093_sec001"
+    ]
+  },
+  "recite": {
+    "word": "recite",
+    "definition": "to say something aloud from memory or with practice",
+    "variations": [
+      "recite",
+      "recites",
+      "recited",
+      "reciting"
+    ],
+    "emoji": "🗣️📖",
+    "pages": [
+      "pg006_sec001",
+      "pg068_sec002",
+      "pg095_sec001"
+    ]
+  },
+  "replace": {
+    "word": "replace",
+    "definition": "to take the place of something else",
+    "variations": [
+      "replace",
+      "replaces",
+      "replaced",
+      "replacing"
+    ],
+    "emoji": "🔁",
+    "pages": [
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg063_sec002",
+      "pg065_sec001",
+      "pg066_sec002",
+      "pg067_sec001"
+    ]
+  },
+  "report": {
+    "word": "report",
+    "definition": "to tell or write what you have seen or learned",
+    "variations": [
+      "report",
+      "reports",
+      "reported",
+      "reporting"
+    ],
+    "emoji": "📝🗣️",
+    "pages": [
+      "pg078_sec001",
+      "pg083_sec001"
+    ]
+  },
+  "request": {
+    "word": "request",
+    "definition": "A polite or formal way of asking for something.",
+    "variations": [
+      "request",
+      "requests"
+    ],
+    "emoji": "🙏",
+    "pages": [
+      "pg040_sec002"
+    ]
+  },
+  "rice": {
+    "word": "rice",
+    "definition": "small white or brown grains eaten as food",
+    "variations": [
+      "rice"
+    ],
+    "emoji": "🍚",
+    "pages": [
+      "pg053_sec001",
+      "pg054_sec001"
+    ]
+  },
+  "road": {
+    "word": "road",
+    "definition": "a long hard surface for cars and people to travel on",
+    "variations": [
+      "road",
+      "roads"
+    ],
+    "emoji": "🛣️",
+    "pages": [
+      "pg002_sec001",
+      "pg017_sec001",
+      "pg047_sec001",
+      "pg068_sec002",
+      "pg070_sec001",
+      "pg076_sec001",
+      "pg087_sec001"
+    ]
+  },
+  "ruler": {
+    "word": "ruler",
+    "definition": "a straight tool used for measuring or drawing lines",
+    "variations": [
+      "ruler",
+      "rulers"
+    ],
+    "emoji": "📏",
+    "pages": [
+      "pg025_sec001",
+      "pg072_sec001"
+    ]
+  },
+  "run": {
+    "word": "run",
+    "definition": "to move quickly on your feet",
+    "variations": [
+      "run",
+      "runs",
+      "running",
+      "ran"
+    ],
+    "emoji": "🏃",
+    "pages": [
+      "pg050_sec002",
+      "pg051_sec001",
+      "pg060_sec002",
+      "pg065_sec001",
+      "pg079_sec001",
+      "pg084_sec001"
+    ]
+  },
+  "savanna": {
+    "word": "savanna",
+    "definition": "A wide grassland with few trees, usually in a warm region.",
+    "variations": [
+      "savanna",
+      "savannah",
+      "savannas",
+      "savannahs"
+    ],
+    "emoji": "🌾",
+    "pages": [
+      "pg080_sec002"
+    ]
+  },
+  "school": {
+    "word": "school",
+    "definition": "a place where children go to learn.",
+    "variations": [
+      "school",
+      "schools"
+    ],
+    "emoji": "🏫📚",
+    "pages": [
+      "pg001_sec001",
+      "pg005_sec001",
+      "pg014_sec002",
+      "pg025_sec001",
+      "pg027_sec001",
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg036_sec001",
+      "pg039_sec001",
+      "pg079_sec001",
+      "pg082_sec001",
+      "pg086_sec002"
+    ]
+  },
+  "screen": {
+    "word": "screen",
+    "definition": "The part of a phone, tablet or computer where pictures and words appear.",
+    "variations": [
+      "screen"
+    ],
+    "emoji": "💻",
+    "pages": [
+      "pg073_sec001"
+    ]
+  },
+  "searching": {
+    "word": "searching",
+    "definition": "looking carefully for someone or something",
+    "variations": [
+      "searching",
+      "search",
+      "searches",
+      "searched"
+    ],
+    "emoji": "🔍",
+    "pages": [
+      "pg043_sec001",
+      "pg083_sec001",
+      "pg084_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "sentence": {
+    "word": "sentence",
+    "definition": "a group of words that makes a complete meaning",
+    "variations": [
+      "sentence",
+      "sentences"
+    ],
+    "emoji": "✍️",
+    "pages": [
+      "pg006_sec001",
+      "pg012_sec001",
+      "pg013_sec001",
+      "pg016_sec001",
+      "pg017_sec001",
+      "pg025_sec001",
+      "pg033_sec001",
+      "pg040_sec002",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg054_sec001",
+      "pg054_sec002",
+      "pg057_sec002",
+      "pg059_sec001",
+      "pg059_sec002",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg063_sec002",
+      "pg066_sec002",
+      "pg068_sec002",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg074_sec001",
+      "pg075_sec001",
+      "pg076_sec001",
+      "pg077_sec001",
+      "pg078_sec001",
+      "pg079_sec001",
+      "pg080_sec002",
+      "pg082_sec001",
+      "pg087_sec001",
+      "pg088_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "seven": {
+    "word": "seven",
+    "definition": "the number 7",
+    "variations": [
+      "seven"
+    ],
+    "emoji": "7️⃣",
+    "pages": [
+      "pg026_sec001",
+      "pg090_sec001"
+    ]
+  },
+  "sewing": {
+    "word": "sewing",
+    "definition": "Joining cloth with a needle and thread.",
+    "variations": [
+      "sewing",
+      "sew",
+      "sews",
+      "sewed"
+    ],
+    "emoji": "🧵",
+    "pages": [
+      "pg083_sec001"
+    ]
+  },
+  "shed": {
+    "word": "shed",
+    "definition": "a small simple building used for keeping tools or other things",
+    "variations": [
+      "shed",
+      "sheds"
+    ],
+    "emoji": "🛖🧰",
+    "pages": [
+      "pg075_sec001"
+    ]
+  },
+  "shoe": {
+    "word": "shoe",
+    "definition": "something worn on your foot",
+    "variations": [
+      "shoe",
+      "shoes"
+    ],
+    "emoji": "👟",
+    "pages": [
+      "pg035_sec001",
+      "pg091_sec001"
+    ]
+  },
+  "shopkeeper": {
+    "word": "shopkeeper",
+    "definition": "A person who owns or manages a shop.",
+    "variations": [
+      "shopkeeper",
+      "shopkeepers"
+    ],
+    "emoji": "🏪",
+    "pages": [
+      "pg042_sec001"
+    ]
+  },
+  "sing": {
+    "word": "sing",
+    "definition": "to make musical sounds with your voice",
+    "variations": [
+      "sing",
+      "sings",
+      "singing",
+      "sang",
+      "sung"
+    ],
+    "emoji": "🎵🎤",
+    "pages": [
+      "pg009_sec001",
+      "pg022_sec001",
+      "pg026_sec001",
+      "pg029_sec001",
+      "pg031_sec001",
+      "pg035_sec001",
+      "pg071_sec001",
+      "pg086_sec002",
+      "pg089_sec001",
+      "pg090_sec001"
+    ]
+  },
+  "singular": {
+    "word": "singular",
+    "definition": "meaning one person, animal or thing",
+    "variations": [
+      "singular"
+    ],
+    "emoji": "1️⃣",
+    "pages": [
+      "pg006_sec001",
+      "pg008_sec001",
+      "pg010_sec001",
+      "pg014_sec002",
+      "pg017_sec001",
+      "pg024_sec001",
+      "pg025_sec001",
+      "pg080_sec002"
+    ]
+  },
+  "sip": {
+    "word": "sip",
+    "definition": "to drink a small amount at a time",
+    "variations": [
+      "sip",
+      "sips",
+      "sipping",
+      "sipped"
+    ],
+    "emoji": "🥤",
+    "pages": [
+      "pg075_sec001"
+    ]
+  },
+  "sit": {
+    "word": "sit",
+    "definition": "to rest on a chair or the ground with your body supported",
+    "variations": [
+      "sit",
+      "sits",
+      "sat",
+      "sitting"
+    ],
+    "emoji": "🪑",
+    "pages": [
+      "pg035_sec001",
+      "pg040_sec002",
+      "pg042_sec001",
+      "pg054_sec001",
+      "pg062_sec001",
+      "pg066_sec002",
+      "pg067_sec001",
+      "pg085_sec001",
+      "pg093_sec001"
+    ]
+  },
+  "sit down": {
+    "word": "sit down",
+    "definition": "to move into a sitting position.",
+    "variations": [
+      "sit down",
+      "sitting down"
+    ],
+    "emoji": "🪑⬇️",
+    "pages": [
+      "pg035_sec001"
+    ]
+  },
+  "snow": {
+    "word": "snow",
+    "definition": "soft white ice that falls from the sky in cold weather",
+    "variations": [
+      "snow"
+    ],
+    "emoji": "❄️☃️",
+    "pages": [
+      "pg070_sec001"
+    ]
+  },
+  "soap": {
+    "word": "soap",
+    "definition": "Something you use with water to wash your hands and body.",
+    "variations": [
+      "soap"
+    ],
+    "emoji": "🧼",
+    "pages": [
+      "pg070_sec001"
+    ]
+  },
+  "some": {
+    "word": "some",
+    "definition": "an amount or number that is not all and not exact",
+    "variations": [
+      "some"
+    ],
+    "emoji": "🤏🔢",
+    "pages": [
+      "pg044_sec001",
+      "pg054_sec001",
+      "pg073_sec001"
+    ]
+  },
+  "son": {
+    "word": "son",
+    "definition": "a male child in a family",
+    "variations": [
+      "son",
+      "sons"
+    ],
+    "emoji": "👦👨‍👩‍👦",
+    "pages": [
+      "pg090_sec001"
+    ]
+  },
+  "song": {
+    "word": "song",
+    "definition": "words that are sung with music",
+    "variations": [
+      "song",
+      "songs"
+    ],
+    "emoji": "🎵🎶",
+    "pages": [
+      "pg009_sec001",
+      "pg022_sec001",
+      "pg026_sec001",
+      "pg029_sec001",
+      "pg031_sec001",
+      "pg035_sec001",
+      "pg036_sec002",
+      "pg089_sec001"
+    ]
+  },
+  "sorry": {
+    "word": "sorry",
+    "definition": "a word you say when you did something wrong or want to apologize",
+    "variations": [
+      "sorry"
+    ],
+    "emoji": "😔🙏",
+    "pages": [
+      "pg040_sec002"
+    ]
+  },
+  "sound": {
+    "word": "sound",
+    "definition": "what you hear when someone speaks a letter or word",
+    "variations": [
+      "sound",
+      "sounds"
+    ],
+    "emoji": "🔊👂",
+    "pages": [
+      "pg006_sec001",
+      "pg050_sec002",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg053_sec001",
+      "pg054_sec001",
+      "pg054_sec002",
+      "pg057_sec002",
+      "pg059_sec001",
+      "pg059_sec002",
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg063_sec002",
+      "pg065_sec001",
+      "pg066_sec002",
+      "pg067_sec001",
+      "pg068_sec002",
+      "pg072_sec001",
+      "pg074_sec001",
+      "pg075_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "space": {
+    "word": "space",
+    "definition": "an empty area or place",
+    "variations": [
+      "space",
+      "spaces"
+    ],
+    "emoji": "🌌⬜",
+    "pages": [
+      "pg095_sec001"
+    ]
+  },
+  "speak": {
+    "word": "speak",
+    "definition": "to say words aloud",
+    "variations": [
+      "speak",
+      "speaks",
+      "speaking",
+      "spoke"
+    ],
+    "emoji": "🗣️",
+    "pages": [
+      "pg006_sec001"
+    ]
+  },
+  "spell": {
+    "word": "spell",
+    "definition": "to say or write the letters of a word in order",
+    "variations": [
+      "spell",
+      "spells",
+      "spelled",
+      "spelling"
+    ],
+    "emoji": "🔤✍️",
+    "pages": [
+      "pg050_sec002",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg057_sec002",
+      "pg059_sec002",
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg068_sec002",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg072_sec001"
+    ]
+  },
+  "spider": {
+    "word": "spider",
+    "definition": "a small animal with eight legs that makes webs",
+    "variations": [
+      "spider",
+      "spiders"
+    ],
+    "emoji": "🕷️🕸️",
+    "pages": [
+      "pg066_sec002",
+      "pg080_sec002"
+    ]
+  },
+  "spot": {
+    "word": "spot",
+    "definition": "a small round mark or patch of colour",
+    "variations": [
+      "spot",
+      "spots"
+    ],
+    "emoji": "⚪🦒",
+    "pages": [
+      "pg053_sec001"
+    ]
+  },
+  "stand up": {
+    "word": "stand up",
+    "definition": "to rise to your feet.",
+    "variations": [
+      "stand up",
+      "standing up"
+    ],
+    "emoji": "🧍⬆️",
+    "pages": [
+      "pg035_sec001"
+    ]
+  },
+  "standard": {
+    "word": "standard",
+    "definition": "a school class or level",
+    "variations": [
+      "standard",
+      "standards"
+    ],
+    "emoji": "🏫📚",
+    "pages": [
+      "pg001_sec001",
+      "pg006_sec001",
+      "pg092_sec001"
+    ]
+  },
+  "stick": {
+    "word": "stick",
+    "definition": "a thin piece of wood from a tree",
+    "variations": [
+      "stick",
+      "sticks"
+    ],
+    "emoji": "🪵",
+    "pages": [
+      "pg076_sec001"
+    ]
+  },
+  "stone": {
+    "word": "stone",
+    "definition": "a small piece of rock",
+    "variations": [
+      "stone",
+      "stones"
+    ],
+    "emoji": "🪨",
+    "pages": [
+      "pg071_sec001"
+    ]
+  },
+  "story": {
+    "word": "story",
+    "definition": "a description of events, real or imagined",
+    "variations": [
+      "story",
+      "stories"
+    ],
+    "emoji": "📖✨",
+    "pages": [
+      "pg006_sec001",
+      "pg036_sec002",
+      "pg043_sec001",
+      "pg044_sec001",
+      "pg059_sec001",
+      "pg083_sec001",
+      "pg084_sec001",
+      "pg087_sec001",
+      "pg089_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "street": {
+    "word": "street",
+    "definition": "A road in a town or village with buildings beside it.",
+    "variations": [
+      "street",
+      "streets"
+    ],
+    "emoji": "🛣️",
+    "pages": [
+      "pg024_sec001",
+      "pg043_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg078_sec001",
+      "pg087_sec001"
+    ]
+  },
+  "study": {
+    "word": "study",
+    "definition": "to spend time learning",
+    "variations": [
+      "study",
+      "studies",
+      "studying",
+      "studied"
+    ],
+    "emoji": "📚✏️",
+    "pages": [
+      "pg008_sec001",
+      "pg015_sec001",
+      "pg016_sec001",
+      "pg017_sec001",
+      "pg021_sec001",
+      "pg027_sec001",
+      "pg091_sec001"
+    ]
+  },
+  "suffix": {
+    "word": "suffix",
+    "definition": "A letter or group of letters added to the end of a word.",
+    "variations": [
+      "suffix",
+      "suffixes"
+    ],
+    "emoji": "🔤",
+    "pages": [
+      "pg006_sec001",
+      "pg076_sec001"
+    ]
+  },
+  "sunflower": {
+    "word": "sunflower",
+    "definition": "a tall plant with a large yellow flower",
+    "variations": [
+      "sunflower",
+      "sunflowers"
+    ],
+    "emoji": "🌻",
+    "pages": [
+      "pg082_sec001"
+    ]
+  },
+  "surprised": {
+    "word": "surprised",
+    "definition": "feeling something unexpected has happened",
+    "variations": [
+      "surprised",
+      "surprise",
+      "surprises",
+      "surprising"
+    ],
+    "emoji": "😮❗",
+    "pages": [
+      "pg085_sec001",
+      "pg094_sec001"
+    ]
+  },
+  "sweep": {
+    "word": "sweep",
+    "definition": "to clean the floor with a broom.",
+    "variations": [
+      "sweep",
+      "sweeps",
+      "sweeping",
+      "swept"
+    ],
+    "emoji": "🧹✨",
+    "pages": [
+      "pg030_sec001",
+      "pg079_sec001"
+    ]
+  },
+  "sweet": {
+    "word": "sweet",
+    "definition": "a small piece of sugary candy",
+    "variations": [
+      "sweet",
+      "sweets"
+    ],
+    "emoji": "🍬🍭",
+    "pages": [
+      "pg024_sec001",
+      "pg076_sec001"
+    ]
+  },
+  "table": {
+    "word": "table",
+    "definition": "a piece of furniture with a flat top and legs",
+    "variations": [
+      "table",
+      "tables"
+    ],
+    "emoji": "🪑📘",
+    "pages": [
+      "pg003_sec001",
+      "pg010_sec001",
+      "pg015_sec001",
+      "pg016_sec001",
+      "pg017_sec001",
+      "pg021_sec001",
+      "pg027_sec001",
+      "pg032_sec001",
+      "pg033_sec001",
+      "pg035_sec001",
+      "pg039_sec001",
+      "pg040_sec002",
+      "pg045_sec002",
+      "pg054_sec001",
+      "pg057_sec002",
+      "pg062_sec001",
+      "pg067_sec001",
+      "pg068_sec002",
+      "pg079_sec001"
+    ]
+  },
+  "tap": {
+    "word": "tap",
+    "definition": "a device you turn to let water come out",
+    "variations": [
+      "tap",
+      "taps"
+    ],
+    "emoji": "🚰💧",
+    "pages": [
+      "pg065_sec001"
+    ]
+  },
+  "teacher": {
+    "word": "teacher",
+    "definition": "a person who helps students learn",
+    "variations": [
+      "teacher",
+      "teachers"
+    ],
+    "emoji": "👩‍🏫📘",
+    "pages": [
+      "pg005_sec001",
+      "pg040_sec002",
+      "pg042_sec001",
+      "pg066_sec002",
+      "pg077_sec001",
+      "pg078_sec001"
+    ]
+  },
+  "teaching": {
+    "word": "teaching",
+    "definition": "showing someone how to learn or do something",
+    "variations": [
+      "teaching",
+      "teach",
+      "teaches",
+      "taught"
+    ],
+    "emoji": "👩‍🏫📘",
+    "pages": [
+      "pg066_sec002"
+    ]
+  },
+  "team": {
+    "word": "team",
+    "definition": "a group of people who work or play together",
+    "variations": [
+      "team",
+      "teams"
+    ],
+    "emoji": "👥🤝",
+    "pages": [
+      "pg036_sec001",
+      "pg054_sec002",
+      "pg066_sec002",
+      "pg093_sec001"
+    ]
+  },
+  "technology": {
+    "word": "technology",
+    "definition": "Tools, machines and systems made using scientific knowledge.",
+    "variations": [
+      "technology"
+    ],
+    "emoji": "💻",
+    "pages": [
+      "pg006_sec001"
+    ]
+  },
+  "teeth": {
+    "word": "teeth",
+    "definition": "the hard white parts in your mouth that you use for biting and chewing.",
+    "variations": [
+      "teeth",
+      "tooth"
+    ],
+    "emoji": "🦷😁",
+    "pages": [
+      "pg063_sec002"
+    ]
+  },
+  "ten": {
+    "word": "ten",
+    "definition": "the number 10",
+    "variations": [
+      "ten"
+    ],
+    "emoji": "🔟",
+    "pages": [
+      "pg034_sec001",
+      "pg056_sec001",
+      "pg059_sec002",
+      "pg063_sec001",
+      "pg063_sec002",
+      "pg079_sec001"
+    ]
+  },
+  "term": {
+    "word": "term",
+    "definition": "a period of school time in a year",
+    "variations": [
+      "term",
+      "terms"
+    ],
+    "emoji": "📅🏫",
+    "pages": [
+      "pg078_sec001"
+    ]
+  },
+  "thank": {
+    "word": "thank",
+    "definition": "to tell someone you are grateful",
+    "variations": [
+      "thank",
+      "thanks",
+      "thanked",
+      "thanking"
+    ],
+    "emoji": "🙏😊",
+    "pages": [
+      "pg005_sec001",
+      "pg042_sec001",
+      "pg088_sec001",
+      "pg091_sec001",
+      "pg092_sec001"
+    ]
+  },
+  "thank you": {
+    "word": "thank you",
+    "definition": "words you say to show you are grateful for something",
+    "variations": [
+      "thank you"
+    ],
+    "emoji": "🙏😊",
+    "pages": [
+      "pg042_sec001",
+      "pg088_sec001",
+      "pg092_sec001"
+    ]
+  },
+  "three": {
+    "word": "three",
+    "definition": "the number 3",
+    "variations": [
+      "three"
+    ],
+    "emoji": "3️⃣",
+    "pages": [
+      "pg006_sec001"
+    ]
+  },
+  "tie": {
+    "word": "tie",
+    "definition": "a long piece of cloth worn around the neck",
+    "variations": [
+      "tie",
+      "ties"
+    ],
+    "emoji": "👔",
+    "pages": [
+      "pg005_sec001",
+      "pg006_sec001",
+      "pg051_sec001"
+    ]
+  },
+  "time": {
+    "word": "time",
+    "definition": "minutes, hours, or the moment when something happens",
+    "variations": [
+      "time",
+      "times"
+    ],
+    "emoji": "⏰⌚",
+    "pages": [
+      "pg039_sec001",
+      "pg043_sec001",
+      "pg068_sec002",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg075_sec001",
+      "pg078_sec001",
+      "pg093_sec001"
+    ]
+  },
+  "tin": {
+    "word": "tin",
+    "definition": "a small metal container or the metal used to make it",
+    "variations": [
+      "tin",
+      "tins"
+    ],
+    "emoji": "🥫🔩",
+    "pages": [
+      "pg051_sec001"
+    ]
+  },
+  "toe": {
+    "word": "toe",
+    "definition": "one of the small parts at the end of the foot",
+    "variations": [
+      "toe",
+      "toes"
+    ],
+    "emoji": "🦶🔢",
+    "pages": [
+      "pg070_sec001",
+      "pg076_sec001"
+    ]
+  },
+  "tomato": {
+    "word": "tomato",
+    "definition": "a soft red fruit often used as a vegetable in meals",
+    "variations": [
+      "tomato",
+      "tomatoes"
+    ],
+    "emoji": "🍅",
+    "pages": [
+      "pg079_sec001"
+    ]
+  },
+  "tongue twister": {
+    "word": "tongue twister",
+    "definition": "A sentence that is difficult to say quickly and clearly.",
+    "variations": [
+      "tongue twister",
+      "tongue twisters"
+    ],
+    "emoji": "👅",
+    "pages": [
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg065_sec001",
+      "pg066_sec002",
+      "pg068_sec002",
+      "pg073_sec001"
+    ]
+  },
+  "top": {
+    "word": "top",
+    "definition": "the highest part of something",
+    "variations": [
+      "top",
+      "tops"
+    ],
+    "emoji": "🔝",
+    "pages": [
+      "pg057_sec002",
+      "pg059_sec001",
+      "pg065_sec001"
+    ]
+  },
+  "torch": {
+    "word": "torch",
+    "definition": "a small light that you carry in your hand",
+    "variations": [
+      "torch",
+      "torches"
+    ],
+    "emoji": "🔦",
+    "pages": [
+      "pg076_sec001"
+    ]
+  },
+  "toy": {
+    "word": "toy",
+    "definition": "something for children to play with",
+    "variations": [
+      "toy",
+      "toys"
+    ],
+    "emoji": "🧸",
+    "pages": [
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "transport": {
+    "word": "transport",
+    "definition": "A way of moving people or goods from one place to another.",
+    "variations": [
+      "transport"
+    ],
+    "emoji": "🚌",
+    "pages": [
+      "pg039_sec001"
+    ]
+  },
+  "treat": {
+    "word": "treat",
+    "definition": "to give medical care to someone who is sick or hurt",
+    "variations": [
+      "treat",
+      "treats",
+      "treating",
+      "treated"
+    ],
+    "emoji": "💊🩺",
+    "pages": [
+      "pg078_sec001"
+    ]
+  },
+  "tree": {
+    "word": "tree",
+    "definition": "a tall plant with a trunk, branches, and leaves",
+    "variations": [
+      "tree",
+      "trees"
+    ],
+    "emoji": "🌳",
+    "pages": [
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg044_sec001",
+      "pg059_sec002",
+      "pg084_sec001",
+      "pg093_sec001",
+      "pg094_sec001"
+    ]
+  },
+  "trip": {
+    "word": "trip",
+    "definition": "a journey to a place",
+    "variations": [
+      "trip",
+      "trips"
+    ],
+    "emoji": "🧳🚌",
+    "pages": [
+      "pg059_sec001",
+      "pg086_sec002",
+      "pg087_sec001"
+    ]
+  },
+  "two": {
+    "word": "two",
+    "definition": "the number 2",
+    "variations": [
+      "two"
+    ],
+    "emoji": "2️⃣",
+    "pages": [
+      "pg001_sec001",
+      "pg006_sec001",
+      "pg036_sec002",
+      "pg044_sec001",
+      "pg079_sec001",
+      "pg085_sec001",
+      "pg092_sec001",
+      "pg093_sec001"
+    ]
+  },
+  "umbrella": {
+    "word": "umbrella",
+    "definition": "A cover on a handle that you open above your head to keep the rain off.",
+    "variations": [
+      "umbrella"
+    ],
+    "emoji": "☂️",
+    "pages": [
+      "pg042_sec001"
+    ]
+  },
+  "uncle": {
+    "word": "uncle",
+    "definition": "the brother of your mother or father, or the husband of your aunt",
+    "variations": [
+      "uncle",
+      "uncles"
+    ],
+    "emoji": "👨🏠",
+    "pages": [
+      "pg033_sec001",
+      "pg034_sec001"
+    ]
+  },
+  "up": {
+    "word": "up",
+    "definition": "toward a higher place",
+    "variations": [
+      "up"
+    ],
+    "emoji": "⬆️",
+    "pages": [
+      "pg035_sec001",
+      "pg039_sec001",
+      "pg057_sec002",
+      "pg077_sec001",
+      "pg080_sec002",
+      "pg085_sec001",
+      "pg087_sec001",
+      "pg090_sec001",
+      "pg094_sec001"
+    ]
+  },
+  "use": {
+    "word": "use",
+    "definition": "to do something with a thing for a purpose",
+    "variations": [
+      "use",
+      "uses",
+      "used",
+      "using"
+    ],
+    "emoji": "🛠️",
+    "pages": [
+      "pg006_sec001",
+      "pg008_sec001",
+      "pg012_sec001",
+      "pg013_sec001",
+      "pg016_sec001",
+      "pg032_sec001",
+      "pg036_sec002",
+      "pg039_sec001",
+      "pg040_sec002",
+      "pg042_sec001",
+      "pg045_sec002",
+      "pg050_sec002",
+      "pg053_sec001",
+      "pg054_sec001",
+      "pg054_sec002",
+      "pg057_sec002",
+      "pg063_sec002",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg080_sec002",
+      "pg085_sec001",
+      "pg087_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "van": {
+    "word": "van",
+    "definition": "a road vehicle used to carry people or goods",
+    "variations": [
+      "van",
+      "vans"
+    ],
+    "emoji": "🚐",
+    "pages": [
+      "pg051_sec001",
+      "pg060_sec002"
+    ]
+  },
+  "various": {
+    "word": "various",
+    "definition": "of different kinds",
+    "variations": [
+      "various"
+    ],
+    "emoji": "🔀",
+    "pages": [
+      "pg086_sec002",
+      "pg095_sec001"
+    ]
+  },
+  "village": {
+    "word": "village",
+    "definition": "a small place where people live, smaller than a town",
+    "variations": [
+      "village",
+      "villages"
+    ],
+    "emoji": "🏘️",
+    "pages": [
+      "pg093_sec001"
+    ]
+  },
+  "visit": {
+    "word": "visit",
+    "definition": "to go and see a person or place",
+    "variations": [
+      "visit",
+      "visits",
+      "visited",
+      "visiting"
+    ],
+    "emoji": "🏠👋",
+    "pages": [
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg086_sec002"
+    ]
+  },
+  "vowel": {
+    "word": "vowel",
+    "definition": "One of the letters a, e, i, o and u that you practise in this book.",
+    "variations": [
+      "vowel",
+      "vowels"
+    ],
+    "emoji": "🔤",
+    "pages": [
+      "pg006_sec001",
+      "pg065_sec001",
+      "pg068_sec002",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg075_sec001"
+    ]
+  },
+  "wake up": {
+    "word": "wake up",
+    "definition": "to stop sleeping.",
+    "variations": [
+      "wake up",
+      "wakes up",
+      "waking up",
+      "woke up"
+    ],
+    "emoji": "⏰😴",
+    "pages": [
+      "pg039_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "wall": {
+    "word": "wall",
+    "definition": "one side of a room or building",
+    "variations": [
+      "wall",
+      "walls"
+    ],
+    "emoji": "🧱🏠",
+    "pages": [
+      "pg073_sec001"
+    ]
+  },
+  "wash": {
+    "word": "wash",
+    "definition": "to clean with water.",
+    "variations": [
+      "wash",
+      "washes",
+      "washing",
+      "washed"
+    ],
+    "emoji": "🧼💧",
+    "pages": [
+      "pg029_sec001",
+      "pg039_sec001",
+      "pg077_sec001",
+      "pg082_sec001"
+    ]
+  },
+  "watching": {
+    "word": "watching",
+    "definition": "looking at something carefully for some time",
+    "variations": [
+      "watching",
+      "watch",
+      "watches",
+      "watched"
+    ],
+    "emoji": "👀📺",
+    "pages": [
+      "pg027_sec001",
+      "pg039_sec001",
+      "pg076_sec001",
+      "pg077_sec001",
+      "pg084_sec001",
+      "pg092_sec001",
+      "pg093_sec001"
+    ]
+  },
+  "water": {
+    "word": "water",
+    "definition": "to pour water on plants so they can grow.",
+    "variations": [
+      "water",
+      "waters",
+      "watering",
+      "watered"
+    ],
+    "emoji": "💧🪴",
+    "pages": [
+      "pg030_sec001",
+      "pg068_sec002",
+      "pg078_sec001",
+      "pg085_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "watermelon": {
+    "word": "watermelon",
+    "definition": "A large fruit with thick green skin and juicy flesh inside.",
+    "variations": [
+      "watermelon"
+    ],
+    "emoji": "🍉",
+    "pages": [
+      "pg082_sec001"
+    ]
+  },
+  "way": {
+    "word": "way",
+    "definition": "a path, direction, or method of doing something",
+    "variations": [
+      "way",
+      "ways"
+    ],
+    "emoji": "➡️",
+    "pages": [
+      "pg009_sec001",
+      "pg043_sec001",
+      "pg072_sec001",
+      "pg086_sec002",
+      "pg093_sec001"
+    ]
+  },
+  "web": {
+    "word": "web",
+    "definition": "a net made by a spider",
+    "variations": [
+      "web",
+      "webs"
+    ],
+    "emoji": "🕸️🕷️",
+    "pages": [
+      "pg066_sec002"
+    ]
+  },
+  "week": {
+    "word": "week",
+    "definition": "A period of seven days.",
+    "variations": [
+      "week",
+      "weeks"
+    ],
+    "emoji": "📅",
+    "pages": [
+      "pg006_sec001",
+      "pg025_sec002",
+      "pg026_sec001",
+      "pg062_sec001"
+    ]
+  },
+  "wet": {
+    "word": "wet",
+    "definition": "covered with water or another liquid",
+    "variations": [
+      "wet",
+      "wetter",
+      "wettest"
+    ],
+    "emoji": "💧",
+    "pages": [
+      "pg066_sec002"
+    ]
+  },
+  "wig": {
+    "word": "wig",
+    "definition": "artificial hair worn on the head",
+    "variations": [
+      "wig",
+      "wigs"
+    ],
+    "emoji": "💇👩‍🦱",
+    "pages": [
+      "pg066_sec002"
+    ]
+  },
+  "wildlife": {
+    "word": "wildlife",
+    "definition": "Animals and plants that live in nature without being cared for by people.",
+    "variations": [
+      "wildlife"
+    ],
+    "emoji": "🦓",
+    "pages": [
+      "pg086_sec002",
+      "pg087_sec001"
+    ]
+  },
+  "win": {
+    "word": "win",
+    "definition": "to be the best or do better than others in a game or contest",
+    "variations": [
+      "win",
+      "wins",
+      "won",
+      "winning"
+    ],
+    "emoji": "🏆🎉",
+    "pages": [
+      "pg066_sec002",
+      "pg092_sec001",
+      "pg093_sec001"
+    ]
+  },
+  "window": {
+    "word": "window",
+    "definition": "an opening in a wall or vehicle that lets in light and air",
+    "variations": [
+      "window",
+      "windows"
+    ],
+    "emoji": "🪟",
+    "pages": [
+      "pg040_sec002",
+      "pg042_sec001",
+      "pg075_sec001",
+      "pg080_sec002"
+    ]
+  },
+  "word": {
+    "word": "word",
+    "definition": "a group of letters that has meaning",
+    "variations": [
+      "word",
+      "words"
+    ],
+    "emoji": "📝",
+    "pages": [
+      "pg006_sec001",
+      "pg010_sec001",
+      "pg014_sec002",
+      "pg017_sec001",
+      "pg024_sec001",
+      "pg039_sec001",
+      "pg045_sec002",
+      "pg050_sec002",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg053_sec001",
+      "pg054_sec001",
+      "pg054_sec002",
+      "pg056_sec001",
+      "pg057_sec002",
+      "pg059_sec001",
+      "pg059_sec002",
+      "pg060_sec002",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg063_sec002",
+      "pg065_sec001",
+      "pg066_sec002",
+      "pg067_sec001",
+      "pg068_sec002",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg074_sec001",
+      "pg075_sec001",
+      "pg076_sec001",
+      "pg077_sec001",
+      "pg078_sec001",
+      "pg079_sec001",
+      "pg080_sec002",
+      "pg082_sec001",
+      "pg085_sec001"
+    ]
+  },
+  "write": {
+    "word": "write",
+    "definition": "To make letters or words, for example with a pencil.",
+    "variations": [
+      "write",
+      "writing"
+    ],
+    "emoji": "✍️",
+    "pages": [
+      "pg005_sec001",
+      "pg056_sec001",
+      "pg067_sec001",
+      "pg068_sec002",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg079_sec001",
+      "pg087_sec001"
+    ]
+  },
+  "year": {
+    "word": "year",
+    "definition": "a period of twelve months; it is used to tell age",
+    "variations": [
+      "year",
+      "years"
+    ],
+    "emoji": "📅🕒",
+    "pages": [
+      "pg006_sec001",
+      "pg030_sec002",
+      "pg031_sec001",
+      "pg032_sec001",
+      "pg033_sec001",
+      "pg090_sec001"
+    ]
+  },
+  "yes": {
+    "word": "yes",
+    "definition": "a word used to agree or say something is true",
+    "variations": [
+      "yes"
+    ],
+    "emoji": "👍✅",
+    "pages": [
+      "pg023_sec001",
+      "pg040_sec002",
+      "pg042_sec001",
+      "pg068_sec002",
+      "pg092_sec001"
+    ]
+  },
+  "you": {
+    "word": "you",
+    "definition": "the person or people being spoken to",
+    "variations": [
+      "you"
+    ],
+    "emoji": "🫵",
+    "pages": [
+      "pg023_sec001",
+      "pg024_sec001",
+      "pg027_sec001",
+      "pg030_sec001",
+      "pg035_sec001",
+      "pg036_sec002",
+      "pg036_sec001",
+      "pg039_sec001",
+      "pg040_sec002",
+      "pg042_sec001",
+      "pg044_sec001",
+      "pg054_sec001",
+      "pg054_sec002",
+      "pg057_sec002",
+      "pg059_sec001",
+      "pg059_sec002",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg063_sec002",
+      "pg065_sec001",
+      "pg066_sec002",
+      "pg068_sec002",
+      "pg072_sec001",
+      "pg075_sec001",
+      "pg077_sec001",
+      "pg079_sec001",
+      "pg080_sec002",
+      "pg085_sec001",
+      "pg088_sec001",
+      "pg089_sec001",
+      "pg091_sec001",
+      "pg092_sec001",
+      "pg093_sec001",
+      "pg094_sec001",
+      "pg095_sec001"
+    ]
+  },
+  "zebra": {
+    "word": "zebra",
+    "definition": "A wild animal like a horse with black and white stripes.",
+    "variations": [
+      "zebra"
+    ],
+    "emoji": "🦓",
+    "pages": [
+      "pg072_sec001"
+    ]
+  },
+  "zip": {
+    "word": "zip",
+    "definition": "a fastener with two rows of teeth that can open and close",
+    "variations": [
+      "zip",
+      "zips",
+      "zipped",
+      "zipping"
+    ],
+    "emoji": "🧥🤐",
+    "pages": [
+      "pg075_sec001"
+    ]
+  }
+}

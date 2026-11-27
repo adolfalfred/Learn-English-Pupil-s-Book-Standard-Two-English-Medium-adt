@@ -26523,7 +26523,7 @@ function useAtomValueWithDelay<Value>(
   var adminPopupOpenAtom = ephemeralAtom(false);
   var glossaryListOpenAtom = ephemeralAtom(false);
   var activeSidebarTabAtom = ephemeralAtom("assistant");
-  var activeGlossaryTabAtom = ephemeralAtom("page");
+  var activeGlossaryTabAtom = ephemeralAtom(null);
   var activeNavTabAtom = persistedStringAtom("navActiveTab", "toc");
   var dockMenuValueAtom = persistedStringAtom("dockMenuValue", "");
   var selectedGlossaryTermAtom = ephemeralAtom(null);
@@ -39862,115 +39862,161 @@ function useAtomValueWithDelay<Value>(
   // src/features/glossary/lib/highlight.ts
   var HIGHLIGHT_CLASS = "glossary-term";
   var HIGHLIGHT_TAILWIND = "glossary-term bg-emerald-100/80 text-emerald-800 rounded cursor-pointer";
-  var SKIP_PARENT_SELECTOR = "h1, h2, h3, h4, h5, h6, script, style, .glossary-term, .glossary-popup, .activity-text, [data-activity-item]";
-  function escapeRegExp(s) {
-    return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-  }
-  function buildTermDescriptors(data) {
-    const items = [];
-    for (const [key, value] of Object.entries(data)) {
-      const baseForm = key.toLowerCase().replace(/[es]?s$/, "");
-      items.push({ text: key, termKey: key, baseForm });
-      for (const v2 of value.variations ?? []) {
-        items.push({
-          text: v2,
-          termKey: key,
-          baseForm: v2.toLowerCase().replace(/[es]?s$/, "")
-        });
+  // Match only pupil-facing text. An inline style or a read-aloud word span is
+  // transparent, but controls, hidden narration and separate blocks are not.
+  var GLOSSARY_SKIP = "script,style,template,noscript,svg,canvas,a[href],button,input,textarea,select,[hidden],[inert],.sr-only,.visually-hidden,.hidden,.book-header--hidden,[contenteditable='true'],[data-activity-item],[role='button'],[role='link'],[role='textbox']";
+  var GLOSSARY_VISUAL_COPY = "[data-highlight-for]";
+  var GLOSSARY_BLOCK = "address,article,aside,blockquote,br,caption,dd,div,dl,dt,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hr,img,li,main,nav,ol,p,pre,section,table,td,th,tr,ul";
+  var glossaryKeyboardTargets = new WeakMap();
+  function glossaryRuns(root) {
+    if (!root) return [];
+    const runs = [];
+    let text = "", pieces = [];
+    function finish() {
+      if (text.trim()) runs.push({ text, pieces });
+      text = "";
+      pieces = [];
+    }
+    function visit(node) {
+      if (node.nodeType === 3) {
+        pieces.push({ node, start: text.length });
+        text += node.data;
+        return;
       }
+      if (node.nodeType !== 1) return;
+      if (node.hasAttribute("data-glossary-keyboard")) return;
+      const excluded = node.matches(GLOSSARY_SKIP) ||
+        (node.getAttribute("aria-hidden") === "true" && !node.matches(GLOSSARY_VISUAL_COPY));
+      if (!node.classList.contains(HIGHLIGHT_CLASS) && excluded) {
+        finish();
+        return;
+      }
+      const boundary = node.matches(GLOSSARY_BLOCK) || node.style?.display === "block";
+      if (boundary) finish();
+      for (const child of node.childNodes) visit(child);
+      if (boundary) finish();
     }
-    items.sort((a, b) => b.text.length - a.text.length);
-    return items;
+    visit(root);
+    finish();
+    return runs;
   }
-  function isAcceptableTextNode(node) {
-    const parent = node.parentElement;
-    if (!parent) return false;
-    if (parent.closest(SKIP_PARENT_SELECTOR)) return false;
-    return Boolean(node.textContent && node.textContent.trim().length > 0);
+  function glossaryExpression(entry) {
+    const terms = [entry.word, ...entry.variations ?? []].filter((term) => typeof term === "string" && term.trim());
+    if (!terms.length) return /(?!)/gi;
+    const patterns = Array.from(new Set(terms)).sort((a, b) => b.length - a.length).map(
+      (term) => term.trim().split(/\s+/).map((part) => part.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/['’]/g, "['’]")).join("\\s+")
+    );
+    return new RegExp("\\b(?:" + patterns.join("|") + ")\\b", "gi");
   }
-  function collectTextNodes(root) {
-    const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
-      acceptNode: (node) => isAcceptableTextNode(node) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT
-    });
-    const nodes = [];
-    let n = walker.nextNode();
-    while (n) {
-      nodes.push(n);
-      n = walker.nextNode();
+  function firstGlossaryMatch(runs, entry) {
+    const re = glossaryExpression(entry);
+    for (const run of runs) {
+      re.lastIndex = 0;
+      const m = re.exec(run.text);
+      if (m) return { run, start: m.index, end: m.index + m[0].length, text: m[0] };
     }
-    return nodes;
+    return null;
+  }
+  // Wrap only the matched text, never replace a styled element, narration id,
+  // or its listeners. A word split by markup is still one keyboard stop.
+  function wrapGlossaryMatch(match, key) {
+    const { run, start, end, text } = match;
+    const spans = [];
+    for (const piece of run.pieces) {
+      const from = Math.max(start - piece.start, 0);
+      const to = Math.min(end - piece.start, piece.node.length);
+      if (to <= from) continue;
+      keepSpeechTextInline(piece.node.parentElement?.closest(".guide-callout-copy, .speech-panel"));
+      if (to < piece.node.length) piece.node.splitText(to);
+      const part = from ? piece.node.splitText(from) : piece.node;
+      const span = part.ownerDocument.createElement("span");
+      if (key) {
+        span.className = HIGHLIGHT_TAILWIND;
+        span.style.font = "inherit";
+        span.dataset.glossaryKey = key;
+        if (!spans.length) {
+          if (part.parentElement?.closest('[aria-hidden="true"]')) {
+            span.dataset.glossaryLabel = text;
+          } else {
+            span.setAttribute("role", "button");
+            span.tabIndex = 0;
+            span.setAttribute("aria-label", text);
+          }
+        }
+      }
+      part.replaceWith(span);
+      span.append(part);
+      spans.push(span);
+    }
+    return spans;
+  }
+  function keepSpeechTextInline(element) {
+    if (!element || element.querySelector(":scope > .tts-inline-flow")) return;
+    const flow = element.ownerDocument.createElement("span");
+    flow.className = "tts-inline-flow";
+    flow.append(...element.childNodes);
+    element.append(flow);
+  }
+  // A printed copy can be hidden from AT because a separate transcript is
+  // already read. Place its keyboard target beside the copy so both the
+  // original transcript and the glossary action are accessible.
+  function addGlossaryKeyboardTargets(content) {
+    const insertionPoints = new Map();
+    for (const span of content.querySelectorAll(".glossary-term[data-glossary-label]")) {
+      let copy = span.closest('[aria-hidden="true"]');
+      while (copy.parentElement?.closest('[aria-hidden="true"]')) {
+        copy = copy.parentElement.closest('[aria-hidden="true"]');
+      }
+      const button = content.ownerDocument.createElement("button");
+      button.type = "button";
+      button.className = "sr-only";
+      button.dataset.glossaryKeyboard = "";
+      button.textContent = span.dataset.glossaryLabel;
+      glossaryKeyboardTargets.set(span, button);
+      glossaryKeyboardTargets.set(button, span);
+      button.addEventListener("focus", () => {
+        span.setAttribute("data-glossary-focus", "");
+        span.scrollIntoView({ block: "nearest" });
+      });
+      button.addEventListener("blur", () => span.removeAttribute("data-glossary-focus"));
+      (insertionPoints.get(copy) ?? copy).after(button);
+      insertionPoints.set(copy, button);
+    }
   }
   function applyGlossaryHighlights(data) {
     const content = document.getElementById("content");
     if (!content) return false;
-    const descriptors = buildTermDescriptors(data);
-    if (descriptors.length === 0) return false;
-    const seen = /* @__PURE__ */ new Set();
-    const textNodes = collectTextNodes(content);
-    let highlighted = false;
-    for (const node of textNodes) {
-      const original = node.textContent ?? "";
-      if (!original.trim()) continue;
-      let segments = [{ kind: "text", text: original }];
-      let mutated = false;
-      for (const desc of descriptors) {
-        if (seen.has(desc.baseForm)) continue;
-        const re2 = new RegExp(`\\b${escapeRegExp(desc.text)}\\b`, "i");
-        let didMatch = false;
-        const next = [];
-        for (const seg of segments) {
-          if (didMatch || seg.kind !== "text") {
-            next.push(seg);
-            continue;
-          }
-          const m = seg.text.match(re2);
-          if (!m || m.index === void 0) {
-            next.push(seg);
-            continue;
-          }
-          const before = seg.text.slice(0, m.index);
-          const matched = m[0];
-          const after = seg.text.slice(m.index + matched.length);
-          if (before) next.push({ kind: "text", text: before });
-          next.push({ kind: "term", text: matched, termKey: desc.termKey });
-          if (after) next.push({ kind: "text", text: after });
-          didMatch = true;
-          seen.add(desc.baseForm);
-        }
-        if (didMatch) {
-          segments = next;
-          mutated = true;
+    const descriptors = Object.entries(data).map(([key, entry]) => [key, glossaryExpression(entry)]);
+    const seen = new Set();
+    for (const run of glossaryRuns(content)) {
+      const matches = [];
+      for (const [key, re] of descriptors) {
+        if (seen.has(key)) continue;
+        for (const m of run.text.matchAll(re)) {
+          matches.push({ key, run, start: m.index, end: m.index + m[0].length, text: m[0] });
         }
       }
-      if (!mutated) continue;
-      const fragment = document.createDocumentFragment();
-      for (const seg of segments) {
-        if (seg.kind === "text") {
-          fragment.appendChild(document.createTextNode(seg.text));
-        } else {
-          const span = document.createElement("span");
-          span.className = HIGHLIGHT_TAILWIND;
-          span.style.font = "inherit";
-          span.setAttribute("role", "button");
-          span.setAttribute("tabindex", "0");
-          span.setAttribute("data-glossary-key", seg.termKey);
-          span.textContent = seg.text;
-          fragment.appendChild(span);
-        }
+      matches.sort((a, b) => a.start - b.start || b.end - a.end);
+      const selected = [];
+      let end = 0;
+      for (const match of matches) {
+        if (match.start < end || seen.has(match.key)) continue;
+        seen.add(match.key);
+        selected.push(match);
+        end = match.end;
       }
-      node.parentNode?.replaceChild(fragment, node);
-      highlighted = true;
+      // Right to left keeps the original text-node offsets valid as we split.
+      for (const match of selected.reverse()) wrapGlossaryMatch(match, match.key);
     }
-    return highlighted;
+    addGlossaryKeyboardTargets(content);
+    return seen.size > 0;
   }
   function removeGlossaryHighlights() {
     const content = document.getElementById("content");
     if (!content) return;
+    content.querySelectorAll("[data-glossary-keyboard]").forEach((button) => button.remove());
     const spans = content.querySelectorAll(`.${HIGHLIGHT_CLASS}`);
-    spans.forEach((span) => {
-      const text = document.createTextNode(span.textContent ?? "");
-      span.parentNode?.replaceChild(text, span);
-    });
+    spans.forEach((span) => span.replaceWith(...span.childNodes));
     content.normalize();
   }
 
@@ -39983,18 +40029,18 @@ function useAtomValueWithDelay<Value>(
   function useGlossaryHighlighter() {
     const data = useAtomValue(glossaryDataAtom);
     const enabled = useAtomValue(glossaryModeAtom);
+    const ready = useAtomValue(dockReadyAtom);
     (0, import_react15.useEffect)(() => {
-      if (!enabled) {
-        removeGlossaryHighlights();
-        return;
-      }
-      if (Object.keys(data).length === 0) return;
+      if (!ready || Object.keys(data).length === 0) return;
       removeGlossaryHighlights();
-      applyGlossaryHighlights(data);
+      if (enabled) applyGlossaryHighlights(data);
+      // Locate only after the final highlight nodes exist, or bootstrap can
+      // replace the focused word immediately after following a glossary link.
+      processGlossaryLocateHint();
       return () => {
         removeGlossaryHighlights();
       };
-    }, [enabled, data]);
+    }, [ready, enabled, data]);
   }
 
   // src/features/glossary/components/GlossaryHighlighter.tsx
@@ -40064,7 +40110,8 @@ function useAtomValueWithDelay<Value>(
       const handler = (event) => {
         const target = event.target;
         if (!target) return;
-        const span = target.closest(".glossary-term[data-glossary-key]");
+        const button = target.closest("[data-glossary-keyboard]");
+        const span = button ? glossaryKeyboardTargets.get(button) : target.closest(".glossary-term[data-glossary-key]");
         if (!span) return;
         event.preventDefault();
         const key = span.getAttribute("data-glossary-key");
@@ -40073,8 +40120,20 @@ function useAtomValueWithDelay<Value>(
         setActiveKey(key);
         refreshAnchor();
       };
+      const onKey = (event) => {
+        if (event.key !== "Enter" && event.key !== " ") return;
+        const term = event.target.closest?.(".glossary-term[role='button']");
+        if (!term) return;
+        event.preventDefault();
+        event.stopPropagation();
+        if (!event.repeat) term.click();
+      };
       document.addEventListener("click", handler);
-      return () => document.removeEventListener("click", handler);
+      document.addEventListener("keydown", onKey, true);
+      return () => {
+        document.removeEventListener("click", handler);
+        document.removeEventListener("keydown", onKey, true);
+      };
     }, [enabled, data, refreshAnchor]);
     (0, import_react16.useEffect)(() => {
       if (!open || !activeKey) return;
@@ -40110,8 +40169,9 @@ function useAtomValueWithDelay<Value>(
         align: "center",
         anchor: () => virtualRef.current,
         className: "w-80",
+        style: { maxWidth: "min(var(--available-width, 100vw), calc(100vw - 1rem))" },
         role: "dialog",
-        "aria-label": `Definition for ${entry.word}`,
+        "aria-label": `${t("glossary-term-details") || "Glossary term details"}: ${entry.word}`,
         children: [
           (() => {
             const imageBelowText = Boolean(entry.image) && entry.word.length > 16;
@@ -43432,6 +43492,7 @@ function useAtomValueWithDelay<Value>(
 
   // src/features/audio/lib/word-highlight.ts
   var ORIGINAL_HTML_ATTR = "data-tts-original-html";
+  var WORD_PART_ATTR = "data-tts-word-part";
   var WORD_HIGHLIGHT_CLASS = "bg-yellow-300";
   var BLOCK_HIGHLIGHT_CLASS = "tts-active-block";
   var FIT_ATTR = "data-adt-fit";
@@ -43495,9 +43556,9 @@ function useAtomValueWithDelay<Value>(
   }
   function wrapWordsForElement(element, text) {
     if (element.hasAttribute(ORIGINAL_HTML_ATTR)) return;
-    element.setAttribute(ORIGINAL_HTML_ATTR, element.innerHTML);
     const segments = parseSegments(element.getAttribute("data-segments"));
     if (segments && segments.length > 0) {
+      element.setAttribute(ORIGINAL_HTML_ATTR, element.innerHTML);
       if (wrapWordsFromSegments(element, segments)) {
         refitFixedLayout(element);
         return;
@@ -43505,41 +43566,62 @@ function useAtomValueWithDelay<Value>(
       element.removeAttribute(ORIGINAL_HTML_ATTR);
       return;
     }
-    const plan = buildWordRenderPlan(text);
-    if (!plan.some((s) => s.type === "word")) {
-      element.removeAttribute(ORIGINAL_HTML_ATTR);
-      return;
-    }
-    const fragment = document.createDocumentFragment();
-    for (const segment of plan) {
-      if (segment.type === "word") {
-        const span = document.createElement("span");
-        span.setAttribute("data-word-index", String(segment.wordIndex));
-        span.textContent = segment.text;
-        fragment.appendChild(span);
-      } else {
-        fragment.appendChild(document.createTextNode(segment.text));
+    const words = Array.from(text.matchAll(WORD_PATTERN));
+    if (!words.length) return;
+    if (element.matches(".guide-callout-copy, .speech-panel")) keepSpeechTextInline(element);
+    const walker = element.ownerDocument.createTreeWalker(element, NodeFilter.SHOW_TEXT);
+    const nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+    // Insert word spans inside the existing markup so glossary terms stay
+    // clickable and the page's typography, controls and listeners are preserved.
+    let offset = 0;
+    let wordIndex = 0;
+    for (const node of nodes) {
+      const start = offset;
+      offset += node.length;
+      const fragment = element.ownerDocument.createDocumentFragment();
+      let charIndex = 0;
+      while (wordIndex < words.length && words[wordIndex].index < offset) {
+        const word = words[wordIndex];
+        const wordEnd = word.index + word[0].length;
+        const from = Math.max(0, word.index - start);
+        const to = Math.min(node.length, wordEnd - start);
+        if (to > from) {
+          if (charIndex < from) fragment.append(node.data.slice(charIndex, from));
+          const span = element.ownerDocument.createElement("span");
+          span.setAttribute(WORD_PART_ATTR, "");
+          span.dataset.wordIndex = String(wordIndex);
+          span.textContent = node.data.slice(from, to);
+          fragment.append(span);
+          charIndex = to;
+        }
+        if (wordEnd > offset) break;
+        wordIndex++;
       }
+      if (!fragment.hasChildNodes()) continue;
+      if (charIndex < node.length) fragment.append(node.data.slice(charIndex));
+      node.replaceWith(fragment);
     }
-    element.replaceChildren(fragment);
+    element.setAttribute(ORIGINAL_HTML_ATTR, "");
     refitFixedLayout(element);
   }
   function unwrapWordsForElement(element) {
     const original = element.getAttribute(ORIGINAL_HTML_ATTR);
     if (original === null) return;
-    element.innerHTML = original;
+    if (original) {
+      element.innerHTML = original;
+    } else {
+      element.querySelectorAll(`[${WORD_PART_ATTR}]`).forEach((span) => span.replaceWith(...span.childNodes));
+      element.normalize();
+    }
     element.removeAttribute(ORIGINAL_HTML_ATTR);
   }
   function setWordHighlight(element, wordIndex) {
-    const prev = element.querySelector(
-      `[data-word-index].${WORD_HIGHLIGHT_CLASS}`
-    );
-    if (prev) prev.classList.remove(WORD_HIGHLIGHT_CLASS);
+    clearWordHighlight(element);
     if (wordIndex < 0) return;
-    const target = element.querySelector(
+    element.querySelectorAll(
       `[data-word-index="${wordIndex}"]`
-    );
-    if (target) target.classList.add(WORD_HIGHLIGHT_CLASS);
+    ).forEach((span) => span.classList.add(WORD_HIGHLIGHT_CLASS));
   }
   function clearWordHighlight(element) {
     element.querySelectorAll(`[data-word-index].${WORD_HIGHLIGHT_CLASS}`).forEach((el) => el.classList.remove(WORD_HIGHLIGHT_CLASS));
@@ -44662,63 +44744,67 @@ function useAtomValueWithDelay<Value>(
   // src/features/glossary/lib/locate.ts
   var FLASH_CLASS = "glossary-flash";
   var FLASH_DURATION_MS = 3500;
-  var SKIP_PARENT_SELECTOR2 = "script, style, .glossary-flash, .glossary-popup";
   function locateGlossaryTerm(entry) {
-    if (typeof document === "undefined") return false;
     const content = document.getElementById("content");
     if (!content) return false;
-    const existing = content.querySelector(
-      `.glossary-term[data-glossary-key="${cssEscape(entry.word)}"]`
-    );
-    if (existing) {
-      flash(existing, false);
+    const existing = Array.from(content.querySelectorAll(
+      '.glossary-term[data-glossary-key="' + cssEscape(entry.word) + '"]'
+    ));
+    if (existing.length) {
+      flashGlossary(existing, false);
       return true;
     }
-    const candidates = sortedCandidates(entry);
-    const wrapped = wrapFirstMatch(content, candidates);
-    if (!wrapped) return false;
-    flash(wrapped, true);
+    const match = firstGlossaryMatch(glossaryRuns(content), entry);
+    if (!match) return false;
+    flashGlossary(wrapGlossaryMatch(match), true);
     return true;
   }
   function isGlossaryTermOnPage(entry) {
-    if (typeof document === "undefined") return false;
-    const content = document.getElementById("content");
-    if (!content) return false;
-    if (content.querySelector(
-      `.glossary-term[data-glossary-key="${cssEscape(entry.word)}"]`
-    )) {
-      return true;
-    }
-    return matchesAny(content.textContent ?? "", entry);
+    return Boolean(firstGlossaryMatch(glossaryRuns(document.getElementById("content")), entry));
   }
   async function findPageWithGlossaryTerm(entry, pages) {
-    const candidates = sortedCandidates(entry);
-    if (candidates.length === 0 || pages.length === 0) return null;
-    const re2 = buildBoundaryRegExp(candidates);
-    const results = await Promise.all(
-      pages.map(async (p) => {
-        try {
-          const res = await fetch(p.href);
-          if (!res.ok) return null;
-          const html = await res.text();
-          return re2.test(html) ? p : null;
-        } catch {
-          return null;
-        }
-      })
-    );
-    return results.find((r2) => r2 !== null) ?? null;
+    // Published section IDs also work under file:// and avoid downloading the
+    // entire book. Navigate only to hrefs from the reader's own spine.
+    if (Array.isArray(entry.pages)) {
+      const listed = new Set(entry.pages);
+      return pages.find((page) => listed.has(page.section_id)) ?? null;
+    }
+    for (const page of pages) {
+      try {
+        const response = await fetch(page.href);
+        if (!response.ok) continue;
+        const doc = new DOMParser().parseFromString(await response.text(), "text/html");
+        if (firstGlossaryMatch(glossaryRuns(doc.getElementById("content")), entry)) return page;
+      } catch {
+        // Try the next section when an older, unindexed book is incomplete.
+      }
+    }
+    return null;
   }
-  function flash(el, unwrap) {
-    el.classList.add(FLASH_CLASS);
-    scrollIntoViewWithRetry(el);
+  function flashGlossary(spans, unwrap) {
+    if (!spans.length) return;
+    for (const span of spans) span.classList.add(FLASH_CLASS);
+    const first = spans[0];
+    let target = first;
+    if (first.closest('[aria-hidden="true"]')) {
+      const copy = first.closest("[data-highlight-for],[data-source-id]");
+      const transcript = document.getElementById(copy?.dataset.highlightFor ?? copy?.dataset.sourceId ?? "");
+      target = glossaryKeyboardTargets.get(first) ??
+        (transcript && !transcript.closest('[aria-hidden="true"]') ? transcript : first.closest("section"));
+    }
+    if (target && !target.hasAttribute("tabindex")) {
+      target.tabIndex = -1;
+      target.addEventListener("blur", () => target.removeAttribute("tabindex"), { once: true });
+    }
+    target?.focus({ preventScroll: true });
+    scrollIntoViewWithRetry(first);
     window.setTimeout(() => {
-      el.classList.remove(FLASH_CLASS);
-      if (unwrap) {
-        const parent = el.parentNode;
-        if (!parent) return;
-        parent.replaceChild(document.createTextNode(el.textContent ?? ""), el);
-        parent.normalize?.();
+      for (const span of spans) {
+        span.classList.remove(FLASH_CLASS);
+        if (!unwrap) continue;
+        const remove = () => span.replaceWith(...span.childNodes);
+        if (span === document.activeElement) span.addEventListener("blur", remove, { once: true });
+        else remove();
       }
     }, FLASH_DURATION_MS);
   }
@@ -44730,59 +44816,6 @@ function useAtomValueWithDelay<Value>(
       const fullyVisible = rect.top >= 0 && rect.bottom <= window.innerHeight;
       if (!fullyVisible) el.scrollIntoView(opts);
     }, 500);
-  }
-  function wrapFirstMatch(root, terms) {
-    for (const term of terms) {
-      const re2 = new RegExp(`\\b${escapeRegExp2(term)}\\b`, "i");
-      const span = walkAndWrap(root, re2);
-      if (span) return span;
-    }
-    return null;
-  }
-  function walkAndWrap(root, re2) {
-    const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
-      acceptNode: (node2) => {
-        const parent2 = node2.parentElement;
-        if (!parent2) return NodeFilter.FILTER_REJECT;
-        if (parent2.closest(SKIP_PARENT_SELECTOR2)) return NodeFilter.FILTER_REJECT;
-        const text = node2.textContent;
-        if (!text || !text.trim()) return NodeFilter.FILTER_REJECT;
-        return re2.test(text) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
-      }
-    });
-    const node = walker.nextNode();
-    if (!node || !node.parentNode) return null;
-    const original = node.textContent ?? "";
-    const m = original.match(re2);
-    if (!m || m.index === void 0) return null;
-    const before = original.slice(0, m.index);
-    const matched = m[0];
-    const after = original.slice(m.index + matched.length);
-    const span = document.createElement("span");
-    span.textContent = matched;
-    const parent = node.parentNode;
-    if (before) parent.insertBefore(document.createTextNode(before), node);
-    parent.insertBefore(span, node);
-    if (after) parent.insertBefore(document.createTextNode(after), node);
-    parent.removeChild(node);
-    return span;
-  }
-  function sortedCandidates(entry) {
-    return [entry.word, ...entry.variations ?? []].sort(
-      (a, b) => b.length - a.length
-    );
-  }
-  function buildBoundaryRegExp(candidates) {
-    const escaped = candidates.map(escapeRegExp2).join("|");
-    return new RegExp(`\\b(?:${escaped})\\b`, "i");
-  }
-  function matchesAny(haystack, entry) {
-    const candidates = sortedCandidates(entry);
-    if (candidates.length === 0) return false;
-    return buildBoundaryRegExp(candidates).test(haystack);
-  }
-  function escapeRegExp2(s) {
-    return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   }
   function cssEscape(value) {
     if (typeof CSS !== "undefined" && typeof CSS.escape === "function") {
@@ -44805,12 +44838,23 @@ function useAtomValueWithDelay<Value>(
     if (!selected) return null;
     const entry = data[selected];
     if (!entry) return null;
-    const handleLocate = async () => {
+    const handleLocate = async (event) => {
       if (locating) return;
       if (isGlossaryTermOnPage(entry)) {
+        const panel = event.currentTarget.closest("[data-dock-panel]");
         setDockMenuValue("");
         setSelected(null);
-        requestAnimationFrame(() => locateGlossaryTerm(entry));
+        // The animated panel first restores focus to its dock trigger. Move
+        // to the requested lesson word only after that panel has unmounted.
+        const finish = () => requestAnimationFrame(() => locateGlossaryTerm(entry));
+        if (panel?.isConnected) {
+          const observer = new MutationObserver(() => {
+            if (panel.isConnected) return;
+            observer.disconnect();
+            finish();
+          });
+          observer.observe(document.body, { childList: true, subtree: true });
+        } else finish();
         return;
       }
       setLocating(true);
@@ -44822,6 +44866,8 @@ function useAtomValueWithDelay<Value>(
         setLocating(false);
         return;
       }
+      setSelected(null);
+      setDockMenuValue("");
       window.location.href = `${target.href}#glossary=${encodeURIComponent(entry.word)}`;
     };
     return /* @__PURE__ */ (0, import_jsx_runtime56.jsxs)(
@@ -44849,8 +44895,7 @@ function useAtomValueWithDelay<Value>(
               "span",
               {
                 className: "text-3xl shrink-0",
-                role: "img",
-                "aria-label": `Symbol for ${entry.word}`,
+                "aria-hidden": true,
                 children: entry.emoji
               }
             ) : null,
@@ -44918,28 +44963,22 @@ function useAtomValueWithDelay<Value>(
     const data = useAtomValue(glossaryDataAtom);
     const [glossaryMode, setGlossaryMode] = useAtom(glossaryModeAtom);
     const [tab, setTab] = useAtom(activeGlossaryTabAtom);
-    const filter = useAtomValue(glossaryFilterAtom);
+    const [filter, setFilter] = useAtom(glossaryFilterAtom);
     const [selected, setSelected] = useAtom(selectedGlossaryTermAtom);
     const allTerms = (0, import_react26.useMemo)(
-      () => Object.values(data).sort((a, b) => a.word.localeCompare(b.word)),
+      () => Object.values(data).sort((a, b) => a.word.localeCompare(b.word, "sw-TZ")),
       [data]
     );
     const pageTerms = (0, import_react26.useMemo)(() => {
-      if (typeof document === "undefined") return [];
-      const content = document.getElementById("content");
-      if (!content) return [];
-      const haystack = (content.textContent ?? "").toLowerCase();
-      if (!haystack.trim()) return [];
-      return allTerms.filter((entry) => {
-        const candidates = [entry.word, ...entry.variations ?? []];
-        return candidates.some((c) => haystack.includes(c.toLowerCase()));
-      });
+      const runs = glossaryRuns(document.getElementById("content"));
+      return new Set(allTerms.filter((entry) => firstGlossaryMatch(runs, entry)));
     }, [allTerms]);
     const filteredBookTerms = (0, import_react26.useMemo)(() => {
-      const q = filter.trim().toLowerCase();
+      const searchable = (value) => value.toLowerCase().replace(/’/g, "'");
+      const q = searchable(filter.trim());
       if (!q) return allTerms;
       return allTerms.filter(
-        (entry) => entry.word.toLowerCase().includes(q) || entry.definition.toLowerCase().includes(q) || entry.variations?.some((v2) => v2.toLowerCase().includes(q))
+        (entry) => [entry.word, entry.definition, ...entry.variations ?? []].some((value) => searchable(value).includes(q))
       );
     }, [allTerms, filter]);
     if (selected) return /* @__PURE__ */ (0, import_jsx_runtime57.jsx)(TermDetails, {});
@@ -44959,11 +44998,15 @@ function useAtomValueWithDelay<Value>(
           }
         )
       ] }),
-      /* @__PURE__ */ (0, import_jsx_runtime57.jsx)(DockContent.Search, { className: "text-lg font-semibold" }),
+      /* @__PURE__ */ (0, import_jsx_runtime57.jsx)(DockContent.Search, {
+        className: "text-lg font-semibold",
+        value: filter,
+        onChange: (event) => setFilter(event.target.value)
+      }),
       /* @__PURE__ */ (0, import_jsx_runtime57.jsxs)(
         Tabs,
         {
-          value: tab,
+          value: tab ?? (pageTerms.size ? "page" : "book"),
           onValueChange: (v2) => {
             if (typeof v2 === "string") setTab(v2);
           },
@@ -44976,7 +45019,7 @@ function useAtomValueWithDelay<Value>(
             /* @__PURE__ */ (0, import_jsx_runtime57.jsx)(TabsContent, { value: "page", className: "min-h-0", children: /* @__PURE__ */ (0, import_jsx_runtime57.jsx)(ScrollArea, { className: "h-full", children: /* @__PURE__ */ (0, import_jsx_runtime57.jsx)(
               ListItems,
               {
-                entries: pageTerms,
+                entries: filteredBookTerms.filter((entry) => pageTerms.has(entry)),
                 filter,
                 onSelect: setSelected
               }
@@ -59340,7 +59383,6 @@ ${OPTION_BASE} [${MARK_ATTR}="incorrect"] {
       applyDOMTranslations();
       initAnalytics(config.analytics);
       showMainContent();
-      processGlossaryLocateHint();
       initializeStepperActivity();
       initializeQuizActivity();
       initializeMultiSelectActivity();
@@ -59359,7 +59401,12 @@ ${OPTION_BASE} [${MARK_ATTR}="incorrect"] {
     if (typeof window === "undefined") return;
     const match = window.location.hash.match(/^#glossary=(.+)$/);
     if (!match) return;
-    const word = decodeURIComponent(match[1]);
+    let word;
+    try {
+      word = decodeURIComponent(match[1]);
+    } catch {
+      return;
+    }
     history.replaceState(
       null,
       "",
@@ -59368,6 +59415,8 @@ ${OPTION_BASE} [${MARK_ATTR}="incorrect"] {
     const store = getDefaultStore();
     const entry = store.get(glossaryDataAtom)[word];
     if (!entry) return;
+    store.set(selectedGlossaryTermAtom, null);
+    store.set(dockMenuValueAtom, "");
     if ("scrollRestoration" in history) history.scrollRestoration = "manual";
     const run = () => {
       const fonts = document.fonts;
